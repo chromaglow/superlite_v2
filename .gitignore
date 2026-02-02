@@ -1,0 +1,33 @@
+# build output
+dist/
+
+# generated types
+.astro/
+
+# dependencies
+node_modules/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# environment variables
+.env
+.env.production
+
+# macOS-specific files
+.DS_Store
+
+# Personal files (not for repo)
+*.pdf
+me.jpeg
+me2.png
+me_mesh_3.png
+
+# Qodo
+.qodo/
+
+# Claude
+.claude/
