@@ -7,7 +7,7 @@ import tailwindcss from "@tailwindcss/vite";
 // https://astro.build/config
 export default defineConfig({
   site: "https://chromaglow.github.io",
-  base: "/superlite",
+  base: "/superlite_v2",
   output: "static",
 
   integrations: [icon()],
