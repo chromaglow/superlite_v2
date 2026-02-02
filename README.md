@@ -1,5 +1,7 @@
 # Superlite Portfolio
 
+[![Deploy to GitHub Pages](https://github.com/chromaglow/superlite/actions/workflows/deploy.yml/badge.svg)](https://github.com/chromaglow/superlite/actions/workflows/deploy.yml)
+
 > A minimal, modern portfolio website for process engineering and product design work.
 
 Built with [Astro](https://astro.build/), [Tailwind CSS](https://tailwindcss.com/), and TypeScript. Based on [Tim Witzdam's Minimal Portfolio Template](https://github.com/TimWitzdam/astro-minimal-portfolio-template).
