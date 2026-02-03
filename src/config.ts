@@ -35,8 +35,20 @@ export const navBarLinks: NavBarLink[] = [
 
 export const socialLinks: SocialLink[] = [
   {
+    title: "GitHub",
+    url: "https://github.com/chromaglow",
+    icon: "mdi:github",
+    external: true,
+  },
+  {
+    title: "Support Me",
+    url: "https://www.buymeacoffee.com/chromaglow",
+    icon: "mdi:coffee",
+    external: true,
+  },
+  {
     title: "LinkedIn",
-    url: "https://www.linkedin.com/in/eshively",
+    url: "https://www.linkedin.com/in/eshively/",
     icon: "mdi:linkedin",
     external: true,
   },
