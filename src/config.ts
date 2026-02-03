@@ -41,12 +41,6 @@ export const socialLinks: SocialLink[] = [
     external: true,
   },
   {
-    title: "Support Me",
-    url: "https://www.buymeacoffee.com/chromaglow",
-    icon: "mdi:coffee",
-    external: true,
-  },
-  {
     title: "LinkedIn",
     url: "https://www.linkedin.com/in/eshively/",
     icon: "mdi:linkedin",
@@ -56,6 +50,12 @@ export const socialLinks: SocialLink[] = [
     title: "Mail",
     url: "mailto:chromaglow@gmail.com",
     icon: "mdi:email",
+  },
+  {
+    title: "Support Me",
+    url: "https://www.buymeacoffee.com/chromaglow",
+    icon: "mdi:coffee",
+    external: true,
   },
 ];
 
