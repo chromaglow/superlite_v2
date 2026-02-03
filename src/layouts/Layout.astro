@@ -2,7 +2,7 @@
 import "../styles/global.css";
 import { Image } from "astro:assets";
 import { Icon } from "astro-icon/components";
-import { navBarLinks, identity } from "../config";
+import { navBarLinks, identity, socialLinks } from "../config";
 import type { SEOInfo } from "../types/config";
 
 interface Props {
@@ -52,7 +52,7 @@ const { seo } = Astro.props;
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" type="image/svg+xml" href="/superlite_v2/favicon.svg" />
     <meta name="generator" content={Astro.generator} />
     <title>{seo.title}</title>
     <meta name="description" content={seo.description} />
@@ -118,14 +118,19 @@ const { seo } = Astro.props;
             </div>
           </div>
         </nav>
-        <div>
-          <a
-            href={`mailto:${identity.email}`}
-            class="block p-2 opacity-60 hover:opacity-100 transition-opacity"
-            aria-label="Email"
-          >
-            <Icon name="mdi:email" width={20} height={20} />
-          </a>
+        <div class="flex gap-4">
+          {
+            socialLinks.map((link) => (
+              <a
+                href={link.url}
+                target={link.external ? "_blank" : "_self"}
+                class="block p-2 opacity-60 hover:opacity-100 transition-opacity"
+                aria-label={link.title}
+              >
+                <Icon name={link.icon} width={20} height={20} />
+              </a>
+            ))
+          }
         </div>
       </div>
     </header>
