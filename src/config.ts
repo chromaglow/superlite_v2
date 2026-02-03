@@ -10,26 +10,26 @@ import type {
 
 export const identity: Identity = {
   name: "Ezra Stjärna-Shively",
-  logo: "/profile.jpg",
+  logo: "/superlite_v2/profile.jpg",
   email: "chromaglow@gmail.com",
 };
 
 export const navBarLinks: NavBarLink[] = [
   {
     title: "Home",
-    url: "/",
+    url: "/superlite_v2/",
   },
   {
     title: "About",
-    url: "/about",
+    url: "/superlite_v2/about",
   },
   {
     title: "Projects",
-    url: "/projects",
+    url: "/superlite_v2/projects",
   },
   {
     title: "Blog",
-    url: "/blog",
+    url: "/superlite_v2/blog",
   },
 ];
 
@@ -62,11 +62,11 @@ export const homePageContent: HomePageContent = {
   links: [
     {
       title: "My Projects",
-      url: "/projects",
+      url: "/superlite_v2/projects",
     },
     {
       title: "About Me",
-      url: "/about",
+      url: "/superlite_v2/about",
     },
   ],
 };
@@ -90,11 +90,11 @@ I am a Global Program Manager with a track record of turning frontline reality i
 <br/><br/>
 <strong>Design Philosophy:</strong> Good design should be as little design as possible. I believe the best solutions work so seamlessly that people don't even notice them. They just work. That's how I approach global program management: building systems that drive efficiency without creating friction. As a Global Program Manager, I focus on business transformation, strategy, and operational excellence—leading programs that remove complexity, streamline operations, and scale across global teams. I work at the intersection of data, automation, and human behavior, ensuring that every initiative is impactful, intuitive, and built for the long haul.`,
     image_l: {
-      url: "/profile.jpg",
+      url: "/superlite_v2/profile.jpg",
       alt: "Ezra Stjärna-Shively",
     },
     image_r: {
-      url: "/profile.jpg",
+      url: "/superlite_v2/profile.jpg",
       alt: "Ezra Stjärna-Shively",
     },
   },
@@ -105,8 +105,8 @@ I am a Global Program Manager with a track record of turning frontline reality i
         title: "Program Manager II | Global Technical Programs (Automation, AI, Process Engineering, Ops Tech)",
         company: {
           name: "Amazon",
-          image: "/profile.jpg",
-          url: "/work/amazon",
+          image: "/superlite_v2/profile.jpg",
+          url: "/superlite_v2/work/amazon",
         },
         date: "2020 - Present",
       },
@@ -114,7 +114,7 @@ I am a Global Program Manager with a track record of turning frontline reality i
         title: "Internet Sales Manager (Sales Strategy & Digital Operations)",
         company: {
           name: "Carter Motors",
-          image: "/profile.jpg",
+          image: "/superlite_v2/profile.jpg",
           url: "#",
         },
         date: "2016 - 2020",
@@ -123,7 +123,7 @@ I am a Global Program Manager with a track record of turning frontline reality i
         title: "Founder / Creative Director",
         company: {
           name: "TFG Label Consulting",
-          image: "/profile.jpg",
+          image: "/superlite_v2/profile.jpg",
           url: "#",
         },
         date: "2013 - 2016",
@@ -132,7 +132,7 @@ I am a Global Program Manager with a track record of turning frontline reality i
         title: "Program Manager - Innovation & Training",
         company: {
           name: "Inspired by Food",
-          image: "/profile.jpg",
+          image: "/superlite_v2/profile.jpg",
           url: "#",
         },
         date: "2010 - 2013",
@@ -141,7 +141,7 @@ I am a Global Program Manager with a track record of turning frontline reality i
         title: "Design Researcher",
         company: {
           name: "NU Research + Design",
-          image: "/profile.jpg",
+          image: "/superlite_v2/profile.jpg",
           url: "#",
         },
         date: "2007 - 2011",
@@ -166,7 +166,7 @@ export const projectsPageContent: ProjectPageContent = {
     {
       title: "Coming Soon",
       description: "Projects will be added here.",
-      image: "/demo-2.jpg",
+      image: "/superlite_v2/demo-2.jpg",
       year: "2026",
       url: "#",
     },
