@@ -14,11 +14,11 @@ const { seo } = Astro.props;
 
 <script>
   const linkMenuButton = document.getElementById(
-    "link-menu-button"
+    "link-menu-button",
   ) as HTMLButtonElement;
   const linkMenu = document.getElementById("link-menu") as HTMLDivElement;
   const openIndicator = document.getElementById(
-    "open-indicator"
+    "open-indicator",
   ) as HTMLSpanElement;
 
   linkMenuButton.addEventListener("click", () => {
@@ -120,7 +120,7 @@ const { seo } = Astro.props;
         </nav>
         <div>
           <a
-            href=`mailto:${identity.email}`
+            href={`mailto:${identity.email}`}
             class="block p-2 opacity-60 hover:opacity-100 transition-opacity"
             aria-label="Email"
           >
