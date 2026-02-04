@@ -25,7 +25,7 @@ const { Content, remarkPluginFrontmatter } = await render(entry);
   seo={{
     title: entry.data.title,
     description: entry.data.description,
-    image: entry.data.image.url,
+    image: entry.data.image.url.src,
   }}
 >
   <section class="mt-10 max-w-2xl mx-auto px-6">
