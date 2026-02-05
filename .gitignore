@@ -31,3 +31,6 @@ me_mesh_3.png
 
 # Claude
 .claude/
+
+# Autoblog temp uploads (NEVER commit - pollutes content collection)
+.temp-uploads/
