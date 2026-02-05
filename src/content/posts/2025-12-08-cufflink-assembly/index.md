@@ -153,8 +153,4 @@ Whether you're a seasoned maker or just starting your creative journey, I hope t
     <img src="/superlite_v2/posts/2025-12-08-cufflink-assembly/gallery_image_28.webp" alt="Cufflink assembly" />
     <figcaption>Gallery Image 28</figcaption>
   </figure>
-  <figure>
-    <img src="/superlite_v2/posts/2025-12-08-cufflink-assembly/me_mesh_2.webp" alt="me_mesh_2" />
-    <figcaption>me_mesh_2</figcaption>
-  </figure>
 </div>
