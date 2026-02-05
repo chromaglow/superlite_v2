@@ -34,3 +34,5 @@ me_mesh_3.png
 
 # Autoblog temp uploads (NEVER commit - pollutes content collection)
 .temp-uploads/
+_uploads/
+**/_uploads/
