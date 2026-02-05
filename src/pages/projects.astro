@@ -24,7 +24,7 @@ const posts = await getCollection("posts");
             .map((p) => ({
               title: p.data.title,
               description: p.data.description,
-              image: p.data.image.url,
+              image: p.data.image.url.src,
               year: p.data.pubDate.getFullYear().toString(),
               url: `${import.meta.env.BASE_URL}/blog/${p.id}`, // Link to the post detail page
             })),
