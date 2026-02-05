@@ -1,6 +1,6 @@
 ---
 title: "The Ultimate Guide to Mastering File Imports: Ezra Pitch V2 Unveiled"
-description: ""Revolutionize your workflow with Ezra Pitch V2 - a powerful tool that harnesses the power of LLMs, Rust, and Python to tackle complex problems with ease. Discover the ultimate guide to mastering file imports and streamline your processes.""
+description: "Revolutionize your workflow with Ezra Pitch V2 - a powerful tool that harnesses the power of LLMs, Rust, and Python to tackle complex problems with ease. Discover the ultimate guide to mastering file imports and streamline your processes."
 pubDate: 2026-02-05T14:55:56.197Z
 author: "Ezra"
 image:
