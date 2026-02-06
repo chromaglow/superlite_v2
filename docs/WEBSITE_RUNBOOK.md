@@ -131,3 +131,90 @@ The site is deployed via **GitHub Actions**.
 **Config Location:** `.github/workflows/deploy.yml`
 
 ---
+
+## 8) Removing Posts Safely
+
+When you need to remove one or more posts (for example, test posts) follow this safe, repeatable procedure. This preserves a rollback path and ensures the live GitHub Pages site is updated cleanly.
+
+1. Create a backup branch (remote)
+
+```powershell
+git checkout -b backup/remove-<post-slug>
+git push -u origin backup/remove-<post-slug>
+```
+
+Why: preserves a full snapshot of the repository before changes are made.
+
+2. Create an offline archive of the post folders (both `src` and `public` copies)
+
+```powershell
+Compress-Archive -Path \
+  src\content\posts\<post-folder>,public\posts\<post-folder> \
+  -DestinationPath .\backup-<post-slug>.zip -Force
+```
+
+Why: quick restore if you need only the post files later, and useful for audit/history.
+
+3. Search the repository for hard-coded references
+
+```powershell
+Select-String -Path "**\*" -Pattern "<post-folder-slug>" -SimpleMatch
+```
+
+Why: ensure there are no manual links or scripts outside the canonical sources that will break.
+
+4. Dry-run removal locally and build (verify before committing)
+
+```powershell
+# Remove files from the working tree but do not push yet
+git rm -r src\content\posts\<post-folder> public\posts\<post-folder>
+
+# Build and preview locally to catch issues
+npm install
+npm run build
+npm run preview
+
+# Check the local site at http://localhost:4321/superlite_v2/ and /blog
+```
+
+Why: building locally confirms there are no missing image references or build errors before affecting the live site.
+
+5. Commit and push the deletions to trigger CI/deploy
+
+```powershell
+git commit -m "chore(content): remove post <post-slug> (backed up)"
+git push origin main
+```
+
+Why: the repository's GitHub Actions will run the build and deploy the fresh `dist/` output to Pages. The workflow in `.github/workflows/deploy.yml` builds from `src`/`public` at push time, so removing canonical sources is sufficient.
+
+6. Monitor GitHub Actions and verify the site
+
+- Watch the repository `Actions` tab and wait for `Deploy to GitHub Pages` to succeed.
+- After success, verify the live site at your Pages URL to confirm the post is removed.
+
+7. Rollback (if needed)
+
+- Restore from the backup branch:
+
+```powershell
+git checkout main
+git merge origin/backup/remove-<post-slug>
+git push origin main
+```
+
+- Or restore only files from the archive:
+
+```powershell
+Expand-Archive -Path .\backup-<post-slug>.zip -DestinationPath .\ -Force
+git add .
+git commit -m "chore(content): restore post <post-slug> from backup"
+git push origin main
+```
+
+Notes and caveats:
+- Generated artifacts under `.astro/` and `dist/` are build outputs and do not need manual cleanup when removing canonical sources; the next CI build generates a fresh `dist/` without the removed posts.
+- If you maintain an RSS feed or external index, update those as needed.
+- Keep expressive commit messages and retain the backup branch for at least a short retention window.
+
+---
