@@ -2,9 +2,28 @@
 title: >-
   From Sketch to Style: Laser-Milled Mondrian Cufflinks, a Triumph of Precision
   and Passion
-date: '2026-02-07T22:17:33.616Z'
+description: >-
+  From Sketch to Style: Laser-Milled Mondrian Cufflinks, a Triumph of Precision
+  and Passion. Combining engineering and art, explore the creation of custom
+  Mondrian-inspired cufflinks through laser-cutting precision.
+pubDate: '2018-07-07T17:48:00.000Z'
+author: Ezra
+type: project
+image:
+  url: ./i_have_always_loved__mond.webp
+  alt: 9 - juPlVns
+tags:
+  - laser-crafted
+  - mondrian-inspired
+  - cufflinks
+  - engineering-and-art
+  - bauhaus-movement
+  - piet-mondrian
+  - user-experience
+  - art-history
+  - lexan-plastic
+  - project
 ---
-
 
 # Laser-Crafted Mondrian-Inspired Cufflinks: Bridging Engineering and Art
 &nbsp;
@@ -28,7 +47,7 @@ Through this project, I not only honed my technical skills but also paid homage 
 By bridging my engineering expertise with my fascination for art history, I was able to craft a unique and meaningful piece that showcases my technical abilities while reflecting my deep appreciation for the Bauhaus movement and the enduring influence of Piet Mondrian. This project was not just about creating a set of custom cufflinks; it was a personal exploration that allowed me to merge my passions and create a tangible representation of the intersection between engineering and art.
 
 
-     
+ 
 
 ## Reference Images
 
