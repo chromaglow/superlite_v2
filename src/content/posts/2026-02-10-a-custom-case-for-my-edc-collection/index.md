@@ -1,13 +1,18 @@
 ---
-title: "A Custom Case For My EDC Collection"
-description: "Discover topics like knives, DIY, Art, lasercut, collection, and the magic of the internet at Imgur, a community powered entertainment destination. Lift your spirits with funny jokes, trending memes, entertaining gifs, inspiring stories, viral videos, and so much more from users like R3ver."
-pubDate: 2026-02-10T23:30:09.661Z
-author: "Ezra"
-type: "project"
+title: A Custom Case For My EDC Collection
+description: >-
+  Discover topics like knives, DIY, Art, lasercut, collection, and the magic of
+  the internet at Imgur, a community powered entertainment destination. Lift
+  your spirits with funny jokes, trending memes, entertaining gifs, inspiring
+  stories, viral videos, and so much more from users like R3ver.
+pubDate: '2024-04-22'
+author: Ezra
+type: project
 image:
-    url: "./finished_with_the_museum_.webp"
-    alt: "Finished with the museum esq light added"
-tags: ["project"]
+  url: ./finished_with_the_museum_.webp
+  alt: Finished with the museum esq light added
+tags:
+  - project
 ---
 
 # Showcasing the Mastery of Everyday Carry
