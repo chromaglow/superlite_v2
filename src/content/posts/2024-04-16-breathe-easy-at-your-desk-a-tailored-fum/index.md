@@ -1,13 +1,29 @@
 ---
-title: "Breathe Easy at Your Desk: A Tailored Fume Extractor Keeps the Air Fresh and Your Focus Sharp"
-description: "Designed and built a custom fume evacuator for a messy desk setup with a Glowforge laser cutter. Effectively captures and extracts emissions to maintain air quality and minimize odors."
-pubDate: 2024-04-16T15:23:00.000Z
-author: "Ezra"
-type: "project"
+title: >-
+  Breathe Easy at Your Desk: A Tailored Fume Extractor Keeps the Air Fresh and
+  Your Focus Sharp
+description: >-
+  Designed and built a custom fume evacuator for a messy desk setup with a
+  Glowforge laser cutter. Effectively captures and extracts emissions to
+  maintain air quality and minimize odors.
+pubDate: '2024-04-16T15:23:00.000Z'
+author: Ezra
+type: project
 image:
-    url: "./my_idea_mounts_over_the_b.webp"
-    alt: "My idea mounts over the back do the desk and allows for independent control over air intake from the desktop and below where the glowforge is."
-tags: ["custom-fume-evacuator", "messy-desk-setup", "maker-tools", "air-quality", "workspace-organization", "in-line-ventilation", "modular-design", "desktop-footprint", "project"]
+  url: ./my_idea_mounts_over_the_b.webp
+  alt: >-
+    My idea mounts over the back do the desk and allows for independent control
+    over air intake from the desktop and below where the glowforge is.
+tags:
+  - custom-fume-evacuator
+  - messy-desk-setup
+  - maker-tools
+  - air-quality
+  - workspace-organization
+  - in-line-ventilation
+  - modular-design
+  - desktop-footprint
+  - project
 ---
 
 # Building a Custom Fume Evacuator for My Messy Desk Setup
@@ -83,7 +99,7 @@ Overall, this custom-built fume evacuator has been a game-changer for my product
   </figure>
   <figure>
     <img src="/superlite_v2/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/gallery_image_9.webp" alt="I designed and built a desktop / workspace ventilation system" />
-    <figcaption>Gallery Image 9</figcaption>
+    <figcaption> </figcaption>
   </figure>
   <figure>
     <img src="/superlite_v2/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/reinforce_and_weather_str.webp" alt="Reinforce and weather strip the opening" />
@@ -115,7 +131,7 @@ Overall, this custom-built fume evacuator has been a game-changer for my product
   </figure>
   <figure>
     <img src="/superlite_v2/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/gallery_image_17.webp" alt="I designed and built a desktop / workspace ventilation system" />
-    <figcaption>Gallery Image 17</figcaption>
+    <figcaption>Gallery </figcaption>
   </figure>
   <figure>
     <img src="/superlite_v2/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/fully_assembled.webp" alt="Fully assembled" />
