@@ -1,20 +1,34 @@
 ---
-title: "LED music visualizer complete build photos"
-description: "LED music visualizer complete build photos - Hand-soldered LED matrix display with visual effects reacting to sound. Explore the making-of process, challenges, and learnings."
-pubDate: 2024-04-16T02:33:00.000Z
-author: "Ezra"
-type: "project"
+title: LED music visualizer complete build photos
+description: >-
+  LED music visualizer complete build photos - Hand-soldered LED matrix display
+  with visual effects reacting to sound. Explore the making-of process,
+  challenges, and learnings.
+pubDate: '2024-04-16T02:33:00.000Z'
+author: Ezra
+type: project
 image:
-    url: "./my_initial_sketch.webp"
-    alt: "LED music visualizer complete build photos"
-tags: ["led-matrix", "diy-electronics", "soldering", "power-distribution", "wiring", "addressable-leds", "motion-patterns", "light-display", "visual-display", "hardware-design", "project"]
+  url: ./my_initial_sketch.webp
+  alt: LED music visualizer complete build photos
+tags:
+  - led-matrix
+  - diy-electronics
+  - soldering
+  - power-distribution
+  - wiring
+  - addressable-leds
+  - motion-patterns
+  - light-display
+  - visual-display
+  - hardware-design
+  - project
 ---
 
 # Building an LED Matrix From Scratch: What I Built and What I Learned
 
 &nbsp;
 
-##Starting With an Idea and a Lot of LEDs
+## Starting With an Idea and a Lot of LEDs
 
 &nbsp;
 
