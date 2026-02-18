@@ -1,5 +1,4 @@
 ---
-import { Image } from "astro:assets";
 import Layout from "../../layouts/Layout.astro";
 import { identity } from "../../config";
 import SocialLinkBox from "../../components/SocialLinkBox.astro";
@@ -17,119 +16,71 @@ const seo = {
   <section class="mt-10 max-w-2xl mx-auto px-6">
     <h1 class="font-bold text-3xl mb-1">Current Work</h1>
     <p class="opacity-60 mb-10">
-      Program Manager II | Global Technical Programs
+      Global Technical Program Manager II | AI/ML Automation | Process Engineering | Operations Technology
     </p>
 
-    <div class="mb-14">
-      <div class="flex items-center gap-4 mb-6">
-        <Image
-          src="/superlite_v2/profile.jpg"
-          alt="Ezra Stjärna-Shively"
-          width={60}
-          height={60}
-          class="rounded-full w-[60px] h-[60px] object-cover"
-        />
-        <div>
-          <h2 class="font-semibold text-xl">Amazon</h2>
-          <p class="opacity-60">March 2020 - Present (5 years 11 months)</p>
-          <p class="opacity-60 text-sm">Seattle, Washington, United States</p>
-        </div>
+    <div class="flex items-center gap-4 mb-6">
+      <img
+        src="/superlite_v2/assets/amazon-logo.jpg"
+        alt="Amazon"
+        width={60}
+        height={60}
+        class="rounded w-[60px] h-[60px] object-contain bg-white"
+      />
+      <div>
+        <h2 class="font-semibold text-xl">Amazon</h2>
+        <p class="opacity-60">Mar 2020 – Present · 6 yrs · Full-time</p>
+        <p class="opacity-60 text-sm">Seattle, Washington, United States · Remote</p>
       </div>
-
-      <p class="text-lg font-medium mb-4 opacity-80">
-        Automation, AI, Process Engineering, Ops Tech
-      </p>
     </div>
 
-    <div class="flex flex-col min-[410px]:flex-row mb-14">
-      <Image
-        src="/profile.jpg"
-        alt="Ezra Stjärna-Shively"
-        width={350}
-        height={250}
-        class="w-[350px] h-[250px] object-cover rounded-xl -rotate-6"
-      />
-      <Image
-        src="/profile.jpg"
-        alt="Ezra Stjärna-Shively"
-        width={150}
-        height={250}
-        class="w-[150px] h-[250px] object-cover rounded-xl rotate-6 mx-auto sm:ml-auto"
-      />
-    </div>
-  </section>
+    <p class="mb-10 opacity-80">
+      Technical program leader who architected AI/ML-enabled automation systems serving 1M+ Amazon sellers — removing 600,000+ labor hours over 5 years while delivering $17M budget impact across a 2,200-person organization.
+    </p>
 
-  <section class="my-20 max-w-2xl mx-auto px-6 sm:flex sm:gap-16">
-    <h2 class="mb-8 sm:mb-0 opacity-60 shrink-0">Impact</h2>
-    <div class="space-y-6">
+    <div class="space-y-8 mb-10">
       <div>
-        <p class="mb-4">
-          Delivered <strong>111,800 annualized labor hours removed</strong> in 2025
-          (≈62 FTE capacity) & multi-million-dollar recurring cost avoidance through
-          disciplined evaluation mechanisms, prioritization, and operating cadence.
-          Increased new work output 50% YoY (58,842 → 88,000 hours) while reducing
-          team size from 16 to 5 FTE, achieving <strong
-            >~3.5× productivity</strong
-          > per person via workflow redesign and automation.
-        </p>
+        <p class="text-sm font-semibold opacity-80 mb-3">AI/ML IMPLEMENTATION</p>
+        <ul class="space-y-2 text-sm opacity-60 list-disc pl-5">
+          <li>First person in 2,200-person org to leverage AWS Bedrock (Claude, Titan) for advanced statistical modeling</li>
+          <li>Diagnosed capacity planning problem that defeated every prior approach for 5+ years; restored forecasting accuracy from 71% error rate to 95%+</li>
+          <li>Proof-of-concept from scratch to validate feasibility before committing resources</li>
+        </ul>
       </div>
 
       <div>
-        <p class="mb-4">
-          Bar-raised quality by evaluating <strong>767 proposals</strong> and approving
-          53 implementations (7% conversion) to protect ROI, compliance, and operational
-          integrity. Scaled Associate Idea Share from pilot into a governed global
-          engine, establishing operating models, SOPs, intake standards, dashboards
-          (Asana + QuickSight), onboarding mechanism, and executive stakeholder rhythms.
-        </p>
+        <p class="text-sm font-semibold opacity-80 mb-3">PROGRAM LEADERSHIP AT SCALE</p>
+        <ul class="space-y-2 text-sm opacity-60 list-disc pl-5">
+          <li>Built Associate Idea Share program from 2-person pilot → 22-person global engine spanning 5 regions, 1M+ Amazon sellers</li>
+          <li>Drove $17M budget impact, prevented $8.6M cost leakage, architected systems running 386,000 automated cases/year without human intervention</li>
+          <li>50% YoY output increase (58,842 → 88,000 hours); team size 16 → 5 FTE; ~3.5× productivity gains</li>
+        </ul>
       </div>
 
       <div>
-        <p class="mb-4">
-          Acted as a <strong>tech–ops bridge</strong>, diagnosing routing
-          inefficiencies driving 68K monthly cases by mapping end-to-end
-          architecture across Pathfinder, Photon, and P4S. Partnered with senior
-          engineering leaders to define integration points, APIs, and edge-case
-          handling; designed a 3-phase routing solution, aligned multiple orgs,
-          scoped ~6 SDE-weeks, and drove approvals.
-        </p>
-        <p class="pl-4 border-l-2 border-current opacity-80">
-          <strong>Phase 1 forecast (Dec 2025):</strong> eliminate 386K annual cases,
-          create 64 HC capacity, remove 265K annual touches, and surface shipment
-          status for ~5M annual contacts without human intervention.
-        </p>
+        <p class="text-sm font-semibold opacity-80 mb-3">SYSTEMS THINKING</p>
+        <ul class="space-y-2 text-sm opacity-60 list-disc pl-5">
+          <li>Architect end-to-end distributed systems; partner with L7 engineers to scope SDE-weeks and define API integration points</li>
+          <li>Map human + technical systems to find intervention points</li>
+          <li>Organizations at scale: cross-org stakeholder alignment, influence without authority, operations technology</li>
+        </ul>
       </div>
 
       <div>
-        <p class="mb-4">
-          Restored <strong>metrics integrity and capacity planning</strong> by quantifying
-          model error (71% overhead vs prediction across 934 cases), resolving 10–45%
-          variance from concurrency attribution, and securing approval for AHT + single
-          concurrency rollout. Result: 10–25% forecasting accuracy improvement and
-          downstream TP90 +5% / TP99 +7% gains.
-        </p>
-      </div>
-
-      <div>
-        <p class="mb-4">
-          Drove <strong>Invent & Simplify</strong> through AI-assisted duplicate-submission
-          reduction, cutting duplicates 23.7% → 11.0%, improving unique submission
-          efficiency +16.6%, and reducing repeat duplicate submitters 75%. Prevented
-          <strong>$4.6M</strong> in unnecessary reimbursements (YTD 2023) and aligned
-          policies to avoid ~$4M annually.
-        </p>
+        <p class="text-sm font-semibold opacity-80 mb-3">ADDITIONAL</p>
+        <ul class="space-y-2 text-sm opacity-60 list-disc pl-5">
+          <li>Amazon Bar Raiser, 4-year internal leadership mentor, working board member</li>
+          <li>Founder: Shively Endowed Scholarship Fund in Columbus, Ohio</li>
+        </ul>
       </div>
     </div>
   </section>
 
-  <section class="mt-32 max-w-2xl mx-auto px-6 sm:flex sm:gap-16">
+  <section class="mt-16 max-w-2xl mx-auto px-6 sm:flex sm:gap-16">
     <h2 class="mb-8 sm:mb-0 opacity-60">Connect</h2>
     <div>
       <div class="mb-6">
-        <p>
-          Interested in discussing automation, process engineering, or technical
-          program management? Let's connect.
-        </p>
+        <p>Interested in discussing automation, process engineering, or technical program management? Let's connect.</p>
       </div>
       <div class="grid grid-cols-2 gap-2 group">
         {socialLinks.map((item) => <SocialLinkBox {...item} />)}
@@ -137,3 +88,21 @@ const seo = {
     </div>
   </section>
 </Layout>
+
+<script>
+  const amazonPhoneLink = document.querySelector('main a[href^="tel:"]') as HTMLAnchorElement | null;
+  if (amazonPhoneLink) {
+    const amazonLabel = amazonPhoneLink.querySelector('p');
+    amazonPhoneLink.addEventListener('click', (e) => {
+      const isMobile = /Android|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+      if (!isMobile && amazonLabel) {
+        e.preventDefault();
+        navigator.clipboard.writeText('+1 (415) 335-9911').then(() => {
+          const original = amazonLabel.textContent;
+          amazonLabel.textContent = 'Copied!';
+          setTimeout(() => { amazonLabel.textContent = original; }, 2000);
+        });
+      }
+    });
+  }
+</script>
