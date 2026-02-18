@@ -13,40 +13,55 @@ const connectDescription = marked.parse(aboutPageContent.connect.description)
 
 <Layout seo={aboutPageContent.seo}>
   <section class="mt-10 max-w-2xl mx-auto px-6">
-    <h1 class="font-bold text-3xl mb-1">About Ezra</h1>
+    <h1 class="font-bold text-3xl mb-1">Ezra Stjärna-Shively</h1>
     <p class="opacity-60 mb-10">{aboutPageContent.subtitle}</p>
-    <div class="mb-14">
+    <div class="mb-8 space-y-6">
       <Fragment set:html={pageDescription} />
     </div>
-    <div class="flex flex-col min-[410px]:flex-row">
-      <Image
-        src={aboutPageContent.about.image_l.url}
-        alt={aboutPageContent.about.image_l.alt}
-        width={350}
-        height={250}
-        class="w-[350px] h-[250px] object-cover rounded-xl -rotate-6"
-      />
-      <Image
-        src={aboutPageContent.about.image_r.url}
-        alt={aboutPageContent.about.image_r.alt}
-        width={150}
-        height={250}
-        class="w-[150px] h-[250px] object-cover rounded-xl rotate-6 mx-auto sm:ml-auto"
-      />
+    <div class="flex flex-wrap gap-4 mt-6 mb-10">
+      <a href="/superlite_v2/assets/ezra-stjarna-shively-resume.pdf" target="_blank" class="inline-flex items-center gap-2 px-5 py-2 rounded-lg border border-white/30 opacity-80 hover:opacity-100 transition-opacity text-sm font-medium">
+        Download Resume &darr;
+      </a>
+      <a id="phone-link" href="tel:+14153359911" class="inline-flex items-center gap-2 px-5 py-2 rounded-lg border border-white/20 opacity-60 hover:opacity-100 transition-opacity text-sm font-medium">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6.62 10.79a15.053 15.053 0 0 0 6.59 6.59l2.2-2.2a1 1 0 0 1 1.01-.24c1.12.37 2.33.57 3.58.57a1 1 0 0 1 1 1V20a1 1 0 0 1-1 1C10.61 21 3 13.39 3 4a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.25.2 2.45.57 3.58a1 1 0 0 1-.25 1.01l-2.2 2.2z"/></svg>
+        <span id="phone-label">Call or Text Me</span>
+      </a>
     </div>
   </section>
-  <section class="my-20 mt-32 max-w-2xl mx-auto px-6 sm:flex sm:gap-16">
-    <h2 class="mb-8 sm:mb-0 opacity-60">Work</h2>
-    <div>
-      <div class="mb-6">
+  <section class="my-20 max-w-2xl mx-auto px-6">
+    <!-- Work heading + description: separate row above the logo/entries grid -->
+    <div class="sm:flex sm:gap-16 mb-6">
+      <h2 class="mb-4 sm:mb-0 opacity-60 shrink-0">Work</h2>
+      <div>
         <Fragment set:html={workDescription} />
       </div>
-      <div class="grid grid-cols-1 group">
-        {aboutPageContent.work.items.map((item) => <ResumeItem {...item} />)}
+    </div>
+    <!-- Logo + entries: same grid row so tops align natively -->
+    <div class="sm:grid sm:grid-cols-[auto_1fr] sm:gap-x-16 sm:items-start">
+      <div class="hidden sm:flex sm:justify-end sm:pt-3">
+        <Image
+          src="/superlite_v2/assets/amazon-logo.jpg"
+          alt="Amazon"
+          width={40}
+          height={40}
+          class="rounded w-[40px] h-[40px] object-contain bg-white"
+        />
+      </div>
+      <div>
+        <div class="group">
+          {aboutPageContent.work.items.map((item) => <ResumeItem {...item} />)}
+        </div>
+        <div class="mt-8">
+          <p class="text-sm font-semibold opacity-80 mb-3">Technical Skills</p>
+          <p class="text-sm opacity-60 mb-4"><strong>AI/ML:</strong> AWS Bedrock · Claude · Titan · VertexAI · MLOps · Amazon Q · Prompt Engineering · Kiro</p>
+          <p class="text-sm opacity-60 mb-4"><strong>Cloud & Systems:</strong> AWS (QuickSight, Lambda, IAM, CloudTrail) · Google Apps Script · Serverless Architecture · API Integration</p>
+          <p class="text-sm opacity-60 mb-4"><strong>Automation & Tools:</strong> Visual Basic · Google Sheets CMS · Asana · OKR/KPI Frameworks · Office 365</p>
+          <p class="text-sm opacity-60"><strong>Physical Prototyping:</strong> Fusion 360 · OpenSCAD · 3D Printing · Laser Cutting · CNC Machining · NFC/IoT · Embedded Systems</p>
+        </div>
       </div>
     </div>
   </section>
-  <section class="mt-32 max-w-2xl mx-auto px-6 sm:flex sm:gap-16">
+  <section class="mt-16 max-w-2xl mx-auto px-6 sm:flex sm:gap-16">
     <h2 class="mb-8 sm:mb-0 opacity-60">Connect</h2>
     <div>
       <div class="mb-6">
@@ -62,3 +77,36 @@ const connectDescription = marked.parse(aboutPageContent.connect.description)
     </div>
   </section>
 </Layout>
+
+<script>
+  const link = document.getElementById('phone-link') as HTMLAnchorElement;
+  const label = document.getElementById('phone-label');
+  if (link && label) {
+    link.addEventListener('click', (e) => {
+      const isMobile = /Android|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+      if (!isMobile) {
+        e.preventDefault();
+        navigator.clipboard.writeText('+1 (415) 335-9911').then(() => {
+          label.textContent = 'Copied!';
+          setTimeout(() => { label.textContent = 'Call or Text Me'; }, 2000);
+        });
+      }
+    });
+  }
+
+  const connectPhoneLink = document.querySelector('a[href^="tel:"]:not(#phone-link)') as HTMLAnchorElement | null;
+  if (connectPhoneLink) {
+    const connectLabel = connectPhoneLink.querySelector('p');
+    connectPhoneLink.addEventListener('click', (e) => {
+      const isMobile = /Android|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+      if (!isMobile && connectLabel) {
+        e.preventDefault();
+        navigator.clipboard.writeText('+1 (415) 335-9911').then(() => {
+          const original = connectLabel.textContent;
+          connectLabel.textContent = 'Copied!';
+          setTimeout(() => { connectLabel.textContent = original; }, 2000);
+        });
+      }
+    });
+  }
+</script>

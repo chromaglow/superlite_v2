@@ -24,16 +24,26 @@ export const navBarLinks: NavBarLink[] = [
     url: "/superlite_v2/about",
   },
   {
-    title: "Projects",
-    url: "/superlite_v2/projects",
+    title: "Resume",
+    url: "/superlite_v2/assets/ezra-stjarna-shively-resume.pdf",
+    external: true,
   },
   {
-    title: "Blog",
-    url: "/superlite_v2/blog",
+    title: "The Lab",
+    url: "/superlite_v2/lab",
+  },
+  {
+    title: "Thinking",
+    url: "/superlite_v2/thinking",
   },
 ];
 
 export const socialLinks: SocialLink[] = [
+  {
+    title: "Call or Text Ezra",
+    url: "tel:+14153359911",
+    icon: "mdi:phone",
+  },
   {
     title: "GitHub",
     url: "https://github.com/chromaglow",
@@ -51,30 +61,24 @@ export const socialLinks: SocialLink[] = [
     url: "mailto:chromaglow@gmail.com",
     icon: "mdi:email",
   },
-  {
-    title: "Support Me",
-    url: "https://www.buymeacoffee.com/chromaglow",
-    icon: "mdi:coffee",
-    external: true,
-  },
 ];
 
 // Home (/)
 export const homePageContent: HomePageContent = {
   seo: {
-    title: "Ezra Stjärna-Shively",
+    title: "Ezra Stjärna-Shively | Director TPM · AI/ML Automation · Seattle",
     description:
-      "Global Program Manager & Process Engineer building systems that bridge technology and people. 600,000+ labor hours removed via automation-first delivery.",
+      "Director-level TPM who removed 600K+ labor hours via AI/ML automation. AWS Bedrock, global operations, open to Director & VP roles in Seattle.",
     image: identity.logo,
   },
-  role: "Global Program Manager & Process Engineer",
+  role: "Director-Level TPM | Removed 600K+ Labor Hours via AI/ML Automation | AWS Bedrock | Global Operations | Open to Director & VP Roles",
   description:
-    "I'm Ezra Stjärna-Shively, a Global Program Manager building systems that bridge technology and people. I turn frontline reality into scalable, tech-enabled mechanisms that improve business performance.",
-  socialLinks: socialLinks,
+    "If you need someone who has removed 600,000+ labor hours through AI-enabled automation, redesigned global operations for 3.5x productivity gains, and can still architect technical solutions from AWS cloud infrastructure to physical prototyping - that's the intersection I live in.",
+  socialLinks: [],
   links: [
     {
-      title: "My Projects",
-      url: "/superlite_v2/projects",
+      title: "The Lab",
+      url: "/superlite_v2/lab",
     },
     {
       title: "About Me",
@@ -86,21 +90,24 @@ export const homePageContent: HomePageContent = {
 // About (/about)
 export const aboutPageContent: AboutPageContent = {
   seo: {
-    title: "About | Ezra Stjärna-Shively",
+    title: "About | Ezra Stjärna-Shively - Director TPM · AI/ML Automation · Seattle",
     description:
-      "Global Program Manager & Process Engineer with 600,000+ labor hours removed via automation. Technical program management, systems mapping, and mechanism design.",
+      "Director-level TPM with 600K+ labor hours removed via AI/ML automation. AWS Bedrock, global operations leadership, open to Director & VP roles in Seattle.",
     image: identity.logo,
   },
-  subtitle: "Building systems that bridge technology and people",
+  subtitle: "Director-Level TPM · AI/ML Automation · AWS Bedrock · Global Operations",
   about: {
-    description: `
-I am a Global Program Manager with a track record of turning frontline reality into scalable, tech-enabled mechanisms that improve business performance.
-<br/><br/>
-<strong>Impact:</strong> 600,000+ labor hours removed/avoided (2021-2026) via global mechanisms and automation-first delivery. Most recent year: 111,800 annualized labor hours removed (≈62 FTE capacity) with 50% YoY output increase through workflow redesign.
-<br/><br/>
-<strong>Core Skills:</strong> Technical program management • Process engineering • Systems mapping & root cause discovery • Requirements & phased roadmaps • Mechanism design (SOPs, SLAs, governance) • Metrics integrity & capacity planning • Change management • Global stakeholder influence
-<br/><br/>
-<strong>Design Philosophy:</strong> Good design should be as little design as possible. I believe the best solutions work so seamlessly that people don't even notice them. They just work. That's how I approach global program management: building systems that drive efficiency without creating friction. As a Global Program Manager, I focus on business transformation, strategy, and operational excellence—leading programs that remove complexity, streamline operations, and scale across global teams. I work at the intersection of data, automation, and human behavior, ensuring that every initiative is impactful, intuitive, and built for the long haul.`,
+    description: `<p>If you need someone who has removed 600,000+ labor hours through AI-enabled automation, redesigned global operations for 3.5x productivity gains, and can still architect technical solutions from AWS cloud infrastructure to physical prototyping - that's the intersection I live in.</p>
+
+<p>At Amazon, I built the Associate Idea Share program from a 2-person pilot into a 22-person global engine spanning 5 regions and serving 1M+ Amazon sellers. Over five years, I drove $17M in budget impact, prevented $8.6M in cost leakage, and architected systems now running 386,000 automated cases per year - without human intervention.</p>
+
+<p>I was also the first person in a 2,200-person organization to leverage AWS Bedrock (Claude, Titan) for advanced statistical modeling. Using generative AI, I diagnosed a capacity planning problem that had defeated every prior approach for 5+ years, restoring forecasting accuracy from a 71% error rate to 95%+.</p>
+
+<p>What makes me different: I don't just manage technical programs - I understand the systems underneath them. I can map end-to-end distributed architecture, partner with L7 engineers to scope SDE-weeks and define API integration points, and build proof-of-concepts from scratch to validate feasibility before committing resources. Whether that's a 3-phase routing automation serving 5M contacts or a serverless NFC-enabled product prototype built for $20 in materials.</p>
+
+<p>My career arc is intentional: user-centered design research, then operational transformation, then AI/ML-enabled global programs, then technical leadership. The through-line has always been the same: understand the human system, map the technical system, find the intervention point, measure everything.</p>
+
+<p>Currently exploring Director TPM, VP Technical Operations, and Senior Program Management opportunities in Seattle where AI fluency, systems thinking, and global operational leadership create transformational impact. Let's talk.</p>`,
     image_l: {
       url: "/superlite_v2/profile.jpg",
       alt: "Ezra Stjärna-Shively",
@@ -111,22 +118,21 @@ I am a Global Program Manager with a track record of turning frontline reality i
     },
   },
   work: {
-    description: `A career spanning design research, program management, and technical operations—always focused on understanding systems and improving outcomes.`,
+    description: `A career built on understanding systems, human and technical, and redesigning them for scale.`,
     items: [
       {
-        title: "Program Manager II | Global Technical Programs (Automation, AI, Process Engineering, Ops Tech)",
+        title: "Global Technical Program Manager II | AI/ML Automation | Process Engineering | Operations Technology",
         company: {
           name: "Amazon",
-          image: "/superlite_v2/profile.jpg",
+          image: "/superlite_v2/assets/amazon-logo.jpg",
           url: "/superlite_v2/work/amazon",
         },
         date: "2020 - Present",
       },
       {
-        title: "Internet Sales Manager (Sales Strategy & Digital Operations)",
+        title: "Digital Operations & Sales Strategy Manager",
         company: {
           name: "Carter Motors",
-          image: "/superlite_v2/profile.jpg",
           url: "#",
         },
         date: "2016 - 2020",
@@ -135,7 +141,6 @@ I am a Global Program Manager with a track record of turning frontline reality i
         title: "Founder / Creative Director",
         company: {
           name: "TFG Label Consulting",
-          image: "/superlite_v2/profile.jpg",
           url: "#",
         },
         date: "2013 - 2016",
@@ -144,7 +149,6 @@ I am a Global Program Manager with a track record of turning frontline reality i
         title: "Program Manager - Innovation & Training",
         company: {
           name: "Inspired by Food",
-          image: "/superlite_v2/profile.jpg",
           url: "#",
         },
         date: "2010 - 2013",
@@ -153,7 +157,6 @@ I am a Global Program Manager with a track record of turning frontline reality i
         title: "Design Researcher",
         company: {
           name: "NU Research + Design",
-          image: "/superlite_v2/profile.jpg",
           url: "#",
         },
         date: "2007 - 2011",
@@ -161,36 +164,28 @@ I am a Global Program Manager with a track record of turning frontline reality i
     ],
   },
   connect: {
-    description: `I'm always interested in connecting with others working on automation, process engineering, or bridging the gap between technology and operations. Feel free to reach out.`,
+    description: `I'm actively exploring Director TPM, VP Technical Operations, and Senior Program Management roles in Seattle. If you're working on hard operational or AI/ML problems at scale, I'd love to connect.`,
     links: socialLinks,
   },
 };
 
-// Projects (/projects)
+// Lab (/lab)
 export const projectsPageContent: ProjectPageContent = {
   seo: {
-    title: "Projects | Ezra Stjärna-Shively",
-    description: "Selected projects and work samples.",
+    title: "The Lab | Ezra Stjärna-Shively",
+    description: "Automation systems, AI/ML tools, physical prototypes, and operational programs - built end-to-end.",
     image: identity.logo,
   },
-  subtitle: "Selected projects and work samples.",
-  projects: [
-    {
-      title: "Coming Soon",
-      description: "Projects will be added here.",
-      image: "/superlite_v2/demo-2.jpg",
-      year: "2026",
-      url: "#",
-    },
-  ],
+  subtitle: "Automation systems, AI/ML tools, physical prototypes, and operational programs - built end-to-end. Intentional capability maintenance: staying grounded in implementation reality.",
+  projects: [],
 };
 
-// Blog (/blog)
+// Thinking (/thinking)
 export const blogPageContent: BlogPageContent = {
   seo: {
-    title: "Blog | Ezra Stjärna-Shively",
-    description: "Thoughts on automation, process engineering, and building systems that work.",
+    title: "Thinking | Ezra Stjärna-Shively",
+    description: "Writing on AI/ML automation, technical program management, and building systems that scale.",
     image: identity.logo,
   },
-  subtitle: "Thoughts on automation, process engineering, and building systems.",
+  subtitle: "Writing on AI/ML automation, technical program management, and building systems that scale.",
 };

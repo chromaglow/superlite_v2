@@ -22,6 +22,7 @@ pnpm-debug.log*
 
 # Personal files (not for repo)
 *.pdf
+!public/assets/ezra-stjarna-shively-resume.pdf
 me.jpeg
 me2.png
 me_mesh_3.png

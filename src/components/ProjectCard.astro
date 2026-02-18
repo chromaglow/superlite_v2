@@ -1,5 +1,4 @@
 ---
-import { Image } from "astro:assets";
 import type { Project } from "../types/config";
 import { marked } from "marked";
 
@@ -15,12 +14,11 @@ const htmlDescription = marked.parse(description);
   class="sm:py-5 py-10 flex flex-col sm:flex-row gap-6 group-hover:opacity-60 hover:!opacity-100 transition-opacity"
 >
   <div class="h-full bg-gray-700 rounded-lg aspect-video sm:h-[150px]">
-    <Image
-      width={1920}
-      height={1080}
+    <img
       src={image}
       alt={title}
       class="w-full h-full object-cover rounded-lg aspect-video"
+      loading="lazy"
     />
   </div>
   <div>

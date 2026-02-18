@@ -15,7 +15,7 @@ const { id } = Astro.params;
 const entry = await getEntry("posts", id as string);
 
 if (!entry) {
-  return Astro.redirect("/blog");
+  return Astro.redirect("/thinking");
 }
 
 const { Content, remarkPluginFrontmatter } = await render(entry);
