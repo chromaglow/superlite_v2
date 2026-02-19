@@ -71,7 +71,7 @@ export const homePageContent: HomePageContent = {
       "Director-level TPM who removed 600K+ labor hours via AI/ML automation. AWS Bedrock, global operations, open to Director & VP roles in Seattle.",
     image: identity.logo,
   },
-  role: "Director-Level TPM | Removed 600K+ Labor Hours via AI/ML Automation | AWS Bedrock | Global Operations | Open to Director & VP Roles",
+  role: "Director-Level TPM | Removed 600K+ Labor Hours via AI/ML Automation | AWS Bedrock | Global Operations | Open to Director, VP & Senior Roles",
   description:
     "If you need someone who has removed 600,000+ labor hours through AI-enabled automation, redesigned global operations for 3.5x productivity gains, and can still architect technical solutions from AWS cloud infrastructure to physical prototyping - that's the intersection I live in.",
   socialLinks: [],
