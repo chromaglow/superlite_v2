@@ -1,0 +1,76 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { pugsPageContent } from "../config";
+
+const { seo, owner, dogs } = pugsPageContent;
+---
+
+<Layout seo={seo}>
+  <section class="mt-10 max-w-2xl mx-auto px-6 pb-20">
+
+    <!-- Header -->
+    <div class="mb-10">
+      <p class="text-xs uppercase tracking-widest opacity-50 mb-2">Lost & Found</p>
+      <h1 class="font-bold text-3xl mb-3">You Found One of My Pugs</h1>
+      <p class="opacity-70 text-sm leading-relaxed">
+        Thank you for scanning this tag and taking the time to help get them home.
+        All the information you need is below.
+      </p>
+    </div>
+
+    <!-- Owner Contact -->
+    <div class="border border-white/10 rounded-lg p-5 mb-10">
+      <p class="text-xs uppercase tracking-widest opacity-50 mb-3">Owner</p>
+      <p class="font-semibold text-lg mb-4">{owner.name}</p>
+      <div class="flex flex-col sm:flex-row gap-3">
+        <a
+          href={owner.phone}
+          class="flex-1 text-center bg-white text-black font-semibold text-sm py-3 px-4 rounded-md hover:opacity-80 transition-opacity"
+        >
+          Call or Text {owner.phoneDisplay}
+        </a>
+        <a
+          href={`mailto:${owner.email}`}
+          class="flex-1 text-center border border-white/20 text-white font-semibold text-sm py-3 px-4 rounded-md hover:opacity-80 transition-opacity"
+        >
+          Email {owner.email}
+        </a>
+      </div>
+    </div>
+
+    <!-- Dogs -->
+    <div>
+      <p class="text-xs uppercase tracking-widest opacity-50 mb-4">The Pugs</p>
+      <div class="flex flex-col gap-6">
+        {dogs.map((dog) => (
+          <div class="border border-white/10 rounded-lg p-5">
+            <!-- Photo placeholder -->
+            <div class="w-full h-48 bg-white/5 rounded-md mb-4 flex items-center justify-center">
+              <span class="text-xs opacity-30 uppercase tracking-widest">Photo coming soon</span>
+            </div>
+
+            <h2 class="font-bold text-xl mb-1">{dog.name}</h2>
+            <p class="text-xs opacity-50 mb-3">{dog.breed} · {dog.color}</p>
+
+            <p class="text-sm opacity-70 leading-relaxed mb-3">{dog.description}</p>
+
+            {dog.notes && (
+              <div class="bg-white/5 rounded-md p-3">
+                <p class="text-xs uppercase tracking-widest opacity-40 mb-1">Notes</p>
+                <p class="text-sm opacity-70">{dog.notes}</p>
+              </div>
+            )}
+          </div>
+        ))}
+      </div>
+    </div>
+
+    <!-- Footer reassurance -->
+    <div class="mt-10 text-center">
+      <p class="text-xs opacity-30">
+        Please keep them safe until we can connect. They mean everything.
+      </p>
+    </div>
+
+  </section>
+</Layout>

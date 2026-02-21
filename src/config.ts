@@ -180,6 +180,37 @@ export const projectsPageContent: ProjectPageContent = {
   projects: [],
 };
 
+// Pugs (/pugs) — hidden from nav, linked via QR code
+export const pugsPageContent = {
+  seo: {
+    title: "Found a Pug? | Ezra Stjärna-Shively",
+    description: "You found one of Ezra's pugs! Here's everything you need to get them home safely.",
+    image: identity.logo,
+  },
+  owner: {
+    name: identity.name,
+    phone: "tel:+14153359911",
+    phoneDisplay: "(415) 335-9911",
+    email: identity.email,
+  },
+  dogs: [
+    {
+      name: "Dog Name 1",
+      breed: "Pug",
+      description: "Placeholder — add description here.",
+      color: "Placeholder",
+      notes: "Placeholder — add any medical or behavioral notes here.",
+    },
+    {
+      name: "Dog Name 2",
+      breed: "Pug",
+      description: "Placeholder — add description here.",
+      color: "Placeholder",
+      notes: "Placeholder — add any medical or behavioral notes here.",
+    },
+  ],
+};
+
 // Thinking (/thinking)
 export const blogPageContent: BlogPageContent = {
   seo: {
