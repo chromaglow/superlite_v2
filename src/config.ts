@@ -99,7 +99,7 @@ export const aboutPageContent: AboutPageContent = {
   about: {
     description: `<p>If you need someone who has removed 600,000+ labor hours through AI-enabled automation, redesigned global operations for 3.5x productivity gains, and can still architect technical solutions from AWS cloud infrastructure to physical prototyping - that's the intersection I live in.</p>
 
-<p>At Amazon, I built the Associate Idea Share program from a 2-person pilot into a 22-person global engine spanning 5 regions and serving 1M+ Amazon sellers. Over five years, I drove $17M in budget impact, prevented $8.6M in cost leakage, and architected systems now running 386,000 automated cases per year - without human intervention.</p>
+<p>At Amazon, I founded AIS (Amazon's first structured frontline-to-executive feedback loop), scaling from a 2-person pilot into a 22-person global engine spanning 5 regions and serving 1M+ Amazon sellers. Over five years, I drove $17M in budget impact, prevented $8.6M in cost leakage, and architected systems now running 386,000 automated cases per year - without human intervention.</p>
 
 <p>I was also the first person in a 2,200-person organization to leverage AWS Bedrock (Claude, Titan) for advanced statistical modeling. Using generative AI, I diagnosed a capacity planning problem that had defeated every prior approach for 5+ years, cutting the forecasting error rate from 29% down to under 5%.</p>
 
