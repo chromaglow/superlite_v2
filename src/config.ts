@@ -101,7 +101,7 @@ export const aboutPageContent: AboutPageContent = {
 
 <p>At Amazon, I built the Associate Idea Share program from a 2-person pilot into a 22-person global engine spanning 5 regions and serving 1M+ Amazon sellers. Over five years, I drove $17M in budget impact, prevented $8.6M in cost leakage, and architected systems now running 386,000 automated cases per year - without human intervention.</p>
 
-<p>I was also the first person in a 2,200-person organization to leverage AWS Bedrock (Claude, Titan) for advanced statistical modeling. Using generative AI, I diagnosed a capacity planning problem that had defeated every prior approach for 5+ years, restoring forecasting accuracy from a 71% error rate to 95%+.</p>
+<p>I was also the first person in a 2,200-person organization to leverage AWS Bedrock (Claude, Titan) for advanced statistical modeling. Using generative AI, I diagnosed a capacity planning problem that had defeated every prior approach for 5+ years, cutting the forecasting error rate from 29% down to under 5%.</p>
 
 <p>What makes me different: I don't just manage technical programs - I understand the systems underneath them. I can map end-to-end distributed architecture, partner with L7 engineers to scope SDE-weeks and define API integration points, and build proof-of-concepts from scratch to validate feasibility before committing resources. Whether that's a 3-phase routing automation serving 5M contacts or a serverless NFC-enabled product prototype built for $20 in materials.</p>
 
