@@ -18,14 +18,19 @@ posts.splice(2);
   <section class="mt-10 max-w-2xl mx-auto px-6">
     <h1 class="font-bold text-3xl mb-1">{identity.name}</h1>
     <p class="opacity-60 mb-6">{homePageContent.role}</p>
-    <Image
-      src={identity.logo}
-      alt={identity.name}
-      width={100}
-      height={100}
-      densities={[1, 2, 3]}
-      class="rounded-full shrink-0 object-cover min-w-[100px] w-[100px] h-[100px] mb-6"
-    />
+    <div class="relative group w-fit mb-6">
+      <Image
+        src={identity.logo}
+        alt={identity.name}
+        width={100}
+        height={100}
+        densities={[1, 2, 3]}
+        class="rounded-full shrink-0 object-cover min-w-[100px] w-[100px] h-[100px]"
+      />
+      <div class="absolute left-[110px] top-0 w-72 bg-black/80 text-white text-sm rounded-lg px-4 py-3 opacity-0 group-hover:opacity-100 transition-opacity duration-200 pointer-events-none z-10">
+        Good design should be as little design as possible. I believe the best solutions work so seamlessly that people don't even notice them. They just work. That's how I approach global program management: building systems that drive efficiency without creating friction.
+      </div>
+    </div>
     <p class="max-w-2xl mb-2">
       {homePageContent.description}
     </p>
@@ -65,7 +70,7 @@ posts.splice(2);
     </div>
   </section>
   <section class="mt-20 max-w-2xl mx-auto px-6">
-    <h2 class="mb-8">Recent Projects & Writing</h2>
+    <h2 class="mb-8">Recent Lab Projects & Thinking</h2>
     <div class="grid grid-cols-1 gap-10 sm:gap-6 mb-10">
       {
         posts.map((post) => (
