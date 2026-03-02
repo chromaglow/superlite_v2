@@ -8,7 +8,7 @@ pubDate: '2024-04-16T02:33:00.000Z'
 author: Ezra
 type: project
 image:
-  url: ./my_initial_sketch.webp
+  url: ./in_action.webp
   alt: LED music visualizer complete build photos
 tags:
   - led-matrix
@@ -141,6 +141,10 @@ This LED matrix is not just a display. It is a record of what I learned and a pl
 
 <div class="gallery-grid">
   <figure>
+    <img src="/superlite_v2/posts/2024-04-16-led-music-visualizer-complete-build-phot/in_action.webp" alt="LED music visualizer complete build photos" />
+    <figcaption>In action</figcaption>
+  </figure>
+  <figure>
     <img src="/superlite_v2/posts/2024-04-16-led-music-visualizer-complete-build-phot/my_initial_sketch.webp" alt="LED music visualizer complete build photos" />
     <figcaption>My Initial Sketch</figcaption>
   </figure>
@@ -166,7 +170,7 @@ This LED matrix is not just a display. It is a record of what I learned and a pl
   </figure>
   <figure>
     <img src="/superlite_v2/posts/2024-04-16-led-music-visualizer-complete-build-phot/next_time_i_will_buy_a_pr.webp" alt="LED music visualizer complete build photos" />
-    <figcaption>Next time I will buy a pre-built matrix </figcaption>
+    <figcaption>Next time I will buy a pre-built matrix</figcaption>
   </figure>
   <figure>
     <img src="/superlite_v2/posts/2024-04-16-led-music-visualizer-complete-build-phot/victory__.webp" alt="LED music visualizer complete build photos" />
@@ -215,10 +219,6 @@ This LED matrix is not just a display. It is a record of what I learned and a pl
   <figure>
     <img src="/superlite_v2/posts/2024-04-16-led-music-visualizer-complete-build-phot/so_many_options_for_prett.webp" alt="LED music visualizer complete build photos" />
     <figcaption>So many options for pretty colors</figcaption>
-  </figure>
-  <figure>
-    <img src="/superlite_v2/posts/2024-04-16-led-music-visualizer-complete-build-phot/in_action.webp" alt="LED music visualizer complete build photos" />
-    <figcaption>In action</figcaption>
   </figure>
   <figure>
     <img src="/superlite_v2/posts/2024-04-16-led-music-visualizer-complete-build-phot/if_you_made_it_this_far_y.webp" alt="LED music visualizer complete build photos" />
