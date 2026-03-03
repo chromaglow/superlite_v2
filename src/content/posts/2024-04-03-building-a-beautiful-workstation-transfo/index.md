@@ -1,13 +1,29 @@
 ---
-title: "Building A Beautiful Workstation Transformed My WFH Life"
-description: "Building A Beautiful Workstation Transformed My WFH Life - Reviving the Remote Workspace: Blending Tradition and Technology"
-pubDate: 2024-04-03T05:39:00.000Z
-author: "Ezra"
-type: "project"
+title: Building A Beautiful Workstation Transformed My WFH Life
+description: >-
+  Building A Beautiful Workstation Transformed My WFH Life - Reviving the Remote
+  Workspace: Blending Tradition and Technology
+pubDate: '2024-04-03T05:39:00.000Z'
+author: Ezra
+type: project
 image:
-    url: "./struck_by_inspiration.webp"
-    alt: "I rebuilt my standing desk by woodworking a live edge slab of English Elm into desk top."
-tags: ["remote-workspace", "traditional-craftsmanship", "modern-tools", "live-edge-wood", "english-elm", "custom-workstation", "tactile-reality", "cognitive-processes", "knowledge-worker", "material-engagement", "presence-inspiration", "project"]
+  url: ./time_to_bring_my_a_game_f.webp
+  alt: >-
+    I rebuilt my standing desk by woodworking a live edge slab of English Elm
+    into desk top.
+tags:
+  - remote-workspace
+  - traditional-craftsmanship
+  - modern-tools
+  - live-edge-wood
+  - english-elm
+  - custom-workstation
+  - tactile-reality
+  - cognitive-processes
+  - knowledge-worker
+  - material-engagement
+  - presence-inspiration
+  - project
 ---
 
 ## Reviving the Remote Workspace: Blending Tradition and Technology
@@ -44,12 +60,16 @@ In an era where our work has become increasingly disembodied, the act of craftin
 
 <div class="gallery-grid">
   <figure>
+    <img src="/superlite_v2/posts/2024-04-03-building-a-beautiful-workstation-transfo/time_to_bring_my_a_game_f.webp" alt="I rebuilt my standing desk by woodworking a live edge slab of English Elm into desk top." />
+    <figcaption>Time to bring my A game for cord management next</figcaption>
+  </figure>
+  <figure>
     <img src="/superlite_v2/posts/2024-04-03-building-a-beautiful-workstation-transfo/struck_by_inspiration.webp" alt="I rebuilt my standing desk by woodworking a live edge slab of English Elm into desk top." />
     <figcaption>Struck by inspiration</figcaption>
   </figure>
   <figure>
     <img src="/superlite_v2/posts/2024-04-03-building-a-beautiful-workstation-transfo/the_finalists_.webp" alt="I rebuilt my standing desk by woodworking a live edge slab of English Elm into desk top." />
-    <figcaption>The finalists </figcaption>
+    <figcaption>The finalists</figcaption>
   </figure>
   <figure>
     <img src="/superlite_v2/posts/2024-04-03-building-a-beautiful-workstation-transfo/english_elm_was_the_winne.webp" alt="I rebuilt my standing desk by woodworking a live edge slab of English Elm into desk top." />
@@ -90,10 +110,6 @@ In an era where our work has become increasingly disembodied, the act of craftin
   <figure>
     <img src="/superlite_v2/posts/2024-04-03-building-a-beautiful-workstation-transfo/the_whole_room_is_brighte.webp" alt="I rebuilt my standing desk by woodworking a live edge slab of English Elm into desk top." />
     <figcaption>The whole room is brighter now</figcaption>
-  </figure>
-  <figure>
-    <img src="/superlite_v2/posts/2024-04-03-building-a-beautiful-workstation-transfo/time_to_bring_my_a_game_f.webp" alt="I rebuilt my standing desk by woodworking a live edge slab of English Elm into desk top." />
-    <figcaption>Time to bring my A game for cord management next</figcaption>
   </figure>
   <figure>
     <img src="/superlite_v2/posts/2024-04-03-building-a-beautiful-workstation-transfo/coasters_are_a_must.webp" alt="I rebuilt my standing desk by woodworking a live edge slab of English Elm into desk top." />
