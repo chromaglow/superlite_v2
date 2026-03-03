@@ -127,8 +127,8 @@ It moves.
     <figcaption>14K Yellow Gold</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/move2.gif" alt="move2" />
-    <figcaption>Spinning and fire</figcaption>
+    <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/mov_crop.gif" alt="mov_crop" />
+    <figcaption>spinning Fire</figcaption>
   </figure>
   <figure>
     <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511768727_pwnafvk.webp" alt="K1" />
@@ -180,11 +180,11 @@ It moves.
   </figure>
   <figure>
     <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511771693_pg4hrt7.webp" alt="PXL_20250704_020454025" />
-    <figcaption>Incubating </figcaption>
+    <figcaption>Incubating</figcaption>
   </figure>
   <figure>
     <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511771833_8yt7lj8.webp" alt="PXL_20250704_020511935" />
-    <figcaption>Too Geometric </figcaption>
+    <figcaption>Too Geometric</figcaption>
   </figure>
   <figure>
     <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511771983_ukpcsmf.webp" alt="PXL_20250705_172006312" />
@@ -228,7 +228,7 @@ It moves.
   </figure>
   <figure>
     <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511773493_2e0pbbm.webp" alt="PXL_20250709_190640719" />
-    <figcaption>Minor Variations </figcaption>
+    <figcaption>Minor Variations</figcaption>
   </figure>
   <figure>
     <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/pxl_20250711_001428971.webp" alt="PXL_20250711_001428971" />
@@ -276,7 +276,7 @@ It moves.
   </figure>
   <figure>
     <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511776311_do08x4u.webp" alt="PXL_20250724_142952467" />
-    <figcaption>Final Testing </figcaption>
+    <figcaption>Final Testing</figcaption>
   </figure>
   <figure>
     <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511776450_tryozaw.webp" alt="PXL_20250724_142958482" />
