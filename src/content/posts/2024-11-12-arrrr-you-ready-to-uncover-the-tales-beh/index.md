@@ -1,13 +1,33 @@
 ---
-title: "Arrrr You Ready to Uncover the Tales Behind Your Drinks? The Pirate Coaster Project Awaits"
-description: "The Pirate Coaster Project: Preserving history one drink at a time. Explore the stories behind iconic pirate flags with this unique coaster set that blends style and substance."
-pubDate: 2024-11-12T23:44:00.000Z
-author: "Ezra"
-type: "project"
+title: >-
+  Arrrr You Ready to Uncover the Tales Behind Your Drinks? The Pirate Coaster
+  Project Awaits
+description: >-
+  The Pirate Coaster Project: Preserving history one drink at a time. Explore
+  the stories behind iconic pirate flags with this unique coaster set that
+  blends style and substance.
+pubDate: '2024-11-12T23:44:00.000Z'
+author: Ezra
+type: project
 image:
-    url: "./arrrrrrr_you_ready_to_not.webp"
-    alt: "PXL_20240411_231332051"
-tags: ["pirate-coaster-project", "history", "piracy", "laser-etched", "wooden-coasters", "informative", "conversation-pieces", "pirate-history", "pirate-coasters", "historical-accuracy", "flag-design", "wooden-construction", "functional-art", "golden-age-of-piracy", "project"]
+  url: ./arrrrrrr_you_ready_to_not.webp
+  alt: PXL_20240411_231332051
+tags:
+  - pirate-coaster-project
+  - history
+  - piracy
+  - laser-etched
+  - wooden-coasters
+  - informative
+  - conversation-pieces
+  - pirate-history
+  - pirate-coasters
+  - historical-accuracy
+  - flag-design
+  - wooden-construction
+  - functional-art
+  - golden-age-of-piracy
+  - project
 ---
 
 The Pirate Coaster Project: Preserving History One Drink at a Time
@@ -27,7 +47,6 @@ The Pirate Coaster Project encourages users to engage with the past in a tangibl
 &nbsp;
 
 The laser-etching technique produces remarkably crisp, detailed depictions of the pirate flags, while the multi-layered wooden construction lends a sense of heft and quality. This blend of form and function elevates the coasters from mere novelty items to functional works of art, destined to become conversation pieces in any home or office.
-
 
 ## Reference Images
 
@@ -50,6 +69,6 @@ The laser-etching technique produces remarkably crisp, detailed depictions of th
   </figure>
   <figure>
     <img src="/superlite_v2/posts/2024-11-12-arrrr-you-ready-to-uncover-the-tales-beh/initial_concept_.webp" alt="PXL_20240410_234519672" />
-    <figcaption>Initial concept </figcaption>
+    <figcaption>Initial concept sketch</figcaption>
   </figure>
 </div>

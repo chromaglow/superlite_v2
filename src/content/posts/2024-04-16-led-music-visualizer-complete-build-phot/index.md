@@ -142,7 +142,7 @@ This LED matrix is not just a display. It is a record of what I learned and a pl
 <div class="gallery-grid">
   <figure>
     <img src="/superlite_v2/posts/2024-04-16-led-music-visualizer-complete-build-phot/in_action.webp" alt="LED music visualizer complete build photos" />
-    <figcaption>In action</figcaption>
+    <figcaption>In action...</figcaption>
   </figure>
   <figure>
     <img src="/superlite_v2/posts/2024-04-16-led-music-visualizer-complete-build-phot/my_initial_sketch.webp" alt="LED music visualizer complete build photos" />
