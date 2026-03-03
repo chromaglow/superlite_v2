@@ -128,11 +128,7 @@ It moves.
   </figure>
   <figure>
     <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/mov_crop.gif" alt="mov_crop" />
-    <figcaption>spinning Fire</figcaption>
-  </figure>
-  <figure>
-    <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511768727_pwnafvk.webp" alt="K1" />
-    <figcaption>In The Box</figcaption>
+    <figcaption>Fire Spinning</figcaption>
   </figure>
   <figure>
     <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511769463_8vm6xb6.webp" alt="K6" />
