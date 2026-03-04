@@ -1,13 +1,36 @@
 ---
-title: "Bring Flair Into Your Day With A Premium Sailing-Inspired Stylus"
-description: "Bring Flair Into Your Day With A Premium Sailing-Inspired Stylus"
-pubDate: 2022-07-04T21:22:00.000Z
-author: "Ezra"
-type: "project"
+title: Bring Flare Into Your Day With A Premium Sailing-Inspired Stylus
+description: Bring Flair Into Your Day With A Premium Sailing-Inspired Stylus
+pubDate: '2022-07-04T21:22:00.000Z'
+author: Ezra
+type: project
 image:
-    url: "./beauty___function_in_hand.webp"
-    alt: "imgur.com"
-tags: ["flare", "stylus", "premium", "tech-lover", "designer", "artist", "sailing", "sailing-inspired", "ergonomic", "responsive", "digital-canvas", "creative-process", "fountain-pen", "mechanical-pencil", "writing-instrument", "digital-realm", "wacom-tablet", "drawing-tablet", "silver-inlay", "fountain-pen-resin", "composite-materials", "sailing-materials", "project"]
+  url: ./beauty___function_in_hand.webp
+  alt: imgur.com
+tags:
+  - flare
+  - stylus
+  - premium
+  - tech-lover
+  - designer
+  - artist
+  - sailing
+  - sailing-inspired
+  - ergonomic
+  - responsive
+  - digital-canvas
+  - creative-process
+  - fountain-pen
+  - mechanical-pencil
+  - writing-instrument
+  - digital-realm
+  - wacom-tablet
+  - drawing-tablet
+  - silver-inlay
+  - fountain-pen-resin
+  - composite-materials
+  - sailing-materials
+  - project
 ---
 
 # Flare: A Premium Stylus For The Tech-lover With Everything 
@@ -46,7 +69,7 @@ Whether you're a professional designer, a passionate artist, or a curious maker,
 
 &nbsp;
 
-I wanted to experience the joy of a thoughtfully designed instrument that becomes an extension of your own hand. I envision it being made of inset silver inlay, traditional fountain pen resins  and  composite materials used in sailing. It aims to be a joy to hold in the hand and exciting to see on a desk. Express your ideas with precision and elegance. 
+I wanted to experience the joy of a thoughtfully designed instrument that becomes an extension of your own hand. I envision it being made of inset silver inlay, traditional fountain pen resins  and  composite materials used in sailing. It aims to be a joy to hold in the hand and exciting to see on a desk. Express your ideas with precision and elegance.
 
 ## Reference Images
 
