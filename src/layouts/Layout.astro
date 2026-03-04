@@ -13,6 +13,63 @@ const { seo } = Astro.props;
 ---
 
 <script>
+  // Lightbox
+  const lightbox = document.getElementById('lightbox') as HTMLDivElement;
+  const lightboxImg = document.getElementById('lightbox-img') as HTMLImageElement;
+  const lightboxPrev = document.getElementById('lightbox-prev') as HTMLButtonElement;
+  const lightboxNext = document.getElementById('lightbox-next') as HTMLButtonElement;
+
+  let lightboxImages: HTMLImageElement[] = [];
+  let lightboxIndex = 0;
+
+  function showLightboxImage(index: number) {
+    const img = lightboxImages[index];
+    lightboxImg.src = img.src;
+    lightboxImg.alt = img.alt;
+    lightboxIndex = index;
+    lightboxPrev.style.visibility = index === 0 ? 'hidden' : 'visible';
+    lightboxNext.style.visibility = index === lightboxImages.length - 1 ? 'hidden' : 'visible';
+  }
+
+  function closeLightbox() {
+    lightbox.style.display = 'none';
+    lightboxImg.src = '';
+  }
+
+  document.addEventListener('click', (e) => {
+    const target = e.target as HTMLElement;
+    if (target.matches('[data-lightbox], article img')) {
+      e.preventDefault();
+      e.stopPropagation();
+      lightboxImages = Array.from(document.querySelectorAll('[data-lightbox], article img')) as HTMLImageElement[];
+      const index = lightboxImages.indexOf(target as HTMLImageElement);
+      lightbox.style.display = 'flex';
+      showLightboxImage(index >= 0 ? index : 0);
+    }
+  });
+
+  lightbox.addEventListener('click', (e) => {
+    if (e.target === lightbox) closeLightbox();
+  });
+
+  lightboxPrev.addEventListener('click', (e) => {
+    e.stopPropagation();
+    if (lightboxIndex > 0) showLightboxImage(lightboxIndex - 1);
+  });
+
+  lightboxNext.addEventListener('click', (e) => {
+    e.stopPropagation();
+    if (lightboxIndex < lightboxImages.length - 1) showLightboxImage(lightboxIndex + 1);
+  });
+
+  document.addEventListener('keydown', (e) => {
+    if (lightbox.style.display === 'none') return;
+    if (e.key === 'Escape') closeLightbox();
+    if (e.key === 'ArrowLeft' && lightboxIndex > 0) showLightboxImage(lightboxIndex - 1);
+    if (e.key === 'ArrowRight' && lightboxIndex < lightboxImages.length - 1) showLightboxImage(lightboxIndex + 1);
+  });
+
+  // Phone number copy
   const navPhoneLink = document.querySelector('header a[href^="tel:"]') as HTMLAnchorElement | null;
   if (navPhoneLink) {
     navPhoneLink.addEventListener('click', (e) => {
@@ -121,6 +178,13 @@ const { seo } = Astro.props;
       <slot />
     </main>
     <footer></footer>
+
+    <!-- Lightbox overlay -->
+    <div id="lightbox" style="display:none" class="fixed inset-0 z-[200] flex items-center justify-center bg-black/90 p-4">
+      <button id="lightbox-prev" class="absolute left-4 top-1/2 -translate-y-1/2 text-white/60 hover:text-white text-5xl leading-none select-none cursor-pointer px-2">&#8249;</button>
+      <img id="lightbox-img" src="" alt="" class="max-w-full max-h-full object-contain rounded-lg cursor-zoom-out" />
+      <button id="lightbox-next" class="absolute right-4 top-1/2 -translate-y-1/2 text-white/60 hover:text-white text-5xl leading-none select-none cursor-pointer px-2">&#8250;</button>
+    </div>
   </body>
 </html>
 
@@ -157,5 +221,9 @@ const { seo } = Astro.props;
 
   .post:hover .hover-underline {
     text-decoration-color: rgba(255, 255, 255, 1);
+  }
+
+  article img {
+    cursor: zoom-in;
   }
 </style>
