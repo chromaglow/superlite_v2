@@ -15,7 +15,10 @@ const labPosts = posts.filter(
 const sortedLabPosts = [...labPosts].sort((a, b) => {
   const aDate = a.data.datePosted ?? a.data.pubDate;
   const bDate = b.data.datePosted ?? b.data.pubDate;
-  return bDate.getTime() - aDate.getTime();
+  const diff = bDate.getTime() - aDate.getTime();
+  if (diff !== 0) return diff;
+  // Tiebreak by pubDate so same-day posts sort newer project first
+  return b.data.pubDate.getTime() - a.data.pubDate.getTime();
 });
 ---
 
