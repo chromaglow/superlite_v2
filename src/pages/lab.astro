@@ -10,20 +10,13 @@ const labPosts = posts.filter(
   (p) => p.data.type === "project" || p.data.tags?.includes("project"),
 );
 
-// The post with the most recent datePosted is featured at top.
-// Everything else falls into pubDate order (descending).
-const featuredPost = labPosts.reduce<typeof labPosts[0] | null>((latest, p) => {
-  if (!p.data.datePosted) return latest;
-  if (!latest?.data.datePosted) return p;
-  return p.data.datePosted > latest.data.datePosted ? p : latest;
-}, null);
-
-const sortedLabPosts = [
-  ...(featuredPost ? [featuredPost] : []),
-  ...labPosts
-    .filter((p) => p !== featuredPost)
-    .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime()),
-];
+// Sort by datePosted descending (when the post was added to the blog).
+// Falls back to pubDate for older posts that predate the datePosted field.
+const sortedLabPosts = [...labPosts].sort((a, b) => {
+  const aDate = a.data.datePosted ?? a.data.pubDate;
+  const bDate = b.data.datePosted ?? b.data.pubDate;
+  return bDate.getTime() - aDate.getTime();
+});
 ---
 
 <Layout seo={projectsPageContent.seo}>
