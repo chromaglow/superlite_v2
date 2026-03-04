@@ -5,6 +5,25 @@ import ProjectCard from "../components/ProjectCard.astro";
 import { getCollection } from "astro:content";
 
 const posts = await getCollection("posts");
+
+const labPosts = posts.filter(
+  (p) => p.data.type === "project" || p.data.tags?.includes("project"),
+);
+
+// The post with the most recent datePosted is featured at top.
+// Everything else falls into pubDate order (descending).
+const featuredPost = labPosts.reduce<typeof labPosts[0] | null>((latest, p) => {
+  if (!p.data.datePosted) return latest;
+  if (!latest?.data.datePosted) return p;
+  return p.data.datePosted > latest.data.datePosted ? p : latest;
+}, null);
+
+const sortedLabPosts = [
+  ...(featuredPost ? [featuredPost] : []),
+  ...labPosts
+    .filter((p) => p !== featuredPost)
+    .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime()),
+];
 ---
 
 <Layout seo={projectsPageContent.seo}>
@@ -16,18 +35,13 @@ const posts = await getCollection("posts");
         // MERGED: Static projects from config + Dynamic projects from Content Collection
         [
           ...projectsPageContent.projects,
-          ...posts
-            .filter(
-              (p) =>
-                p.data.type === "project" || p.data.tags?.includes("project"),
-            )
-            .map((p) => ({
-              title: p.data.title,
-              description: p.data.description,
-              image: p.data.image.url.src,
-              year: p.data.pubDate.getFullYear().toString(),
-              url: `${import.meta.env.BASE_URL}/thinking/${p.id}`, 
-            })),
+          ...sortedLabPosts.map((p) => ({
+            title: p.data.title,
+            description: p.data.description,
+            image: p.data.image.url.src,
+            year: p.data.pubDate.getFullYear().toString(),
+            url: `${import.meta.env.BASE_URL}/thinking/${p.id}`,
+          })),
         ].map((project) => <ProjectCard {...project} />)
       }
     </div>

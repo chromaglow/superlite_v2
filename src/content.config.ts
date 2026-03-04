@@ -17,6 +17,7 @@ const postsCollection = defineCollection({
     }),
     readingTime: z.number().optional(),
     type: z.enum(["blog", "project"]).optional().default("blog"),
+    datePosted: z.coerce.date().optional(),
   }),
 });
 // Export a single `collections` object to register your collection(s)

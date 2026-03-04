@@ -95,27 +95,32 @@ Content here...
 
 ### Project
 
-Edit `src/config.ts`, add to `projects` array:
+Create `src/content/posts/YYYY-MM-DD-my-project/index.md` with `type: "project"`:
 
-```typescript
-{
-  title: "Project Name",
-  description: "What it does",
-  image: "/projects/image.jpg",
-  year: "2026",
-  url: "https://link.com"
-}
+```markdown
+---
+title: "My Project"
+pubDate: 2026-01-01
+description: "What it does"
+author: "Ezra"
+type: "project"
+datePosted: '2026-01-01'
+image:
+  url: ./cover.webp
+  alt: "Cover image"
+tags: ["project"]
+---
+
+Content here...
 ```
 
-## Future Plans
+`datePosted` controls ordering on The Lab page — the project with the most recent `datePosted` is pinned to the top. When a newer project is published, it takes the top spot automatically. Posts without `datePosted` fall into `pubDate` order.
 
-Phase 2 will add a desktop application for:
-- GUI-based content management
-- AI-powered SEO descriptions (Claude API)
-- Automatic image optimization
-- One-click publishing
+Static projects can still be added via `src/config.ts` in the `projects` array.
 
-See [TOOL_PLANNING.md](TOOL_PLANNING.md) for details.
+## Desktop Publishing Tool
+
+Content is authored and published via [superlite-autoblog](https://github.com/chromaglow/superlite-autoblog) — an Electron desktop app with a 6-step wizard, AI content generation (Claude API), Imgur scraping, image optimization, and Git push integration.
 
 ## Credits
 
