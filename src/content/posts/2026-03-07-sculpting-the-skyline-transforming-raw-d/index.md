@@ -1,14 +1,27 @@
 ---
-title: "Sculpting the Skyline: Transforming Raw Data into 3D Decor"
-description: "Sculpting the Skyline: Transforming Raw Data into 3D Decor. Explore the technical journey of mapping Manhattan in 3D, leveraging Blender and GIS data to create a detailed, immersive urban landscape."
-pubDate: 2026-03-07T00:29:26.728Z
+title: 'Sculpting the Skyline: Transforming Raw Data into 3D Decor'
+description: >-
+  Sculpting the Skyline: Transforming Raw Data into 3D Decor. Explore the
+  technical journey of mapping Manhattan in 3D, leveraging Blender and GIS data
+  to create a detailed, immersive urban landscape.
+pubDate: '2024-10-16'
 datePosted: '2026-03-07'
-author: "Ezra"
-type: "project"
+author: Ezra
+type: project
 image:
-    url: "./raw_data_from_google__gis.webp"
-    alt: "Screenshot 2026-03-06 143752"
-tags: ["3d-mapping", "manhattan", "gis-data", "blender", "3d-modeling", "urban-landscape", "3d-printing", "digital-fabrication", "data-manipulation", "project"]
+  url: ./raw_data_from_google__gis.webp
+  alt: Screenshot 2026-03-06 143752
+tags:
+  - 3d-mapping
+  - manhattan
+  - gis-data
+  - blender
+  - 3d-modeling
+  - urban-landscape
+  - 3d-printing
+  - digital-fabrication
+  - data-manipulation
+  - project
 ---
 
 # Mapping Manhattan in 3D: A Technical Exploration
@@ -58,7 +71,7 @@ Through this technical endeavor, I've gained valuable insights into the intricac
   </figure>
   <figure>
     <img src="/superlite_v2/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/looking_ne_from_financial.webp" alt="Screenshot 2026-03-06 143513" />
-    <figcaption>Looking NE from financial district </figcaption>
+    <figcaption>Looking NE from financial district</figcaption>
   </figure>
   <figure>
     <img src="/superlite_v2/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/looking_toward_brooklyn_u.webp" alt="Screenshot 2026-03-06 143630" />
@@ -94,11 +107,11 @@ Through this technical endeavor, I've gained valuable insights into the intricac
   </figure>
   <figure>
     <img src="/superlite_v2/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/all_options_.webp" alt="PXL_20240919_151210933" />
-    <figcaption>All options </figcaption>
+    <figcaption>All options</figcaption>
   </figure>
   <figure>
     <img src="/superlite_v2/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/after_breaking_into_piece.webp" alt="PXL_20241005_195320781" />
-    <figcaption>After breaking into pieces printing the outside edges. </figcaption>
+    <figcaption>After breaking into pieces printing the outside edges.</figcaption>
   </figure>
   <figure>
     <img src="/superlite_v2/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/almost_done.webp" alt="PXL_20241019_150856417" />
@@ -106,7 +119,7 @@ Through this technical endeavor, I've gained valuable insights into the intricac
   </figure>
   <figure>
     <img src="/superlite_v2/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/_up_close.webp" alt="PXL_20241019_164808586" />
-    <figcaption> up close</figcaption>
+    <figcaption>up close</figcaption>
   </figure>
   <figure>
     <img src="/superlite_v2/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/2_74_meters_end_to_end.webp" alt="PXL_20250305_142518531" />
