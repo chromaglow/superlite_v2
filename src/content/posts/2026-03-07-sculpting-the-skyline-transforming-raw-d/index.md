@@ -4,7 +4,7 @@ description: >-
   Sculpting the Skyline: Transforming Raw Data into 3D Decor. Explore the
   technical journey of mapping Manhattan in 3D, leveraging Blender and GIS data
   to create a detailed, immersive urban landscape.
-pubDate: '2024-10-16'
+pubDate: '2024-10-16T00:00:00.000Z'
 datePosted: '2026-03-07'
 author: Ezra
 type: project
@@ -28,7 +28,7 @@ tags:
 
 &nbsp;
 
-As a long-standing item on my to-do list, creating a detailed 3D map of Manhattan and its surrounding boroughs has been a project I've been eager to tackle. Being a native of the area, this endeavor held personal significance, allowing me to revisit and explore the urban landscape that my family has called home.
+As a long-standing item on my to-do list, creating a detailed 3D map of Manhattan and its surrounding boroughs has been a project I've been eager to tackle. I've long had an appreciation and love for the city, its layout and the history of Central park. My father was born in Queens and raised me in Ohio before returning there to retire after 65 years away. This endeavor holds personal significance, allowing me to revisit and explore the urban landscape.
 
 &nbsp;
 
