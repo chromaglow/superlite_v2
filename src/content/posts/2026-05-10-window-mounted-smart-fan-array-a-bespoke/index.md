@@ -1,35 +1,40 @@
 ---
-title: "Window-Mounted Smart Fan Array // A Bespoke Climate Control Build"
-description: ""
-pubDate: 2026-05-10T22:33:00.000Z
+title: Window-Mounted Smart Fan Array // A Bespoke Climate Control Build
+description: ''
+pubDate: '2026-05-10T22:33:00.000Z'
 datePosted: '2026-05-13'
-author: "Ezra"
-type: "project"
+author: Ezra
+type: project
 image:
-    url: "./the_finished_fan_in_windo.webp"
-    alt: "91"
-tags: ["ai-error", "check-logs", "project"]
+  url: ./the_finished_fan_in_windo.webp
+  alt: '91'
+tags:
+  - ai-error
+  - check-logs
+  - project
 ---
 
 Window-Mounted Smart Fan Array // A Bespoke Climate Control Build
 
 &nbsp;
 
-My home office is a dense cluster of machines, printers, and robots, and they all run hot. The window situation made a standard box fan impractical: wrong form factor for the track, awkward placement relative to the gear I'm constantly reaching for. So I did what any reasonable maker does. I designed something from scratch.
-The hardware stack is straightforward: a Raspberry Pi as the brain, a MOSFET rated for the load, a BME280 for temperature/humidity/barometric pressure, and eight Thermaltake Pure 20 200mm server fans each moving 130 CFM. That's over 1,000 CFM of airflow in a window-profile footprint. The goal was quiet, high-volume, and slim enough to disappear into the track.
+I'm excited about this project I've been playing with for the last year. I just got done with the second iteration, and I'm pretty happy with it. I spend a lot of time in my workshop or laboratory, as I call it, and I also work in that space. This small room got really well organized, but there's still a lot of 3D printers, laser cutters, robots, just machines in there, and then lighting and computers create a lot of heat. I needed to figure out a way to keep this room a little bit cooler, and based on where the window is, it's out of the way and it's a slot sliding window. It needed to be quiet, since I work from home and I'm on a lot of Zoom calls.
 
 &nbsp;
 
-The software side ended up being one of the more satisfying parts of the project. The Pi runs a self-hosted secure web server on my local network. I navigate to a URL, log in, and land on a custom dashboard with a hacker noir aesthetic. It surfaces live temperature, humidity, and pressure charts, a visual diagram of the fan array, and both automatic and manual control modes with configurable min/max temperature thresholds. It also pulls the NWS API for local hourly forecast and radar, so I'm looking at interior and exterior conditions in the same view.
+I got eight Thermaltake, 20 200 mm fans, a Raspberry Pi, a MOSFET that would control those eight fans over four channels, as well as a BME280 sensor for the Raspberry Pi so I could take ambient readings of barometric pressure, temperature, and humidity in the room constantly. I went through a couple of iterations. I learned a lot. The first version came out looking like a very rough prototype, but I did use it for the first summer. There was exposed wiring everywhere. I managed to figure out a lot of the challenges of getting the fans into a 3D printed framework.
 
 &nbsp;
 
-I went through two iterations. The first version worked but was honest about its prototype status: wiring visible, nothing pretty about the internals. The second version fixed all of that. The front face is completely clean with no visible hardware and no exposed wiring. The harness is fully internal. What you see from the front are two rare earth magnets, which serve as the attachment interface for airflow directors and magnetic covers. The Raspberry Pi and sensor enclosure sit at the bottom, with a dedicated vented cover on the sensor section to maintain accurate readings without obstructing flow.
-I also designed a small wall-mounted rack specifically for storing the covers when they're not deployed. Pull them off the array, seat them in the rack, done. It keeps the system self-contained without needing a dedicated shelf or drawer.
+I designed all the pieces in SolidWorks. The outside rigid frame holds the fans and each piece dovetails together like a puzzle piece, and fit exactly in the 30 mm wide window track. Essentially, I wanted this to be like a slim, good-looking fan that fit into that window track. I got the prototype together. It worked okay. This year it started to get warm in the spring, and I wanted to rebuild it, so I decided to tackle some of the bigger challenges. I redesigned the frames to have all the hardware be on the back so you wouldn't see the screws that mount the fans. I also flush mounted rare earth magnets in front of the frames. I put two on each fan so that it created a sort of universal mounting system where anything that I wanted to add magnets to could go there. In this case, I made covers so I don't have to have all the fans open.
 
 &nbsp;
 
-The build is modular by design. All components are built around a common attachment system, so the array could be scaled horizontally if I ever needed more coverage. It's also, because I have priorities, done in official Weyland-Yutani colorway with franchise branding throughout. If you're going to push 1,000 CFM of server fan airflow through your window, you might as well commit to the aesthetic.
+Also, I don't have to lift this thing in and out of the window. It can stay there, and I just slap a magnetic cover over the fans that are not being used, and it seals the window. That was an upgrade. As well, I also moved the electronics to the bottom of the unit, and I made them enclosed and accessible, including adding some vents to one of the covers for the brains and whatnot. Since I  created  covers for the fans, I also then created a rack that goes up on the wall next to where the fan is. When I take the covers off, they rest neatly there and wait to be used, so convenient. 
+
+&nbsp;
+
+I'm a fan of the cassette futurism, vintage technology aesthetic. I styled the whole thing to look like it is hardware from the Wayland-Yutani Corporation from the movie franchise Alien. In addition to showing the 7 days for the temperature, humidity, and pressure, I also added a weather radar map on there with 7 different filters you can look at: wind, rain, clouds, temperature, isobars, etc. I also programmed it to zoom to various different cities that interest me. I love the hacker noir dash styling and I have complete control from any device with a web browser. 
 
 ## Reference Images
 
@@ -64,7 +69,7 @@ The build is modular by design. All components are built around a common attachm
   </figure>
   <figure>
     <img src="/superlite_v2/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/fan_cover_rack_.webp" alt="93" />
-    <figcaption>Fan cover rack </figcaption>
+    <figcaption>Fan cover rack</figcaption>
   </figure>
   <figure>
     <img src="/superlite_v2/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/wall_mounted_fan_cover_ra.webp" alt="92" />
@@ -84,7 +89,7 @@ The build is modular by design. All components are built around a common attachm
   </figure>
   <figure>
     <img src="/superlite_v2/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/constructing_the_outer_fr.webp" alt="8" />
-    <figcaption>Constructing the outer frame and checking tolerances </figcaption>
+    <figcaption>Constructing the outer frame and checking tolerances</figcaption>
   </figure>
   <figure>
     <img src="/superlite_v2/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/setting_anchor_magnets_in.webp" alt="7" />
@@ -116,7 +121,7 @@ The build is modular by design. All components are built around a common attachm
   </figure>
   <figure>
     <img src="/superlite_v2/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/cleaned_up_electronics_.webp" alt="PXL_20250411_213246522" />
-    <figcaption>Cleaned up electronics </figcaption>
+    <figcaption>Cleaned up electronics</figcaption>
   </figure>
   <figure>
     <img src="/superlite_v2/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/connecting_fan_mosfet_and.webp" alt="PXL_20250411_185856551" />
