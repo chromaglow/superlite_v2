@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width" />
+  <title>Work With Me — Layout Options</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; -webkit-font-smoothing: antialiased; }
+    body { font-family: 'Inter', sans-serif; background: #000; color: #fff; padding: 40px 20px 80px; }
+    .label { font-size: 13px; letter-spacing: 0.05em; color: rgba(255,255,255,0.4); text-transform: uppercase; margin-bottom: 24px; padding: 6px 12px; border: 1px solid rgba(255,255,255,0.15); border-radius: 4px; display: inline-block; }
+    .option-header { font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: rgba(255,255,255,0.3); margin-bottom: 32px; padding-bottom: 12px; border-bottom: 1px solid rgba(255,255,255,0.08); }
+
+    /* ─── Shared typography ─── */
+    h1 { font-size: 1.6rem; font-weight: 700; margin-bottom: 4px; }
+    p { line-height: 1.7; }
+    .muted { color: rgba(255,255,255,0.6); }
+    .very-muted { color: rgba(255,255,255,0.35); }
+    .service-title { font-weight: 600; font-size: 0.95rem; margin-bottom: 6px; }
+    .service-desc { font-size: 0.875rem; color: rgba(255,255,255,0.6); line-height: 1.65; }
+    .cta-number { font-size: 1.1rem; font-weight: 500; letter-spacing: 0.02em; }
+    .cta-sub { font-size: 0.8rem; color: rgba(255,255,255,0.4); margin-top: 4px; }
+    .divider { border: none; border-top: 1px solid rgba(255,255,255,0.08); margin: 40px 0; }
+
+    /* ─── Layout: max-w-2xl centered ─── */
+    .page { max-width: 672px; margin: 0 auto; }
+
+    /* ─── OPTION A: Left-label pattern (matches About page) ─── */
+    .left-label-row { display: flex; gap: 64px; margin-bottom: 0; }
+    .left-label-col { width: 80px; flex-shrink: 0; padding-top: 2px; font-size: 0.875rem; color: rgba(255,255,255,0.45); }
+    .left-content-col { flex: 1; }
+    @media (max-width: 600px) {
+      .left-label-row { flex-direction: column; gap: 8px; }
+      .left-label-col { width: auto; }
+    }
+
+    /* ─── OPTION C: Section labels above content (stacked, no left column) ─── */
+    .stacked-label { font-size: 0.75rem; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.3); margin-bottom: 16px; }
+
+    /* Wrapper spacing */
+    .section { margin-bottom: 48px; }
+    .service-item { margin-bottom: 28px; }
+    .service-item:last-child { margin-bottom: 0; }
+  </style>
+</head>
+<body>
+
+<!-- ═══════════════════════════════════════════════════
+     OPTION A — Left-label columns (matches About page)
+     ═══════════════════════════════════════════════════ -->
+<div class="page" style="margin-bottom: 80px;">
+  <p class="option-header">Option A &mdash; Left-label columns (same as your About page)</p>
+
+  <!-- Opening: full-width, no label -->
+  <section class="section">
+    <h1 style="margin-bottom: 16px;">Work With Me</h1>
+    <p style="color: rgba(255,255,255,0.85); font-size: 0.95rem; line-height: 1.75; max-width: 540px;">
+      I work from one principle: good design is as little design as possible.
+      I've applied it to brand identities, products, and operations systems serving over a million businesses.
+      The discipline is the same regardless of the medium.
+      Start with the real problem. Include everyone it touches. Define success. Data drives the solution.
+    </p>
+  </section>
+
+  <hr class="divider" />
+
+  <!-- Services: left label -->
+  <section class="section">
+    <div class="left-label-row">
+      <div class="left-label-col">Services</div>
+      <div class="left-content-col">
+        <div class="service-item">
+          <p class="service-title">Brand identity and website builds</p>
+          <p class="service-desc">Strategy first: what does it need to say, look like, and accomplish. Everything follows from that — visual system, site design, e-commerce, fulfillment.</p>
+        </div>
+        <div class="service-item">
+          <p class="service-title">Product design and user research</p>
+          <p class="service-desc">Most product problems are definition problems — the wrong thing was built because the right question was never asked. I work at that layer: users, mental models, information architecture, interaction.</p>
+        </div>
+        <div class="service-item">
+          <p class="service-title">Operations transformation</p>
+          <p class="service-desc">I've redesigned systems that had to work for millions of businesses simultaneously. The method is the same at any scale: find the constraint, fix it at the source, measure the delta.</p>
+        </div>
+        <div class="service-item">
+          <p class="service-title">AI products, automation, and machine learning</p>
+          <p class="service-desc">The goal is always specific: reduce touches, improve forecast accuracy, create capacity, eliminate waste. Systems thinking maps where humans belong in each connected system — internal users, external customers, both.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <hr class="divider" />
+
+  <!-- Background: left label -->
+  <section class="section">
+    <div class="left-label-row">
+      <div class="left-label-col">Background</div>
+      <div class="left-content-col">
+        <p class="muted" style="font-size: 0.875rem; line-height: 1.7;">
+          Twenty years. Brand strategy, product design, and UX research. Amazon FBA and AWS — systems for over a million businesses. 600,000 labor hours removed through AI-enabled automation.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <hr class="divider" />
+
+  <!-- CTA: left label -->
+  <section class="section">
+    <div class="left-label-row">
+      <div class="left-label-col">Contact</div>
+      <div class="left-content-col">
+        <p class="cta-number">(415) 335-9911</p>
+        <p class="cta-sub">Call or text — tap to copy on desktop</p>
+      </div>
+    </div>
+  </section>
+</div>
+
+
+<!-- ═══════════════════════════════════════════════════
+     OPTION B — No labels, full-width flow, pure prose
+     ═══════════════════════════════════════════════════ -->
+<div class="page" style="margin-bottom: 80px;">
+  <p class="option-header">Option B &mdash; No labels, everything full-width</p>
+
+  <!-- Opening -->
+  <section class="section">
+    <h1 style="margin-bottom: 16px;">Work With Me</h1>
+    <p style="color: rgba(255,255,255,0.85); font-size: 0.95rem; line-height: 1.75; max-width: 540px;">
+      I work from one principle: good design is as little design as possible.
+      I've applied it to brand identities, products, and operations systems serving over a million businesses.
+      The discipline is the same regardless of the medium.
+      Start with the real problem. Include everyone it touches. Define success. Data drives the solution.
+    </p>
+  </section>
+
+  <hr class="divider" />
+
+  <!-- Services: no label, service titles carry the section -->
+  <section class="section">
+    <div class="service-item">
+      <p class="service-title">Brand identity and website builds</p>
+      <p class="service-desc">Strategy first: what does it need to say, look like, and accomplish. Everything follows from that — visual system, site design, e-commerce, fulfillment.</p>
+    </div>
+    <div class="service-item">
+      <p class="service-title">Product design and user research</p>
+      <p class="service-desc">Most product problems are definition problems — the wrong thing was built because the right question was never asked. I work at that layer: users, mental models, information architecture, interaction.</p>
+    </div>
+    <div class="service-item">
+      <p class="service-title">Operations transformation</p>
+      <p class="service-desc">I've redesigned systems that had to work for millions of businesses simultaneously. The method is the same at any scale: find the constraint, fix it at the source, measure the delta.</p>
+    </div>
+    <div class="service-item">
+      <p class="service-title">AI products, automation, and machine learning</p>
+      <p class="service-desc">The goal is always specific: reduce touches, improve forecast accuracy, create capacity, eliminate waste. Systems thinking maps where humans belong in each connected system — internal users, external customers, both.</p>
+    </div>
+  </section>
+
+  <hr class="divider" />
+
+  <!-- Background: no label, just prose -->
+  <section class="section">
+    <p class="muted" style="font-size: 0.875rem; line-height: 1.7;">
+      Twenty years. Brand strategy, product design, and UX research. Amazon FBA and AWS — systems for over a million businesses. 600,000 labor hours removed through AI-enabled automation.
+    </p>
+  </section>
+
+  <hr class="divider" />
+
+  <!-- CTA -->
+  <section class="section">
+    <p class="cta-number">(415) 335-9911</p>
+    <p class="cta-sub">Call or text — tap to copy on desktop</p>
+  </section>
+</div>
+
+
+<!-- ═══════════════════════════════════════════════════
+     OPTION C — Stacked section labels (above content)
+     ═══════════════════════════════════════════════════ -->
+<div class="page">
+  <p class="option-header">Option C &mdash; Small uppercase labels stacked above each section</p>
+
+  <!-- Opening -->
+  <section class="section">
+    <h1 style="margin-bottom: 16px;">Work With Me</h1>
+    <p style="color: rgba(255,255,255,0.85); font-size: 0.95rem; line-height: 1.75; max-width: 540px;">
+      I work from one principle: good design is as little design as possible.
+      I've applied it to brand identities, products, and operations systems serving over a million businesses.
+      The discipline is the same regardless of the medium.
+      Start with the real problem. Include everyone it touches. Define success. Data drives the solution.
+    </p>
+  </section>
+
+  <hr class="divider" />
+
+  <!-- Services: stacked label -->
+  <section class="section">
+    <p class="stacked-label">Services</p>
+    <div class="service-item">
+      <p class="service-title">Brand identity and website builds</p>
+      <p class="service-desc">Strategy first: what does it need to say, look like, and accomplish. Everything follows from that — visual system, site design, e-commerce, fulfillment.</p>
+    </div>
+    <div class="service-item">
+      <p class="service-title">Product design and user research</p>
+      <p class="service-desc">Most product problems are definition problems — the wrong thing was built because the right question was never asked. I work at that layer: users, mental models, information architecture, interaction.</p>
+    </div>
+    <div class="service-item">
+      <p class="service-title">Operations transformation</p>
+      <p class="service-desc">I've redesigned systems that had to work for millions of businesses simultaneously. The method is the same at any scale: find the constraint, fix it at the source, measure the delta.</p>
+    </div>
+    <div class="service-item">
+      <p class="service-title">AI products, automation, and machine learning</p>
+      <p class="service-desc">The goal is always specific: reduce touches, improve forecast accuracy, create capacity, eliminate waste. Systems thinking maps where humans belong in each connected system — internal users, external customers, both.</p>
+    </div>
+  </section>
+
+  <hr class="divider" />
+
+  <!-- Background: stacked label -->
+  <section class="section">
+    <p class="stacked-label">Background</p>
+    <p class="muted" style="font-size: 0.875rem; line-height: 1.7;">
+      Twenty years. Brand strategy, product design, and UX research. Amazon FBA and AWS — systems for over a million businesses. 600,000 labor hours removed through AI-enabled automation.
+    </p>
+  </section>
+
+  <hr class="divider" />
+
+  <!-- CTA: stacked label -->
+  <section class="section">
+    <p class="stacked-label">Contact</p>
+    <p class="cta-number">(415) 335-9911</p>
+    <p class="cta-sub">Call or text — tap to copy on desktop</p>
+  </section>
+</div>
+
+</body>
+</html>

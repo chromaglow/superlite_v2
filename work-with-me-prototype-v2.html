@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width" />
+  <title>Work With Me — Opening Typography Variations (Option C base)</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; -webkit-font-smoothing: antialiased; }
+    body { font-family: 'Inter', sans-serif; background: #000; color: #fff; padding: 48px 20px 100px; }
+
+    /* Shared */
+    .page { max-width: 672px; margin: 0 auto 100px; }
+    .option-header { font-size: 10px; letter-spacing: 0.14em; text-transform: uppercase; color: rgba(255,255,255,0.25); margin-bottom: 40px; padding-bottom: 12px; border-bottom: 1px solid rgba(255,255,255,0.07); }
+    .section-label { font-size: 10px; letter-spacing: 0.12em; text-transform: uppercase; color: rgba(255,255,255,0.3); margin-bottom: 20px; }
+    .divider { border: none; border-top: 1px solid rgba(255,255,255,0.08); margin: 40px 0; }
+    h1 { font-size: 1.5rem; font-weight: 700; margin-bottom: 32px; }
+    .service-item { margin-bottom: 28px; }
+    .service-title { font-weight: 600; font-size: 0.9rem; margin-bottom: 6px; }
+    .service-desc { font-size: 0.85rem; color: rgba(255,255,255,0.55); line-height: 1.65; }
+    .bg-text { font-size: 0.85rem; color: rgba(255,255,255,0.55); line-height: 1.7; }
+    .cta-number { font-size: 1.05rem; font-weight: 500; letter-spacing: 0.01em; }
+    .cta-sub { font-size: 0.75rem; color: rgba(255,255,255,0.35); margin-top: 5px; }
+
+    /* ── Shared: services + background + cta (same across all 3 variations) ── */
+    .shared-rest { margin-top: 0; }
+
+
+    /* ════════════════════════════════════════
+       VARIATION C1
+       Principle isolated. Application flows.
+       Process beats tight / close together.
+       ════════════════════════════════════════ */
+    .c1-principle {
+      font-size: 0.95rem;
+      color: rgba(255,255,255,0.45);
+      letter-spacing: 0.01em;
+      margin-bottom: 4px;
+    }
+    .c1-statement {
+      font-size: 1.45rem;
+      font-weight: 300;
+      line-height: 1.3;
+      letter-spacing: -0.01em;
+      color: rgba(255,255,255,0.95);
+      margin-bottom: 28px;
+    }
+    .c1-applied {
+      font-size: 0.9rem;
+      color: rgba(255,255,255,0.6);
+      line-height: 1.7;
+      margin-bottom: 24px;
+      max-width: 480px;
+    }
+    .c1-discipline {
+      font-size: 0.9rem;
+      font-weight: 500;
+      color: rgba(255,255,255,0.85);
+      margin-bottom: 20px;
+    }
+    .c1-beats { list-style: none; }
+    .c1-beats li {
+      font-size: 0.82rem;
+      color: rgba(255,255,255,0.5);
+      padding: 4px 0;
+      border-top: 1px solid rgba(255,255,255,0.06);
+    }
+    .c1-beats li:last-child { border-bottom: 1px solid rgba(255,255,255,0.06); }
+
+
+    /* ════════════════════════════════════════
+       VARIATION C2
+       Everything gets breathing room.
+       Each beat is its own visual moment.
+       ════════════════════════════════════════ */
+    .c2-opener {
+      font-size: 0.8rem;
+      color: rgba(255,255,255,0.35);
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      margin-bottom: 12px;
+    }
+    .c2-statement {
+      font-size: 1.55rem;
+      font-weight: 300;
+      line-height: 1.25;
+      letter-spacing: -0.015em;
+      color: #fff;
+      margin-bottom: 36px;
+    }
+    .c2-applied {
+      font-size: 0.875rem;
+      color: rgba(255,255,255,0.55);
+      line-height: 1.75;
+      max-width: 500px;
+      margin-bottom: 36px;
+    }
+    .c2-discipline {
+      font-size: 1rem;
+      font-weight: 400;
+      color: rgba(255,255,255,0.8);
+      margin-bottom: 32px;
+      font-style: italic;
+    }
+    .c2-process { }
+    .c2-beat {
+      display: flex;
+      align-items: baseline;
+      gap: 12px;
+      padding: 10px 0;
+      border-top: 1px solid rgba(255,255,255,0.06);
+    }
+    .c2-beat:last-child { border-bottom: 1px solid rgba(255,255,255,0.06); }
+    .c2-beat-num {
+      font-size: 0.7rem;
+      color: rgba(255,255,255,0.2);
+      font-variant-numeric: tabular-nums;
+      flex-shrink: 0;
+      width: 16px;
+    }
+    .c2-beat-text {
+      font-size: 0.875rem;
+      color: rgba(255,255,255,0.65);
+    }
+
+
+    /* ════════════════════════════════════════
+       VARIATION C3
+       Minimal, no ornamentation.
+       Raw line breaks. Maximum whitespace.
+       ════════════════════════════════════════ */
+    .c3-block { }
+    .c3-intro {
+      font-size: 0.8rem;
+      color: rgba(255,255,255,0.35);
+      margin-bottom: 16px;
+    }
+    .c3-statement {
+      font-size: 1.25rem;
+      font-weight: 400;
+      color: #fff;
+      line-height: 1.4;
+      margin-bottom: 32px;
+    }
+    .c3-applied {
+      font-size: 0.875rem;
+      color: rgba(255,255,255,0.55);
+      line-height: 1.7;
+      margin-bottom: 32px;
+    }
+    .c3-discipline {
+      font-size: 0.875rem;
+      color: rgba(255,255,255,0.75);
+      margin-bottom: 32px;
+    }
+    .c3-beat {
+      font-size: 0.875rem;
+      color: rgba(255,255,255,0.5);
+      line-height: 1;
+      padding: 11px 0;
+    }
+    .c3-beat + .c3-beat {
+      border-top: 1px solid rgba(255,255,255,0.06);
+    }
+  </style>
+</head>
+<body>
+
+
+<!-- ═══════════════════════════════════════════════════════════
+     VARIATION C1 — Principle small/quiet, statement large/light,
+     process as a tight ruled list
+     ═══════════════════════════════════════════════════════════ -->
+<div class="page">
+  <p class="option-header">Variation C1 &mdash; Statement large &amp; light, process as a tight ruled list</p>
+
+  <section style="margin-bottom: 40px;">
+    <h1>Work With Me</h1>
+
+    <p class="c1-principle">I work from one principle —</p>
+    <p class="c1-statement">Good design is as little design as possible.</p>
+
+    <p class="c1-applied">I've applied it to brand identities, products, and operations systems serving over a million businesses.</p>
+
+    <p class="c1-discipline">The discipline is the same regardless of the medium.</p>
+
+    <ul class="c1-beats">
+      <li>Start with the real problem.</li>
+      <li>Include everyone it touches.</li>
+      <li>Define success.</li>
+      <li>Data drives the solution.</li>
+    </ul>
+  </section>
+
+  <hr class="divider" />
+
+  <section style="margin-bottom: 40px;">
+    <p class="section-label">Services</p>
+    <div class="service-item"><p class="service-title">Brand identity and website builds</p><p class="service-desc">Strategy first: what does it need to say, look like, and accomplish. Everything follows from that — visual system, site design, e-commerce, fulfillment.</p></div>
+    <div class="service-item"><p class="service-title">Product design and user research</p><p class="service-desc">Most product problems are definition problems — the wrong thing was built because the right question was never asked. I work at that layer: users, mental models, information architecture, interaction.</p></div>
+    <div class="service-item"><p class="service-title">Operations transformation</p><p class="service-desc">I've redesigned systems that had to work for millions of businesses simultaneously. The method is the same at any scale: find the constraint, fix it at the source, measure the delta.</p></div>
+    <div class="service-item"><p class="service-title">AI products, automation, and machine learning</p><p class="service-desc">The goal is always specific: reduce touches, improve forecast accuracy, create capacity, eliminate waste. Systems thinking maps where humans belong in each connected system — internal users, external customers, both.</p></div>
+  </section>
+
+  <hr class="divider" />
+
+  <section style="margin-bottom: 40px;">
+    <p class="section-label">Background</p>
+    <p class="bg-text">Twenty years. Brand strategy, product design, and UX research. Amazon FBA and AWS — systems for over a million businesses. 600,000 labor hours removed through AI-enabled automation.</p>
+  </section>
+
+  <hr class="divider" />
+
+  <section>
+    <p class="section-label">Contact</p>
+    <p class="cta-number">(415) 335-9911</p>
+    <p class="cta-sub">Call or text — tap to copy on desktop</p>
+  </section>
+</div>
+
+
+<!-- ═══════════════════════════════════════════════════════════
+     VARIATION C2 — Most dramatic. Statement very large.
+     Process beats numbered with ruled rows + more air.
+     ═══════════════════════════════════════════════════════════ -->
+<div class="page">
+  <p class="option-header">Variation C2 &mdash; Maximum drama. Statement oversized. Numbered beats with breathing room.</p>
+
+  <section style="margin-bottom: 48px;">
+    <h1>Work With Me</h1>
+
+    <p class="c2-opener">One principle —</p>
+    <p class="c2-statement">Good design is as little<br>design as possible.</p>
+
+    <p class="c2-applied">I've applied it to brand identities, products, and operations systems serving over a million businesses.</p>
+
+    <p class="c2-discipline">The discipline is the same regardless of the medium.</p>
+
+    <div class="c2-process">
+      <div class="c2-beat"><span class="c2-beat-num">01</span><span class="c2-beat-text">Start with the real problem.</span></div>
+      <div class="c2-beat"><span class="c2-beat-num">02</span><span class="c2-beat-text">Include everyone it touches.</span></div>
+      <div class="c2-beat"><span class="c2-beat-num">03</span><span class="c2-beat-text">Define success.</span></div>
+      <div class="c2-beat"><span class="c2-beat-num">04</span><span class="c2-beat-text">Data drives the solution.</span></div>
+    </div>
+  </section>
+
+  <hr class="divider" />
+
+  <section style="margin-bottom: 40px;">
+    <p class="section-label">Services</p>
+    <div class="service-item"><p class="service-title">Brand identity and website builds</p><p class="service-desc">Strategy first: what does it need to say, look like, and accomplish. Everything follows from that — visual system, site design, e-commerce, fulfillment.</p></div>
+    <div class="service-item"><p class="service-title">Product design and user research</p><p class="service-desc">Most product problems are definition problems — the wrong thing was built because the right question was never asked. I work at that layer: users, mental models, information architecture, interaction.</p></div>
+    <div class="service-item"><p class="service-title">Operations transformation</p><p class="service-desc">I've redesigned systems that had to work for millions of businesses simultaneously. The method is the same at any scale: find the constraint, fix it at the source, measure the delta.</p></div>
+    <div class="service-item"><p class="service-title">AI products, automation, and machine learning</p><p class="service-desc">The goal is always specific: reduce touches, improve forecast accuracy, create capacity, eliminate waste. Systems thinking maps where humans belong in each connected system — internal users, external customers, both.</p></div>
+  </section>
+
+  <hr class="divider" />
+
+  <section style="margin-bottom: 40px;">
+    <p class="section-label">Background</p>
+    <p class="bg-text">Twenty years. Brand strategy, product design, and UX research. Amazon FBA and AWS — systems for over a million businesses. 600,000 labor hours removed through AI-enabled automation.</p>
+  </section>
+
+  <hr class="divider" />
+
+  <section>
+    <p class="section-label">Contact</p>
+    <p class="cta-number">(415) 335-9911</p>
+    <p class="cta-sub">Call or text — tap to copy on desktop</p>
+  </section>
+</div>
+
+
+<!-- ═══════════════════════════════════════════════════════════
+     VARIATION C3 — Absolute minimum. No ornamentation.
+     Every beat is just a line. Pure whitespace rhythm.
+     ═══════════════════════════════════════════════════════════ -->
+<div class="page">
+  <p class="option-header">Variation C3 &mdash; No decoration. Pure whitespace. Every beat is just a line.</p>
+
+  <section style="margin-bottom: 48px;">
+    <h1>Work With Me</h1>
+
+    <p class="c3-intro">I work from one principle:</p>
+    <p class="c3-statement">Good design is as little design as possible.</p>
+
+    <p class="c3-applied">I've applied it to brand identities, products, and operations systems serving over a million businesses.</p>
+
+    <p class="c3-discipline">The discipline is the same regardless of the medium.</p>
+
+    <div>
+      <p class="c3-beat">Start with the real problem.</p>
+      <p class="c3-beat">Include everyone it touches.</p>
+      <p class="c3-beat">Define success.</p>
+      <p class="c3-beat">Data drives the solution.</p>
+    </div>
+  </section>
+
+  <hr class="divider" />
+
+  <section style="margin-bottom: 40px;">
+    <p class="section-label">Services</p>
+    <div class="service-item"><p class="service-title">Brand identity and website builds</p><p class="service-desc">Strategy first: what does it need to say, look like, and accomplish. Everything follows from that — visual system, site design, e-commerce, fulfillment.</p></div>
+    <div class="service-item"><p class="service-title">Product design and user research</p><p class="service-desc">Most product problems are definition problems — the wrong thing was built because the right question was never asked. I work at that layer: users, mental models, information architecture, interaction.</p></div>
+    <div class="service-item"><p class="service-title">Operations transformation</p><p class="service-desc">I've redesigned systems that had to work for millions of businesses simultaneously. The method is the same at any scale: find the constraint, fix it at the source, measure the delta.</p></div>
+    <div class="service-item"><p class="service-title">AI products, automation, and machine learning</p><p class="service-desc">The goal is always specific: reduce touches, improve forecast accuracy, create capacity, eliminate waste. Systems thinking maps where humans belong in each connected system — internal users, external customers, both.</p></div>
+  </section>
+
+  <hr class="divider" />
+
+  <section style="margin-bottom: 40px;">
+    <p class="section-label">Background</p>
+    <p class="bg-text">Twenty years. Brand strategy, product design, and UX research. Amazon FBA and AWS — systems for over a million businesses. 600,000 labor hours removed through AI-enabled automation.</p>
+  </section>
+
+  <hr class="divider" />
+
+  <section>
+    <p class="section-label">Contact</p>
+    <p class="cta-number">(415) 335-9911</p>
+    <p class="cta-sub">Call or text — tap to copy on desktop</p>
+  </section>
+</div>
+
+
+</body>
+</html>
