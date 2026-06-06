@@ -12,6 +12,11 @@
 
 **Requirements:** TECH-01, TECH-02, TECH-03, CONTENT-01, CONTENT-02, CONTENT-03, CONTENT-04
 
+**Plans:** 1 plan
+
+Plans:
+- [ ] 01-01-PLAN.md — Add WorkWithMePageContent type and workWithMePageContent export (two file edits)
+
 **Success Criteria:**
 1. `WorkWithMePageContent` type exists in `src/types/config.ts` and covers all sections
 2. `workWithMePageContent` is exported from `src/config.ts` with complete content
