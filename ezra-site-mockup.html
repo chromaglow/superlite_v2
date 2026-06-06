@@ -17,7 +17,7 @@
       display: flex;
       align-items: center;
       justify-content: center;
-      padding: 144px 48px;
+      padding: 130px 48px;
     }
 
     /* ── DIVIDER ── */
@@ -31,7 +31,7 @@
     #content {
       background: #000;
       color: #fff;
-      padding: 120px 48px 160px;
+      padding: 30px 48px 160px;
     }
 
     #content-inner {
@@ -41,7 +41,7 @@
 
     /* Intro block */
     .intro {
-      margin-bottom: 80px;
+      margin-bottom: 54px;
     }
 
     .intro-headline {
@@ -50,7 +50,7 @@
       letter-spacing: 0.12em;
       text-transform: uppercase;
       color: #666;
-      margin-bottom: 32px;
+      margin-bottom: 0;
     }
 
     .intro-principle {
@@ -89,9 +89,9 @@
 
     /* Services */
     .services-label {
-      font-size: 11px;
+      font-size: 13px;
       font-weight: 600;
-      letter-spacing: 0.14em;
+      letter-spacing: 0.12em;
       text-transform: uppercase;
       color: #444;
       margin-bottom: 48px;
@@ -122,13 +122,114 @@
       max-width: 520px;
       text-wrap: pretty;
     }
+
+    /* ── CONTACT ICONS ── */
+    .intro-header {
+      display: flex;
+      align-items: flex-end;
+      justify-content: flex-start;
+      gap: 20px;
+      margin-bottom: 32px;
+    }
+
+    .contact-icons {
+      display: flex;
+      gap: 20px;
+      flex-shrink: 0;
+    }
+
+    .contact-icon {
+      color: #fff;
+      opacity: 0.35;
+      cursor: pointer;
+      transition: opacity 0.2s ease;
+      text-decoration: none;
+      display: flex;
+      align-items: center;
+    }
+
+    .contact-icon:hover {
+      opacity: 1;
+    }
+
+    /* ── CTA ── */
+    .cta {
+      margin-top: 36px;
+      padding-top: 36px;
+      border-top: 0.5px solid #222;
+    }
+
+    .cta-label {
+      font-size: 13px;
+      font-weight: 600;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: #444;
+      margin-bottom: 28px;
+    }
+
+    .cta-number {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      font-size: 32px;
+      font-weight: 300;
+      color: #fff;
+      letter-spacing: -0.02em;
+      text-decoration: none;
+      margin-bottom: 10px;
+    }
+
+    .cta-number svg {
+      flex-shrink: 0;
+      opacity: 0.5;
+    }
+
+    .cta-sublabel {
+      font-size: 13px;
+      font-weight: 400;
+      letter-spacing: 0.06em;
+      color: #555;
+      padding-left: 46px;
+    }
+
+    /* ── SVG NAME — responsive ── */
+    #namesvg {
+      width: 100%;
+      max-width: 660px;
+      height: auto;
+    }
+
+    /* ── MOBILE ── */
+    @media (max-width: 600px) {
+      #hero {
+        padding: 72px 32px;
+      }
+
+      #content {
+        padding: 18px 24px 100px;
+      }
+
+      .intro-principle {
+        font-size: 22px;
+      }
+
+      .cta-number {
+        font-size: 24px;
+        gap: 10px;
+      }
+
+      .cta-sublabel {
+        padding-left: 34px;
+      }
+    }
   </style>
 </head>
 <body>
 
   <!-- WHITE / NAME SECTION -->
   <section id="hero">
-    <svg id="namesvg" viewBox="0 0 593.557 66.462" width="660" fill="#000" style="overflow:visible">
+    <svg id="namesvg" viewBox="0 0 593.557 66.462" fill="#000" style="overflow:visible">
       <path opacity="0" id="f-i-body"     d="M220.389,52.061h-6.192V17.209h6.192v34.851Z"/>
       <path opacity="0" id="f-j-body"     d="M441.063,17.065h6.192v39.532c0,5.472-4.464,9.865-9.937,9.865h-3.097v-6.193h3.097c2.088,0,3.744-1.584,3.744-3.672V17.065Z"/>
       <path opacity="0" id="f-hyphen"     d="M366.763,34.923h-19.802v-6.12h19.802v6.12Z"/>
@@ -163,7 +264,22 @@
     <div id="content-inner">
 
       <div class="intro">
-        <p class="intro-headline">Let's Collaborate</p>
+        <div class="intro-header">
+          <p class="intro-headline">Let's Collaborate</p>
+          <div class="contact-icons">
+            <a class="contact-icon" href="tel:+14153359911" title="Call or text">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07A19.5 19.5 0 0 1 4.69 12 19.79 19.79 0 0 1 1.61 3.4 2 2 0 0 1 3.6 1.21h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L7.91 9a16 16 0 0 0 6.06 6.06l1.27-.95a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/>
+              </svg>
+            </a>
+            <a class="contact-icon" href="mailto:chromaglow@gmail.com" title="Email">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                <rect x="2" y="4" width="20" height="16" rx="2"/>
+                <path d="m2 7 10 7 10-7"/>
+              </svg>
+            </a>
+          </div>
+        </div>
         <p class="intro-principle">Good design is as little design as possible.</p>
         <div class="intro-body">
           <p>I've applied it to brand identities, products, and operations systems serving over a million businesses. The discipline is the same regardless of the medium.</p>
@@ -197,6 +313,17 @@
       <div class="service">
         <p class="service-title">Operations transformation</p>
         <p class="service-body">I've redesigned systems that had to work for millions of businesses simultaneously.<br>The method is the same at any scale: find the constraint, fix it at the source, measure the delta.</p>
+      </div>
+
+      <div class="cta">
+        <p class="cta-label">Get in touch</p>
+        <a class="cta-number" href="tel:+14153359911">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07A19.5 19.5 0 0 1 4.69 12 19.79 19.79 0 0 1 1.61 3.4 2 2 0 0 1 3.6 1.21h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L7.91 9a16 16 0 0 0 6.06 6.06l1.27-.95a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/>
+          </svg>
+          (415) 335-9911
+        </a>
+        <p class="cta-sublabel">Call or text</p>
       </div>
 
     </div>
