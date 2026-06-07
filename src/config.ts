@@ -6,6 +6,7 @@ import type {
   ProjectPageContent,
   BlogPageContent,
   HomePageContent,
+  WorkWithMePageContent,
 } from "./types/config";
 
 export const identity: Identity = {
@@ -219,4 +220,46 @@ export const blogPageContent: BlogPageContent = {
     image: identity.logo,
   },
   subtitle: "Writing on AI/ML automation, technical program management, and building systems that scale.",
+};
+
+// Work With Me (/work-with-me)
+export const workWithMePageContent: WorkWithMePageContent = {
+  seo: {
+    title: "Work With Me | Ezra Stjärna-Shively",
+    description: "Design, product, operations, and AI/ML work. One principle: good design is as little design as possible.",
+    image: identity.logo,
+  },
+  opening: [
+    "I work from one principle: good design is as little design as possible.",
+    "I've applied it to brand identities, products, and operations systems serving over a million businesses.",
+    "The discipline is the same regardless of the medium.",
+    "Start with the real problem.",
+    "Include everyone it touches.",
+    "Define success.",
+    "Data drives the solution.",
+  ],
+  services: [
+    {
+      title: "Brand identity and website builds",
+      description: "Strategy first: what does it need to say, look like, and accomplish. Everything follows from that — visual system, site design, e-commerce, fulfillment.",
+    },
+    {
+      title: "Product design and user research",
+      description: "Most product problems are definition problems — the wrong thing was built because the right question was never asked. I work at that layer: users, mental models, information architecture, interaction.",
+    },
+    {
+      title: "Operations transformation",
+      description: "I've redesigned systems that had to work for millions of businesses simultaneously. The method is the same at any scale: find the constraint, fix it at the source, measure the delta.",
+    },
+    {
+      title: "AI products, automation, and machine learning",
+      description: "The goal is always specific: reduce touches, improve forecast accuracy, create capacity, eliminate waste. Systems thinking maps where humans belong in each connected system — internal users, external customers, both.",
+    },
+  ],
+  background: "Twenty years. Brand strategy, product design, and UX research. Amazon FBA and AWS — systems for over a million businesses. 600,000 labor hours removed through AI-enabled automation.",
+  cta: {
+    phone: "(415) 335-9911",
+    phoneHref: "tel:+14153359911",
+    label: "Call or text",
+  },
 };
