@@ -37,6 +37,10 @@ export const navBarLinks: NavBarLink[] = [
     title: "Thinking",
     url: "/superlite_v2/thinking",
   },
+  {
+    title: "Work With Me",
+    url: "/superlite_v2/work-with-me",
+  },
 ];
 
 export const socialLinks: SocialLink[] = [
@@ -230,9 +234,8 @@ export const workWithMePageContent: WorkWithMePageContent = {
     image: identity.logo,
   },
   opening: [
-    "I work from one principle: good design is as little design as possible.",
-    "I've applied it to brand identities, products, and operations systems serving over a million businesses.",
-    "The discipline is the same regardless of the medium.",
+    "Good design is as little design as possible.",
+    "I've applied it to brand identities, products, and operations systems serving over a million businesses. The discipline is the same regardless of the medium.",
     "Start with the real problem.",
     "Include everyone it touches.",
     "Define success.",
@@ -240,23 +243,23 @@ export const workWithMePageContent: WorkWithMePageContent = {
   ],
   services: [
     {
-      title: "Brand identity and website builds",
-      description: "Strategy first: what does it need to say, look like, and accomplish. Everything follows from that — visual system, site design, e-commerce, fulfillment.",
+      title: "AI products, automation, and machine learning",
+      description: "The goal is always specific: reduce touches, improve forecast accuracy, create capacity, eliminate waste.<br>Systems thinking maps where humans belong in each connected system: internal users, external customers, both.",
     },
     {
       title: "Product design and user research",
-      description: "Most product problems are definition problems — the wrong thing was built because the right question was never asked. I work at that layer: users, mental models, information architecture, interaction.",
+      description: "Most product problems are definition problems.<br>The wrong thing was built because the right question was never asked.<br>I work at that layer: users, mental models, information architecture, interaction.",
+    },
+    {
+      title: "Brand identity and website builds",
+      description: "Strategy first: what does it need to say, look like, and accomplish.<br>Everything follows from that: visual system, site design, e-commerce, fulfillment.",
     },
     {
       title: "Operations transformation",
-      description: "I've redesigned systems that had to work for millions of businesses simultaneously. The method is the same at any scale: find the constraint, fix it at the source, measure the delta.",
-    },
-    {
-      title: "AI products, automation, and machine learning",
-      description: "The goal is always specific: reduce touches, improve forecast accuracy, create capacity, eliminate waste. Systems thinking maps where humans belong in each connected system — internal users, external customers, both.",
+      description: "I've redesigned systems that had to work for millions of businesses simultaneously.<br>The method is the same at any scale: find the constraint, fix it at the source, measure the delta.",
     },
   ],
-  background: "Twenty years. Brand strategy, product design, and UX research. Amazon FBA and AWS — systems for over a million businesses. 600,000 labor hours removed through AI-enabled automation.",
+  background: "Twenty years. Brand strategy, product design, and UX research.<br>Amazon FBA and AWS, systems for over a million businesses.<br>600,000 labor hours removed through AI-enabled automation.",
   cta: {
     phone: "(415) 335-9911",
     phoneHref: "tel:+14153359911",

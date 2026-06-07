@@ -8,14 +8,25 @@ Design philosophy: **good design is as little design as possible.** Every decisi
 
 ---
 
-## Current Focus
+## Status
 
-Building a `/work-with-me` consulting page. Two phases:
+`/work-with-me` page is **complete and built**. Hosted independently by Ezra (not via the GitHub Pages deploy pipeline for this repo).
 
-- **Phase 01** — Content + type system (`src/types/config.ts`, `src/config.ts`) — PLANNED, ready to execute
-- **Phase 02** — Astro page + nav — pending Phase 01
+### What's done
+- `src/types/config.ts` — `WorkWithMePageContent` and `ServiceItem` types added
+- `src/config.ts` — `workWithMePageContent` export with all locked copy, correct service order (AI → Product → Brand → Ops), `<br>` tags in service descriptions, `background` field with `<br>` breaks
+- `src/pages/work-with-me.astro` — standalone page, custom layout (no `Layout.astro`), no nav bar, matches `ezra-site-mockup.html` exactly
+- `navBarLinks` in `src/config.ts` — "Work With Me" link added, appears in nav on all other pages
 
-GSD planning files live in `.planning/`. Phase 01 plan: `.planning/phases/01-content-type-system/01-01-PLAN.md`
+### What works
+- Full page renders correctly and matches the mockup
+- SVG name animation: letters fade in center-out with stagger, content fades in at midpoint
+- Dot flicker (i, j, ä-dots): fires post-intro using `setAttribute('opacity')` — DEPTH=80, SPEED_MS=5000, INTERVAL=15000 (all mockup values, do not change)
+- Copy-to-clipboard on desktop for both the CTA phone number and the small header phone icon
+- Mobile responsive layout
+
+### Next session — NAV
+The nav on other pages now has 6 items including "Work With Me" (the longest label). On mobile the nav uses `justify-between` — 6 items is likely too tight. **Do not touch nav layout until next session.** The /work-with-me page itself intentionally has no nav bar — that's correct by design.
 
 ---
 
@@ -49,7 +60,7 @@ Key design decisions from the mockup:
 - All `<path>` elements have `opacity="0"` as an SVG attribute — prevents flash on load
 - Flicker uses `setAttribute('opacity')`, NOT `el.style.opacity` — SVG paths require attribute, not CSS
 - The `requestAnimationFrame` double-frame delay before intro starts must stay — removing it causes transitions to fire before reset paints
-- Flicker `DEPTH` is set to `80` for testing — reduce to `~15` for production
+- Flicker `DEPTH` is `80` — this is the correct production value, do not change it
 
 ---
 
@@ -91,7 +102,7 @@ Key design decisions from the mockup:
 - **Types** in `src/types/config.ts` — follow existing patterns (`AboutPageContent`, `ResumeItem`)
 - **Base path** is `/superlite_v2/` on all URLs and asset references
 - **Deploy**: `npm run build` then `git push` — GitHub Actions handles the rest. Vercel is NOT connected.
-- **Layout.astro** wraps all existing pages — `/work-with-me` will use a custom layout (TBD in Phase 02)
+- **Layout.astro** wraps all existing pages — `/work-with-me` uses its own standalone layout (no Layout.astro, no nav bar by design)
 - `WorkWithMePageContent` type uses `opening: string[]` (array of beats) and `services: ServiceItem[]`
 
 ---
