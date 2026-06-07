@@ -62,6 +62,12 @@ Key design decisions from the mockup:
 - The `requestAnimationFrame` double-frame delay before intro starts must stay — removing it causes transitions to fire before reset paints
 - Flicker `DEPTH` is `80` — this is the correct production value, do not change it
 
+### SVG Name — Letter Spacing (matches codex share.html)
+- `viewBox` is `-21.2 0 636.0 66.462` (expanded from original `0 0 593.557 66.462` to accommodate outward letter spread)
+- Each `<path>` has a `transform="translate(dx, 0)"` that shifts it outward from center (x=296.8); formula: `(formPos[letter] - 296.8) × 0.075`
+- CSS width: `width: min(557px, 88vw)` — matches codex share page exactly; do not change to a `max-width` pattern
+- Do not remove or recalculate the translate values — they are locked to match share.html
+
 ---
 
 ## Locked Copy

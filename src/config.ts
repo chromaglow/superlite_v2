@@ -30,16 +30,16 @@ export const navBarLinks: NavBarLink[] = [
     external: true,
   },
   {
+    title: "Work With Me",
+    url: "/superlite_v2/work-with-me",
+  },
+  {
     title: "The Lab",
     url: "/superlite_v2/lab",
   },
   {
     title: "Thinking",
     url: "/superlite_v2/thinking",
-  },
-  {
-    title: "Work With Me",
-    url: "/superlite_v2/work-with-me",
   },
 ];
 

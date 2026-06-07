@@ -1,119 +1,136 @@
-# Session Handoff — Work With Me Consulting Page
+# Session Handoff — superlite_v2
 
-**Date:** 2026-06-06
+**Last updated:** 2026-06-07
 **Project:** `C:\Users\ezras\OneDrive\Documents\work\GitHub\superlite_v2`
 **Read this first when resuming.**
 
 ---
 
-## What We Built This Session
+## Current State of the Site
 
-Added a full GSD planning structure for a new `/work-with-me` consulting page to this Astro site.
+All major work is complete and committed. The site is a fully integrated personal + consulting site. Deploy via `npm run build` then push to GitHub (Actions handles Pages), or drag `dist/` to Cloudflare.
 
-### Files created
-```
-.planning/
-  PROJECT.md           — full project context and positioning
-  REQUIREMENTS.md      — 11 requirements across 2 phases
-  ROADMAP.md           — 2-phase plan
-  STATE.md             — project state tracker
-  config.json          — YOLO mode, coarse, research+checker+verifier
-  phases/
-    01-content-type-system/
-      01-CONTEXT.md    — ALL copy decisions locked (read this)
-work-with-me-prototype.html   — HTML prototype with 3 layout options + copy
-HANDOFF.md            — this file
-```
+The `/work-with-me` consulting page also has its own standalone deploy at `collab-deploy/` — drag that folder to Cloudflare separately. It is NOT part of the GitHub Pages pipeline.
 
 ---
 
-## All Copy — Locked and Ready to Build
+## What Changed — 2026-06-07
 
-### Page URL
-`/work-with-me`
+### 1. Work With Me SVG — Letter Spacing Applied
+**File:** `src/pages/work-with-me.astro`
 
-### Opening Statement (7 beats — must be broken up typographically, NOT a text block)
-```
-I work from one principle: good design is as little design as possible.
+- `viewBox` updated: `0 0 593.557 66.462` → `-21.2 0 636.0 66.462`
+- All 23 path elements received `transform="translate(dx, 0)"` — outward letter spread matching `Codex/share.html`
+- Formula: `shift = (formPos[letter] - 296.8) × 0.075`
+- CSS width: `width: min(557px, 88vw)` — matches codex share page visual size exactly
+- **Do not change translate values, viewBox, or CSS width** — they are locked to match share.html
 
-I've applied it to brand identities, products, and operations systems serving over a million businesses.
+### 2. Navigation — Full Overhaul
+**File:** `src/layouts/Layout.astro`
 
-The discipline is the same regardless of the medium.
+**Desktop (≥ 640px):**
+- Removed profile photo (was `identity.logo` avatar — no longer in nav)
+- Social icons removed from nav header entirely
+- Nav links now flush-left, "Home" has no left padding to align with page content below
+- Single clean row: Home · About · Resume · Work With Me · The Lab · Thinking
 
-Start with the real problem.
-Include everyone it touches.
-Define success.
-Data drives the solution.
-```
+**Mobile (< 640px):**
+- Replaced always-visible single-row nav (was crowded with 6 items) with hamburger menu
+- Hamburger button (☰) toggles to (✕) on tap
+- Dropdown renders all 6 nav links stacked vertically + social icons at bottom
+- Implemented with ~15 lines of vanilla JS, no dependencies
 
-### Services (4 — all locked)
-**Brand identity and website builds**
-Strategy first: what does it need to say, look like, and accomplish. Everything follows from that — visual system, site design, e-commerce, fulfillment.
+### 3. Nav Link Order
+**File:** `src/config.ts` → `navBarLinks`
 
-**Product design and user research**
-Most product problems are definition problems — the wrong thing was built because the right question was never asked. I work at that layer: users, mental models, information architecture, interaction.
+New order (left → right on desktop, top → bottom in mobile dropdown):
+1. Home
+2. About
+3. Resume
+4. Work With Me
+5. The Lab
+6. Thinking
 
-**Operations transformation**
-I've redesigned systems that had to work for millions of businesses simultaneously. The method is the same at any scale: find the constraint, fix it at the source, measure the delta.
+### 4. Name Heading — Format 1452 Typeface
+**Files:** `src/pages/index.astro`, `src/pages/about.astro`
 
-**AI products, automation, and machine learning**
-The goal is always specific: reduce touches, improve forecast accuracy, create capacity, eliminate waste. Systems thinking maps where humans belong in each connected system — internal users, external customers, both.
-
-### Background (4 sparse beats — locked)
-Twenty years. Brand strategy, product design, and UX research. Amazon FBA and AWS — systems for over a million businesses. 600,000 labor hours removed through AI-enabled automation.
-
-### CTA
-(415) 335-9911 — Call or text — copy-to-clipboard on desktop
+- Replaced `<h1 class="font-bold text-3xl mb-1">` text on both pages
+- Replaced with inline SVG of full name "Ezra Shively-Stjärna" in Format 1452 typeface
+- Path data sourced from `Ezra.svg` (user-supplied, on Desktop)
+- Static display (no animation — animation is a hero-only feature of work-with-me and codex)
+- `fill="currentColor"` — inherits white from body CSS
+- `max-width: 290px; width: 100%; height: auto` — sits slightly smaller than text-3xl was
 
 ---
 
-## Where We Left Off
+## Architecture
 
-**Layout prototype** (`work-with-me-prototype.html`) shows 3 options — Option C (stacked uppercase labels) was chosen as the base direction, but the **opening text typography needs variations** before we commit.
-
-**The specific ask:** Option C's opening text ("I work from one principle...") must be broken into dramatic beats with spacing — NOT a text block. Ezra asked for variations on Option C showing different ways to handle this.
-
-**See `work-with-me-prototype-v2.html`** (created at end of this session) for the typography variations.
-
----
-
-## What to Do Next
-
-### Immediate (this session)
-1. Open `work-with-me-prototype-v2.html` in browser
-2. Pick a typography variation for the opening (C1, C2, or C3)
-3. Confirm layout is good
-4. Run: `/gsd:plan-phase 1` from this project directory
-
-### After that
-- Phase 1 plan will define: `WorkWithMePageContent` type + all config content
-- Phase 2: builds the `.astro` page, adds nav link, verifies build
-
-### Commands to use (run from `C:\Users\ezras\OneDrive\Documents\work\GitHub\superlite_v2`)
 ```
-/gsd:plan-phase 1       — creates execution plan for Phase 1
-/gsd:execute-phase 1    — executes Phase 1 (type + content in config.ts)
-/gsd:plan-phase 2       — creates execution plan for Phase 2
-/gsd:execute-phase 2    — builds the page and nav
+src/
+  config.ts              — ALL page content. Edit copy here, not in .astro files.
+  types/config.ts        — TypeScript types for all config exports
+  layouts/
+    Layout.astro          — Main layout (sticky nav + footer). Used by all pages except work-with-me.
+  pages/
+    index.astro           — Home page
+    about.astro           — About page
+    work-with-me.astro    — Consulting page (standalone layout, no nav bar by design)
+    lab.astro             — The Lab (projects)
+    thinking/
+      index.astro         — Thinking index
+      [id].astro          — Individual post
+    work/
+      amazon.astro        — Work case study
+  components/
+    ResumeItem.astro
+    SocialLinkBox.astro
+    Link.astro
+
+collab-deploy/            — Standalone deploy of /work-with-me for Cloudflare drag-and-drop
+  index.html              — Built work-with-me page (copy from dist/work-with-me/index.html after build)
+  favicon.svg
+  profile.jpg
 ```
 
 ---
 
-## Key Technical Facts
+## Deploy Instructions
 
-- **Framework:** Astro, GitHub Pages, base path `/superlite_v2/`
-- **Deploy:** `npm run build` then `git push` — Vercel is NOT connected, manual deploy only
-- **Pattern:** All page content lives in `src/config.ts` exports, not in `.astro` files
-- **Phone CTA pattern:** Already implemented in `src/pages/about.astro` — copy the script block exactly
-- **Layout wrapper:** `src/layouts/Layout.astro` — `<Layout seo={...}>` wraps every page
+### Main site (GitHub Pages)
+```
+npm run build
+git add -A && git commit -m "..."
+git push
+```
+GitHub Actions deploys automatically from `dist/`.
+
+### Collab page (Cloudflare)
+```
+npm run build
+# Copy dist/work-with-me/index.html → collab-deploy/index.html
+# Drag collab-deploy/ folder to Cloudflare dashboard
+```
 
 ---
 
-## GSD Planning Files
-All planning context is in `.planning/` — especially:
-- `.planning/phases/01-content-type-system/01-CONTEXT.md` — all copy and layout decisions
-- `.planning/ROADMAP.md` — 2-phase structure
-- `.planning/PROJECT.md` — full background and positioning
+## Open Items / Future Work
+
+- **Nav on mobile:** Hamburger is implemented and working. No known issues.
+- **Social links:** Removed from desktop nav header. Still present in mobile dropdown and on About page Connect section. Consider adding a minimal footer with social links for desktop.
+- **`identity.logo` image:** Still referenced in `config.ts` and used on Home page (circular photo in hover tooltip). Nav avatar removed but file still in use.
+- **No em dashes anywhere in copy** — use colons, commas, or split sentences instead (locked rule).
 
 ---
-*Generated: 2026-06-06 | Resume with: read HANDOFF.md then open work-with-me-prototype-v2.html*
+
+## Key Rules (do not break)
+
+- All page copy lives in `src/config.ts` — never hardcode in `.astro` files
+- `work-with-me.astro` has no nav bar by design — the SVG name IS the header
+- SVG path `opacity="0"` attributes on work-with-me — prevents flash on load
+- Flicker animation uses `setAttribute('opacity')` NOT `el.style.opacity`
+- work-with-me SVG translate values and viewBox are locked to match share.html
+- No em dashes in copy
+
+---
+
+*Resume with: read HANDOFF.md → check `src/config.ts` for content → check `src/layouts/Layout.astro` for nav*

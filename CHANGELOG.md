@@ -1,5 +1,53 @@
 # Changelog
 
+## v2.1.0 — June 2026 · Nav Overhaul + Site-Wide Typeface Consistency
+
+Full integration of the `/work-with-me` consulting page into the main site navigation, plus a complete desktop nav redesign and consistent use of the Format 1452 custom typeface across the site.
+
+---
+
+### Navigation (`Layout.astro`)
+- **Removed** profile photo avatar from desktop nav header
+- **Removed** social icons from desktop nav header (still in mobile dropdown and About page)
+- **Desktop nav** is now a single clean left-aligned row: Home · About · Resume · Work With Me · The Lab · Thinking
+- "Home" link has no left padding — text aligns flush with page content below
+- **Mobile nav** replaced with hamburger menu (☰/✕ toggle):
+  - All 6 nav links stack vertically in dropdown
+  - Social icons appear below nav links in dropdown
+  - Implemented with vanilla JS, no dependencies
+- **Nav link order** changed: Home → About → Resume → Work With Me → The Lab → Thinking
+
+---
+
+### Work With Me Page (`work-with-me.astro`)
+- SVG name animation letter spacing applied — matches `Codex/share.html` exactly
+- `viewBox` updated to `-21.2 0 636.0 66.462` (expanded to accommodate outward spread)
+- All 23 path elements have `transform="translate(dx, 0)"` per formula `(formPos - 296.8) × 0.075`
+- CSS width changed to `width: min(557px, 88vw)` — matches codex share page visual size
+
+---
+
+### Home Page (`index.astro`)
+- Replaced `<h1>` bold text name with inline SVG in Format 1452 typeface
+- Static display, white (`fill="currentColor"`), `max-width: 290px`
+
+---
+
+### About Page (`about.astro`)
+- Replaced `<h1>` bold text name with inline SVG in Format 1452 typeface (same as home)
+
+---
+
+### Config (`config.ts`)
+- `navBarLinks` reordered: Work With Me moved from last to 4th position (after Resume)
+
+---
+
+### Collab Deploy (`collab-deploy/`)
+- `index.html` updated with latest built output from `dist/work-with-me/index.html`
+
+---
+
 ## v2.0.0 — February 2026 · Portfolio Launch Overhaul
 
 Complete rebrand and restructure of the portfolio site in preparation for active job search. All pages updated, routes renamed, new resume asset, and interactive phone behaviors added throughout.
