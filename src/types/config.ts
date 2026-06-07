@@ -87,3 +87,20 @@ export type BlogPageContent = {
   seo: SEOInfo;
   subtitle: string;
 };
+
+export type ServiceItem = {
+  title: string;
+  description: string;
+};
+
+export type WorkWithMePageContent = {
+  seo: SEOInfo;
+  opening: string[];
+  services: ServiceItem[];
+  background: string;
+  cta: {
+    phone: string;
+    phoneHref: string;
+    label: string;
+  };
+};
