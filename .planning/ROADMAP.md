@@ -36,6 +36,11 @@ Plans:
 
 **Depends on:** Phase 01
 
+**Plans:** 1 plan
+
+Plans:
+- [ ] 02-01-PLAN.md — Update config.ts (service reorder + br descriptions + nav entry) and build work-with-me.astro (custom layout, SVG animation, phone CTA)
+
 **Success Criteria:**
 1. `src/pages/work-with-me.astro` exists and renders at `/superlite_v2/work-with-me`
 2. "Work With Me" appears in the nav bar linking to `/superlite_v2/work-with-me`
@@ -50,7 +55,7 @@ Plans:
 
 | Phase | Requirements | Status |
 |-------|-------------|--------|
-| Phase 01 | TECH-01, TECH-02, TECH-03, CONTENT-01, CONTENT-02, CONTENT-03, CONTENT-04 | PENDING |
+| Phase 01 | TECH-01, TECH-02, TECH-03, CONTENT-01, CONTENT-02, CONTENT-03, CONTENT-04 | COMPLETE |
 | Phase 02 | ROUTE-01, ROUTE-02, DESIGN-01, DESIGN-02, DESIGN-03, DESIGN-04, TECH-04 | PENDING |
 
 ---
