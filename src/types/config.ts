@@ -43,6 +43,7 @@ export type ResumeItem = {
     url: string;
   };
   date: string;
+  description?: string;
 };
 
 export type AboutPageContent = {

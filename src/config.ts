@@ -76,20 +76,11 @@ export const homePageContent: HomePageContent = {
       "Director-level TPM who removed 600K+ labor hours via AI/ML automation. AWS Bedrock, global operations, open to Director & VP roles in Seattle.",
     image: identity.logo,
   },
-  role: "Director-Level TPM | Removed 600K+ Labor Hours via AI/ML Automation | AWS Bedrock | Global Operations | Open to Director, VP & Senior Roles",
+  role: "Director-Level TPM | AI/ML Automation at Scale | Founder & Principal Consultant, Army of Me LLC",
   description:
     "If you need someone who has removed 600,000+ labor hours through AI-enabled automation, redesigned global operations for 3.5x productivity gains, and can still architect technical solutions from AWS cloud infrastructure to physical prototyping - that's the intersection I live in.",
   socialLinks: [],
-  links: [
-    {
-      title: "The Lab",
-      url: "/superlite_v2/lab",
-    },
-    {
-      title: "About Me",
-      url: "/superlite_v2/about",
-    },
-  ],
+  links: [],
 };
 
 // About (/about)
@@ -112,7 +103,7 @@ export const aboutPageContent: AboutPageContent = {
 
 <p>My career arc is intentional: user-centered design research, then operational transformation, then AI/ML-enabled global programs, then technical leadership. The through-line has always been the same: understand the human system, map the technical system, find the intervention point, measure everything.</p>
 
-<p>Currently exploring Director TPM, VP Technical Operations, and Senior Program Management opportunities in Seattle where AI fluency, systems thinking, and global operational leadership create transformational impact. Let's talk.</p>`,
+<p>Currently: consulting through Army of Me LLC, operating Tiny Food Foundry, and open to Director TPM, VP Technical Operations, and Senior Program Management roles in Seattle, EU relocation, or remote. Reach out at armyofme@ezrashively.com or on LinkedIn.</p>`,
     image_l: {
       url: "/superlite_v2/profile.jpg",
       alt: "Ezra Stjärna-Shively",
@@ -125,6 +116,24 @@ export const aboutPageContent: AboutPageContent = {
   work: {
     description: `A career built on understanding systems, human and technical, and redesigning them for scale.`,
     items: [
+      {
+        title: "Founder & Principal Consultant",
+        company: {
+          name: "Army of Me LLC",
+          url: "#",
+        },
+        date: "2025 - Present",
+        description: "Business infrastructure consulting for independent makers and product-based brands. Full-stack buildouts: legal entity, banking, brand identity, Shopify, analytics, social, and launch.",
+      },
+      {
+        title: "Founder",
+        company: {
+          name: "Tiny Food Foundry",
+          url: "#",
+        },
+        date: "2026 - Present",
+        description: "Fine jewelry brand built from zero. Cast coffee bean earrings in seven precious metals, each named after a coffee-growing region.",
+      },
       {
         title: "Global Technical Program Manager II | AI/ML Automation | Process Engineering | Operations Technology",
         company: {
@@ -169,7 +178,7 @@ export const aboutPageContent: AboutPageContent = {
     ],
   },
   connect: {
-    description: `I'm actively exploring Director TPM, VP Technical Operations, and Senior Program Management roles in Seattle. If you're working on hard operational or AI/ML problems at scale, I'd love to connect.`,
+    description: `Currently: consulting through Army of Me LLC, operating Tiny Food Foundry, and open to Director TPM, VP Technical Operations, and Senior Program Management roles in Seattle, EU relocation, or remote. Reach out at armyofme@ezrashively.com or on LinkedIn.`,
     links: socialLinks,
   },
 };
@@ -181,7 +190,7 @@ export const projectsPageContent: ProjectPageContent = {
     description: "Automation systems, AI/ML tools, physical prototypes, and operational programs - built end-to-end.",
     image: identity.logo,
   },
-  subtitle: "Automation systems, AI/ML tools, physical prototypes, and operational programs - built end-to-end. Intentional capability maintenance: staying grounded in implementation reality.",
+  subtitle: "AI/ML tools, automation systems, physical prototypes, and operational programs. End to end.",
   projects: [],
 };
 
@@ -230,7 +239,7 @@ export const blogPageContent: BlogPageContent = {
 export const workWithMePageContent: WorkWithMePageContent = {
   seo: {
     title: "Work With Me | Ezra Stjärna-Shively",
-    description: "Design, product, operations, and AI/ML work. One principle: good design is as little design as possible.",
+    description: "Army of Me LLC. AI/ML automation. Consulting and brand builds from zero. Product design, brand identity, and operations transformation.",
     image: identity.logo,
   },
   opening: [
@@ -252,14 +261,14 @@ export const workWithMePageContent: WorkWithMePageContent = {
     },
     {
       title: "Brand identity and website builds",
-      description: "Strategy first: what does it need to say, look like, and accomplish.<br>Everything follows from that: visual system, site design, e-commerce, fulfillment.",
+      description: "Strategy first: what does it need to say, look like, and accomplish.<br>Everything follows from that: visual system, site design, e-commerce, fulfillment.<br>Consulting engagements are structured through Army of Me LLC.",
     },
     {
       title: "Operations transformation",
       description: "I've redesigned systems that had to work for millions of businesses simultaneously.<br>The method is the same at any scale: find the constraint, fix it at the source, measure the delta.",
     },
   ],
-  background: "Twenty years. Brand strategy, product design, and UX research.<br>Amazon FBA and AWS, systems for over a million businesses.<br>600,000 labor hours removed through AI-enabled automation.",
+  background: "Twenty years. Product design. Brand. UX. Operations.<br>Amazon at scale. 600,000 labor hours removed through AI/ML/AWS automation.<br>Consulting and brand builds from zero. Army of Me LLC and Tiny Food Foundry.",
   cta: {
     phone: "(415) 335-9911",
     phoneHref: "tel:+14153359911",
