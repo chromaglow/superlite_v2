@@ -141,7 +141,7 @@ export const aboutPageContent: AboutPageContent = {
           image: "/superlite_v2/assets/amazon-logo.jpg",
           url: "/superlite_v2/work/amazon",
         },
-        date: "2020 - Present",
+        date: "2020 - May 2026",
       },
       {
         title: "Digital Operations & Sales Strategy Manager",
@@ -211,16 +211,16 @@ export const pugsPageContent = {
     {
       name: "Dog Name 1",
       breed: "Pug",
-      description: "Placeholder — add description here.",
+      description: "Placeholder, add description here.",
       color: "Placeholder",
-      notes: "Placeholder — add any medical or behavioral notes here.",
+      notes: "Placeholder, add any medical or behavioral notes here.",
     },
     {
       name: "Dog Name 2",
       breed: "Pug",
-      description: "Placeholder — add description here.",
+      description: "Placeholder, add description here.",
       color: "Placeholder",
-      notes: "Placeholder — add any medical or behavioral notes here.",
+      notes: "Placeholder, add any medical or behavioral notes here.",
     },
   ],
 };
