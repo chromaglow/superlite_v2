@@ -241,6 +241,16 @@ const { seo, opening, services, background, cta } = workWithMePageContent;
   <!-- WHITE / NAME SECTION -->
   <section id="hero">
     <svg id="namesvg" viewBox="-21.2 0 636.0 66.462" fill="#fff" style="overflow:visible">
+      <defs>
+        <mask id="wm-body-mask" maskUnits="userSpaceOnUse" x="70" y="5" width="70" height="60">
+          <rect x="70" y="5" width="70" height="60" fill="white"/>
+          <rect x="86.5" y="16.5" width="27" height="7.5" fill="black"/>
+          <circle cx="110" cy="21" r="3.5" fill="white"/>
+        </mask>
+        <clipPath id="wm-arm-clip" clipPathUnits="userSpaceOnUse">
+          <rect x="86.5" y="16.5" width="27" height="7.5"/>
+        </clipPath>
+      </defs>
       <path opacity="0" id="f-i-body"     transform="translate(-6.0, 0)"  d="M220.389,52.061h-6.192V17.209h6.192v34.851Z"/>
       <path opacity="0" id="f-j-body"     transform="translate(11.1, 0)"  d="M441.063,17.065h6.192v39.532c0,5.472-4.464,9.865-9.937,9.865h-3.097v-6.193h3.097c2.088,0,3.744-1.584,3.744-3.672V17.065Z"/>
       <path opacity="0" id="f-hyphen"     transform="translate(4.5, 0)"   d="M366.763,34.923h-19.802v-6.12h19.802v6.12Z"/>
@@ -256,7 +266,18 @@ const { seo, opening, services, background, cta } = workWithMePageContent;
       <path opacity="0" id="f-n"          transform="translate(18.3, 0)"  d="M529.044,19.874c2.376-1.656,5.257-2.664,8.353-2.664,7.993,0,14.401,6.409,14.546,14.329v20.522h-6.049v-20.522c-.144-4.536-3.889-8.137-8.497-8.137s-8.353,3.672-8.353,8.353v20.306h-6.192V17.209h6.192v2.664Z"/>
       <path opacity="0" id="f-S1"         transform="translate(-10.5, 0)" d="M170.928,6.121h-14.833c-4.537.144-8.208,3.816-8.208,8.425s3.816,8.353,8.353,8.353c8.064,0,14.689,6.553,14.689,14.617,0,7.921-6.481,14.401-14.474,14.545h-14.689v-6.192h14.473c.072,0,.144.072.216,0,4.608-.072,8.281-3.816,8.281-8.353,0-4.68-3.816-8.497-8.497-8.497-7.921,0-14.473-6.48-14.473-14.473S148.173.072,156.094,0h14.833v6.121Z"/>
       <path opacity="0" id="f-S2"         transform="translate(7.1, 0)"   d="M405.282,6.121h-14.833c-4.537.144-8.208,3.816-8.208,8.425s3.816,8.353,8.353,8.353c8.064,0,14.689,6.553,14.689,14.617,0,7.921-6.481,14.401-14.474,14.545h-14.689v-6.192h14.473c.072,0,.144.072.216,0,4.608-.072,8.281-3.816,8.281-8.353,0-4.68-3.816-8.497-8.497-8.497-7.921,0-14.473-6.48-14.473-14.473s6.408-14.473,14.329-14.545h14.833v6.121Z"/>
-      <path opacity="0" id="f-a1"         transform="translate(-14.8, 0)" d="M120.89,31.539v20.522h-6.192v-10.225h-1.944c-1.368,5.905-6.553,10.225-12.745,10.225-7.201,0-13.177-5.904-13.177-13.249,0-7.057,5.977-13.033,13.177-13.033,6.121,0,11.305,4.32,12.745,9.937h1.944v-4.177c0-4.536-3.672-8.208-8.137-8.208h-16.634v-6.121h16.634c7.849,0,14.329,6.409,14.329,14.329ZM107.064,38.812c0-3.672-3.168-6.913-7.129-6.913-3.744,0-6.984,3.24-6.984,6.913,0,4.032,3.24,7.201,6.984,7.201,3.96,0,7.129-3.168,7.129-7.201Z"/>
+      <g opacity="0" id="f-a1" transform="translate(-14.8, 0)">
+        <g id="f-a1-figure" style="transform-origin: 125.7px 34.5px; transform-box: view-box;">
+          <g mask="url(#wm-body-mask)">
+            <path d="M120.89,31.539v20.522h-6.192v-10.225h-1.944c-1.368,5.905-6.553,10.225-12.745,10.225-7.201,0-13.177-5.904-13.177-13.249,0-7.057,5.977-13.033,13.177-13.033,6.121,0,11.305,4.32,12.745,9.937h1.944v-4.177c0-4.536-3.672-8.208-8.137-8.208h-16.634v-6.121h16.634c7.849,0,14.329,6.409,14.329,14.329ZM107.064,38.812c0-3.672-3.168-6.913-7.129-6.913-3.744,0-6.984,3.24-6.984,6.913,0,4.032,3.24,7.201,6.984,7.201,3.96,0,7.129-3.168,7.129-7.201Z"/>
+          </g>
+          <g id="f-a1-arm" style="transform-origin: 131.2px 21px; transform-box: view-box;">
+            <g clip-path="url(#wm-arm-clip)">
+              <path d="M120.89,31.539v20.522h-6.192v-10.225h-1.944c-1.368,5.905-6.553,10.225-12.745,10.225-7.201,0-13.177-5.904-13.177-13.249,0-7.057,5.977-13.033,13.177-13.033,6.121,0,11.305,4.32,12.745,9.937h1.944v-4.177c0-4.536-3.672-8.208-8.137-8.208h-16.634v-6.121h16.634c7.849,0,14.329,6.409,14.329,14.329ZM107.064,38.812c0-3.672-3.168-6.913-7.129-6.913-3.744,0-6.984,3.24-6.984,6.913,0,4.032,3.24,7.201,6.984,7.201,3.96,0,7.129-3.168,7.129-7.201Z"/>
+            </g>
+          </g>
+        </g>
+      </g>
       <path opacity="0" id="f-a2"         transform="translate(21.2, 0)"  d="M593.557,31.539v20.522h-6.192v-10.225h-1.944c-1.368,5.905-6.552,10.225-12.745,10.225-7.2,0-13.177-5.904-13.177-13.249,0-7.057,5.977-13.033,13.177-13.033,6.121,0,11.306,4.32,12.745,9.937h1.944v-4.177c0-4.536-3.672-8.208-8.137-8.208h-16.633v-6.121h16.633c7.849,0,14.329,6.409,14.329,14.329ZM579.732,38.812c0-3.672-3.168-6.913-7.128-6.913-3.744,0-6.985,3.24-6.985,6.913,0,4.032,3.241,7.201,6.985,7.201,3.96,0,7.128-3.168,7.128-7.201Z"/>
       <path opacity="0" id="f-e"          transform="translate(-1.7, 0)"  d="M288.789,31.755v5.977h-22.898c.072,4.392,3.672,8.064,8.137,8.137h14.761v6.192h-14.761c-7.849-.144-14.185-6.553-14.329-14.329v-6.193c.144-7.849,6.48-14.329,14.545-14.329s14.545,6.48,14.545,14.545ZM265.891,31.539h16.706c-.072-4.536-3.744-8.208-8.353-8.208s-8.281,3.672-8.353,8.208Z"/>
       <path opacity="0" id="f-a-uml-body" transform="translate(12.9, 0)"  d="M488.873,31.539v20.522h-6.192v-10.225h-1.944c-1.368,5.905-6.552,10.225-12.745,10.225-7.2,0-13.177-5.904-13.177-13.249,0-7.057,5.977-13.033,13.177-13.033,6.121,0,11.306,4.32,12.745,9.937h1.944v-4.177c0-4.536-3.672-8.208-8.137-8.208h-16.633v-6.121h16.633c7.849,0,14.329,6.409,14.329,14.329ZM475.047,38.812c0-3.672-3.168-6.913-7.128-6.913-3.744,0-6.985,3.24-6.985,6.913,0,4.032,3.241,7.201,6.985,7.201,3.96,0,7.128-3.168,7.128-7.201Z"/>
@@ -332,9 +353,6 @@ const { seo, opening, services, background, cta } = workWithMePageContent;
   const FADE_MS   = 3800;
   const SPREAD_MS = 5000;
   const VAR_LEVEL = 8;
-  const DEPTH     = 80;
-  const SPEED_MS  = 5000;
-  const INTERVAL  = 15000;
 
   const CENTER    = 296;
 
@@ -387,51 +405,40 @@ const { seo, opening, services, background, cta } = workWithMePageContent;
     return arr;
   }
 
-  const flickGen: Record<string, number>   = {};
-  let   flickTimers: ReturnType<typeof setTimeout>[] = [];
-
-  function fadeDot(el: Element, from: number, to: number, ms: number, gen: number, id: string, onDone?: () => void) {
-    const t0 = performance.now();
-    function step(now: number) {
-      if (flickGen[id] !== gen) return;
-      const p = Math.min((now - t0) / ms, 1);
-      const e = p < 0.5 ? 2*p*p : -1+(4-2*p)*p;
-      el.setAttribute('opacity', (from + (to - from) * e).toFixed(4));
-      if (p < 1) requestAnimationFrame(step);
-      else if (onDone) onDone();
-    }
-    requestAnimationFrame(step);
-  }
-
-  function flickerDot(id: string) {
-    const el = document.getElementById(id);
-    if (!el) return;
-    const gen   = flickGen[id] || 0;
-    const minOp = 1 - DEPTH / 100;
-    const wait  = rand(INTERVAL * 0.7, INTERVAL * 1.4);
-    const t = setTimeout(() => {
-      if (flickGen[id] !== gen) return;
-      el.style.removeProperty('opacity');
-      el.style.removeProperty('transition');
-      fadeDot(el, 1, minOp, SPEED_MS, gen, id, () => {
-        fadeDot(el, minOp, 1, SPEED_MS, gen, id, () => {
-          el.setAttribute('opacity', '1');
-          const t2 = setTimeout(() => flickerDot(id), 100);
-          flickTimers.push(t2);
-        });
-      });
-    }, wait);
-    flickTimers.push(t);
-  }
-
-  function startFlicker() {
-    flickTimers.forEach(clearTimeout);
-    flickTimers = [];
-    dotForms.forEach(id => {
-      flickGen[id] = (flickGen[id] || 0) + 1;
-      const t = setTimeout(() => flickerDot(id), rand(0, INTERVAL * 0.9));
-      flickTimers.push(t);
-    });
+  function startLittleGuy(): void {
+    const CYCLE_SEC  = 15;
+    const TIP_DEG    = 90;
+    const TIP_MS     = 700;
+    const SETTLE_MS  = 200;
+    const WAVE_MS    = 1500;
+    const WAVE_AMP   = 9;
+    if (matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+    const fig = document.getElementById('f-a1-figure');
+    const arm = document.getElementById('f-a1-arm');
+    if (!fig || !arm) return;
+    const cycleMs     = CYCLE_SEC * 1000;
+    const waveStart   = TIP_MS + SETTLE_MS;
+    const waveEnd     = waveStart + WAVE_MS;
+    const tipOutStart = waveEnd + SETTLE_MS;
+    const tipOutEnd   = tipOutStart + TIP_MS;
+    const f = (ms: number) => ms / cycleMs;
+    fig.animate([
+      { offset: 0,                  transform: 'rotate(0deg)',           easing: 'cubic-bezier(.65,0,.35,1)' },
+      { offset: f(TIP_MS),          transform: `rotate(${TIP_DEG}deg)`,  easing: 'linear' },
+      { offset: f(tipOutStart),     transform: `rotate(${TIP_DEG}deg)`,  easing: 'cubic-bezier(.65,0,.35,1)' },
+      { offset: f(tipOutEnd),       transform: 'rotate(0deg)',           easing: 'linear' },
+      { offset: 1,                  transform: 'rotate(0deg)' },
+    ], { duration: cycleMs, iterations: Infinity });
+    const seg = WAVE_MS / 4;
+    arm.animate([
+      { offset: 0,                      transform: 'rotate(0deg)' },
+      { offset: f(waveStart),           transform: 'rotate(0deg)',                  easing: 'cubic-bezier(.4,0,.6,1)' },
+      { offset: f(waveStart + seg),     transform: `rotate(${WAVE_AMP}deg)`,        easing: 'cubic-bezier(.4,0,.6,1)' },
+      { offset: f(waveStart + seg * 2), transform: `rotate(${-WAVE_AMP}deg)`,       easing: 'cubic-bezier(.4,0,.6,1)' },
+      { offset: f(waveStart + seg * 3), transform: `rotate(${WAVE_AMP * 0.7}deg)`,  easing: 'cubic-bezier(.4,0,.6,1)' },
+      { offset: f(waveEnd),             transform: 'rotate(0deg)' },
+      { offset: 1,                      transform: 'rotate(0deg)' },
+    ], { duration: cycleMs, iterations: Infinity });
   }
 
   window.addEventListener('load', () => {
@@ -471,7 +478,7 @@ const { seo, opening, services, background, cta } = workWithMePageContent;
           dividerEl.style.opacity = '1';
         }, lastFinish * 0.5);
 
-        setTimeout(startFlicker, lastFinish + 600);
+        setTimeout(startLittleGuy, lastFinish + 15000);
       }));
     }, 600);
   });
