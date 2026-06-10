@@ -123,7 +123,7 @@ export const aboutPageContent: AboutPageContent = {
           url: "#",
         },
         date: "2025 - Present",
-        description: "Business infrastructure consulting for independent makers and product-based brands. Full-stack buildouts: legal entity, banking, brand identity, Shopify, analytics, social, and launch.",
+        description: "Independent consultant. Enterprise experience, any scale.",
       },
       {
         title: "Founder",
