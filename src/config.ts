@@ -12,7 +12,7 @@ import type {
 export const identity: Identity = {
   name: "Ezra Stjärna-Shively",
   logo: "/superlite_v2/profile.jpg",
-  email: "chromaglow@gmail.com",
+  email: "armyofme@ezrashively.com",
 };
 
 export const navBarLinks: NavBarLink[] = [
@@ -63,7 +63,7 @@ export const socialLinks: SocialLink[] = [
   },
   {
     title: "Mail",
-    url: "mailto:chromaglow@gmail.com",
+    url: "mailto:armyofme@ezrashively.com",
     icon: "mdi:email",
   },
 ];
