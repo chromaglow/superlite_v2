@@ -64,95 +64,95 @@ Overall, this custom-built fume evacuator has been a game-changer for my product
 
 <div class="gallery-grid">
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/exhaust_output_connection.webp" alt="Exhaust output connection" />
+    <img src="/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/exhaust_output_connection.webp" alt="Exhaust output connection" />
     <figcaption>Exhaust output connection</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/my_idea_mounts_over_the_b.webp" alt="My idea mounts over the back do the desk and allows for independent control over air intake from the desktop and below where the glowforge is." />
+    <img src="/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/my_idea_mounts_over_the_b.webp" alt="My idea mounts over the back do the desk and allows for independent control over air intake from the desktop and below where the glowforge is." />
     <figcaption>My idea mounts over the back do the desk and allows for independent control over air intake from the desktop and below where the glowforge is.</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/i_wanted_to_find_a_more_e.webp" alt="I wanted to find a more effective and attractive  way to use the inline exhaust fan I purchased" />
+    <img src="/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/i_wanted_to_find_a_more_e.webp" alt="I wanted to find a more effective and attractive  way to use the inline exhaust fan I purchased" />
     <figcaption>I wanted to find a more effective and attractive  way to use the inline exhaust fan I purchased</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/fusion_360_sketching_the_.webp" alt="Fusion 360 sketching the pieces" />
+    <img src="/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/fusion_360_sketching_the_.webp" alt="Fusion 360 sketching the pieces" />
     <figcaption>Fusion 360 sketching the pieces</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/cutting.webp" alt="Cutting" />
+    <img src="/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/cutting.webp" alt="Cutting" />
     <figcaption>Cutting</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/grill_patterns.webp" alt="Grill patterns" />
+    <img src="/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/grill_patterns.webp" alt="Grill patterns" />
     <figcaption>Grill patterns</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/leftovers.webp" alt="Leftovers" />
+    <img src="/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/leftovers.webp" alt="Leftovers" />
     <figcaption>Leftovers</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/construction_begins.webp" alt="Construction begins" />
+    <img src="/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/construction_begins.webp" alt="Construction begins" />
     <figcaption>Construction begins</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/initial_fitting_the_motor.webp" alt="Initial fitting the motor and weather stripping" />
+    <img src="/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/initial_fitting_the_motor.webp" alt="Initial fitting the motor and weather stripping" />
     <figcaption>Initial fitting the motor and weather stripping</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/gallery_image_9.webp" alt="I designed and built a desktop / workspace ventilation system" />
+    <img src="/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/gallery_image_9.webp" alt="I designed and built a desktop / workspace ventilation system" />
     <figcaption></figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/reinforce_and_weather_str.webp" alt="Reinforce and weather strip the opening" />
+    <img src="/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/reinforce_and_weather_str.webp" alt="Reinforce and weather strip the opening" />
     <figcaption>Reinforce and weather strip the opening</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/weatherstripping_the_addi.webp" alt="Weatherstripping the additional fan mount" />
+    <img src="/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/weatherstripping_the_addi.webp" alt="Weatherstripping the additional fan mount" />
     <figcaption>Weatherstripping the additional fan mount</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/feeding_the_power_cord.webp" alt="Feeding the power cord" />
+    <img src="/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/feeding_the_power_cord.webp" alt="Feeding the power cord" />
     <figcaption>Feeding the power cord</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/connecting_and_testing.webp" alt="Connecting and testing" />
+    <img src="/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/connecting_and_testing.webp" alt="Connecting and testing" />
     <figcaption>Connecting and testing</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/top_panels_added.webp" alt="Top panels added" />
+    <img src="/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/top_panels_added.webp" alt="Top panels added" />
     <figcaption>Top panels added</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/front_grill_and_structure.webp" alt="Front grill and structure reinforced" />
+    <img src="/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/front_grill_and_structure.webp" alt="Front grill and structure reinforced" />
     <figcaption>Front grill and structure reinforced</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/gallery_image_17.webp" alt="I designed and built a desktop / workspace ventilation system" />
+    <img src="/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/gallery_image_17.webp" alt="I designed and built a desktop / workspace ventilation system" />
     <figcaption>Gallery</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/fully_assembled.webp" alt="Fully assembled" />
+    <img src="/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/fully_assembled.webp" alt="Fully assembled" />
     <figcaption>Fully assembled</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/mounted_over_desk_back.webp" alt="Mounted over desk back" />
+    <img src="/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/mounted_over_desk_back.webp" alt="Mounted over desk back" />
     <figcaption>Mounted over desk back</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/under_desk_with_air_flap_.webp" alt="Under desk with air flap closed" />
+    <img src="/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/under_desk_with_air_flap_.webp" alt="Under desk with air flap closed" />
     <figcaption>Under desk with air flap closed</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/air_flap_opened.webp" alt="Air flap opened" />
+    <img src="/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/air_flap_opened.webp" alt="Air flap opened" />
     <figcaption>Air flap opened</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/in_action.webp" alt="In action" />
+    <img src="/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/in_action.webp" alt="In action" />
     <figcaption>In action</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/cute_pupper_tax.webp" alt="Doge tax" />
+    <img src="/posts/2024-04-16-breathe-easy-at-your-desk-a-tailored-fum/cute_pupper_tax.webp" alt="Doge tax" />
     <figcaption>Cute Pupper tax</figcaption>
   </figure>
 </div>

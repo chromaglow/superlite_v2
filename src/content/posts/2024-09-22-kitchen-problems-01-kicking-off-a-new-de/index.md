@@ -36,23 +36,23 @@ Looking ahead, I'm eager to apply this problem-solving mindset to other areas of
 
 <div class="gallery-grid">
   <figure>
-    <img src="/superlite_v2/posts/2024-09-22-kitchen-problems-01-kicking-off-a-new-de/contained_at_last_.webp" alt="PXL_20241202_185715104" />
+    <img src="/posts/2024-09-22-kitchen-problems-01-kicking-off-a-new-de/contained_at_last_.webp" alt="PXL_20241202_185715104" />
     <figcaption>Contained at last!</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-09-22-kitchen-problems-01-kicking-off-a-new-de/i_can_t_resist_using_magn.webp" alt="33365A96-44D3-4043-9B64-FF84D60E1D20" />
+    <img src="/posts/2024-09-22-kitchen-problems-01-kicking-off-a-new-de/i_can_t_resist_using_magn.webp" alt="33365A96-44D3-4043-9B64-FF84D60E1D20" />
     <figcaption>I can't resist using magnets for everything</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-09-22-kitchen-problems-01-kicking-off-a-new-de/stripped_down_to_minimize.webp" alt="PXL_20240921_184229755" />
+    <img src="/posts/2024-09-22-kitchen-problems-01-kicking-off-a-new-de/stripped_down_to_minimize.webp" alt="PXL_20240921_184229755" />
     <figcaption>Stripped down to minimize material</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-09-22-kitchen-problems-01-kicking-off-a-new-de/img_1772492687363_rjn6zvv.webp" alt="PXL_20240921_184225153" />
+    <img src="/posts/2024-09-22-kitchen-problems-01-kicking-off-a-new-de/img_1772492687363_rjn6zvv.webp" alt="PXL_20240921_184225153" />
     <figcaption></figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-09-22-kitchen-problems-01-kicking-off-a-new-de/sketch.webp" alt="IMG_0944" />
+    <img src="/posts/2024-09-22-kitchen-problems-01-kicking-off-a-new-de/sketch.webp" alt="IMG_0944" />
     <figcaption>Sketch</figcaption>
   </figure>
 </div>

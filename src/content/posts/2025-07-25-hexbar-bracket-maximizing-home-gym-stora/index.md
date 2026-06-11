@@ -38,39 +38,39 @@ The entire project, from ideation to execution, was completed in half a day. The
 
 <div class="gallery-grid">
   <figure>
-    <img src="/superlite_v2/posts/2025-07-25-hexbar-bracket-maximizing-home-gym-stora/not_in_the_way_anymore_.webp" alt="PXL_20250728_173253330" />
+    <img src="/posts/2025-07-25-hexbar-bracket-maximizing-home-gym-stora/not_in_the_way_anymore_.webp" alt="PXL_20250728_173253330" />
     <figcaption>Not In The Way Anymore!</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-07-25-hexbar-bracket-maximizing-home-gym-stora/secure_but_easy_access_.webp" alt="PXL_20250728_152744858" />
+    <img src="/posts/2025-07-25-hexbar-bracket-maximizing-home-gym-stora/secure_but_easy_access_.webp" alt="PXL_20250728_152744858" />
     <figcaption>Secure But Easy Access </figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-07-25-hexbar-bracket-maximizing-home-gym-stora/designed_for_printing_wit.webp" alt="Screenshot 2026-03-04 113757" />
+    <img src="/posts/2025-07-25-hexbar-bracket-maximizing-home-gym-stora/designed_for_printing_wit.webp" alt="Screenshot 2026-03-04 113757" />
     <figcaption>Designed For Printing Without Supports</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-07-25-hexbar-bracket-maximizing-home-gym-stora/on_the_bed.webp" alt="PXL_20250728_131531005" />
+    <img src="/posts/2025-07-25-hexbar-bracket-maximizing-home-gym-stora/on_the_bed.webp" alt="PXL_20250728_131531005" />
     <figcaption>On The Bed</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-07-25-hexbar-bracket-maximizing-home-gym-stora/screw_plugs.webp" alt="PXL_20250728_152227251" />
+    <img src="/posts/2025-07-25-hexbar-bracket-maximizing-home-gym-stora/screw_plugs.webp" alt="PXL_20250728_152227251" />
     <figcaption>Screw Plugs</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-07-25-hexbar-bracket-maximizing-home-gym-stora/many_mount_options.webp" alt="PXL_20250728_152246912" />
+    <img src="/posts/2025-07-25-hexbar-bracket-maximizing-home-gym-stora/many_mount_options.webp" alt="PXL_20250728_152246912" />
     <figcaption>Many Mount Options</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-07-25-hexbar-bracket-maximizing-home-gym-stora/sleek.webp" alt="PXL_20250728_152252421" />
+    <img src="/posts/2025-07-25-hexbar-bracket-maximizing-home-gym-stora/sleek.webp" alt="PXL_20250728_152252421" />
     <figcaption>Sleek</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-07-25-hexbar-bracket-maximizing-home-gym-stora/simple.webp" alt="PXL_20250728_152705052" />
+    <img src="/posts/2025-07-25-hexbar-bracket-maximizing-home-gym-stora/simple.webp" alt="PXL_20250728_152705052" />
     <figcaption>Simple</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-07-25-hexbar-bracket-maximizing-home-gym-stora/functional_.webp" alt="PXL_20250728_152742004" />
+    <img src="/posts/2025-07-25-hexbar-bracket-maximizing-home-gym-stora/functional_.webp" alt="PXL_20250728_152742004" />
     <figcaption>Functional </figcaption>
   </figure>
 </div>

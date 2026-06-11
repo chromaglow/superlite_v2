@@ -62,39 +62,39 @@ While I'm proud of the initial version of the TPU sleeve, I'm already considerin
 
 <div class="gallery-grid">
   <figure>
-    <img src="/superlite_v2/posts/2026-04-04-one-day-project-weyland-yutani-water-bot/in_action.gif" alt="optimized_IMG_1154" />
+    <img src="/posts/2026-04-04-one-day-project-weyland-yutani-water-bot/in_action.gif" alt="optimized_IMG_1154" />
     <figcaption>In action</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-04-04-one-day-project-weyland-yutani-water-bot/the_water_bottle_in_quest.webp" alt="IMG_1147" />
+    <img src="/posts/2026-04-04-one-day-project-weyland-yutani-water-bot/the_water_bottle_in_quest.webp" alt="IMG_1147" />
     <figcaption>The water bottle in question</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-04-04-one-day-project-weyland-yutani-water-bot/the_final_solidworks_mode.webp" alt="bottle sleeve " />
+    <img src="/posts/2026-04-04-one-day-project-weyland-yutani-water-bot/the_final_solidworks_mode.webp" alt="bottle sleeve " />
     <figcaption>The final solidworks model</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-04-04-one-day-project-weyland-yutani-water-bot/single_piece_print_with_n.webp" alt="IMG_1146" />
+    <img src="/posts/2026-04-04-one-day-project-weyland-yutani-water-bot/single_piece_print_with_n.webp" alt="IMG_1146" />
     <figcaption>Single piece print with no supports</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-04-04-one-day-project-weyland-yutani-water-bot/fits_like_a_glove.webp" alt="IMG_1148" />
+    <img src="/posts/2026-04-04-one-day-project-weyland-yutani-water-bot/fits_like_a_glove.webp" alt="IMG_1148" />
     <figcaption>Fits like a glove</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-04-04-one-day-project-weyland-yutani-water-bot/please_standby_.webp" alt="IMG_1151" />
+    <img src="/posts/2026-04-04-one-day-project-weyland-yutani-water-bot/please_standby_.webp" alt="IMG_1151" />
     <figcaption>Please Standby</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-04-04-one-day-project-weyland-yutani-water-bot/feels_great_in_hand.webp" alt="IMG_1152" />
+    <img src="/posts/2026-04-04-one-day-project-weyland-yutani-water-bot/feels_great_in_hand.webp" alt="IMG_1152" />
     <figcaption>Feels great in hand</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-04-04-one-day-project-weyland-yutani-water-bot/bumper_protection.webp" alt="IMG_1149" />
+    <img src="/posts/2026-04-04-one-day-project-weyland-yutani-water-bot/bumper_protection.webp" alt="IMG_1149" />
     <figcaption>Bumper protection</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-04-04-one-day-project-weyland-yutani-water-bot/cad_drawing_for_reference.webp" alt="Screenshot 2026-04-04 054952" />
+    <img src="/posts/2026-04-04-one-day-project-weyland-yutani-water-bot/cad_drawing_for_reference.webp" alt="Screenshot 2026-04-04 054952" />
     <figcaption>CAD drawing for reference</figcaption>
   </figure>
 </div>

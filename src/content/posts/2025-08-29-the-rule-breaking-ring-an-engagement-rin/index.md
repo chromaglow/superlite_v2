@@ -119,163 +119,163 @@ It moves.
 
 <div class="gallery-grid">
   <figure>
-    <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/move.gif" alt="move" />
+    <img src="/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/move.gif" alt="move" />
     <figcaption>The Diamond Moves Kinetically</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511768872_bjqwnhl.webp" alt="K2" />
+    <img src="/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511768872_bjqwnhl.webp" alt="K2" />
     <figcaption>14K Yellow Gold</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/mov_crop.gif" alt="mov_crop" />
+    <img src="/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/mov_crop.gif" alt="mov_crop" />
     <figcaption>Fire Spinning</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511769463_8vm6xb6.webp" alt="K6" />
+    <img src="/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511769463_8vm6xb6.webp" alt="K6" />
     <figcaption>Different From Every Side</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511769026_b5dq1f9.webp" alt="K3" />
+    <img src="/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511769026_b5dq1f9.webp" alt="K3" />
     <figcaption>Side</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511769211_2y58ka6.webp" alt="K4" />
+    <img src="/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511769211_2y58ka6.webp" alt="K4" />
     <figcaption>Side Features</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511769349_i9gmsus.webp" alt="K5" />
+    <img src="/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511769349_i9gmsus.webp" alt="K5" />
     <figcaption>Bottom Shank Diamond</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511769760_d5ad2kj.webp" alt="PXL_20250703_015247010" />
+    <img src="/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511769760_d5ad2kj.webp" alt="PXL_20250703_015247010" />
     <figcaption>First Idea</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511769890_lfn6om0.webp" alt="PXL_20250703_015322339" />
+    <img src="/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511769890_lfn6om0.webp" alt="PXL_20250703_015322339" />
     <figcaption>Chunky</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511770039_rcy2j2z.webp" alt="PXL_20250703_015401245" />
+    <img src="/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511770039_rcy2j2z.webp" alt="PXL_20250703_015401245" />
     <figcaption>Still Interesting Though</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511770172_xpaqgcg.webp" alt="PXL_20250703_015428558" />
+    <img src="/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511770172_xpaqgcg.webp" alt="PXL_20250703_015428558" />
     <figcaption>Close Up</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511770492_5ybzfbk.webp" alt="PXL_20250703_202055925" />
+    <img src="/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511770492_5ybzfbk.webp" alt="PXL_20250703_202055925" />
     <figcaption>New Concept On The Print Bed</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511771325_oi9kj9b.webp" alt="PXL_20250704_020305973" />
+    <img src="/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511771325_oi9kj9b.webp" alt="PXL_20250704_020305973" />
     <figcaption>Thinking</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511771504_5fvhuf3.webp" alt="PXL_20250704_020405733" />
+    <img src="/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511771504_5fvhuf3.webp" alt="PXL_20250704_020405733" />
     <figcaption>Clearance tests</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511771693_pg4hrt7.webp" alt="PXL_20250704_020454025" />
+    <img src="/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511771693_pg4hrt7.webp" alt="PXL_20250704_020454025" />
     <figcaption>Incubating</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511771833_8yt7lj8.webp" alt="PXL_20250704_020511935" />
+    <img src="/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511771833_8yt7lj8.webp" alt="PXL_20250704_020511935" />
     <figcaption>Too Geometric</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511771983_ukpcsmf.webp" alt="PXL_20250705_172006312" />
+    <img src="/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511771983_ukpcsmf.webp" alt="PXL_20250705_172006312" />
     <figcaption>Rapid Evolution Side</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511772131_7ylmwmq.webp" alt="PXL_20250705_172131962" />
+    <img src="/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511772131_7ylmwmq.webp" alt="PXL_20250705_172131962" />
     <figcaption>Front</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511772283_n3s3w44.webp" alt="PXL_20250705_173317720" />
+    <img src="/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511772283_n3s3w44.webp" alt="PXL_20250705_173317720" />
     <figcaption>Standing</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511772585_9lar9uo.webp" alt="PXL_20250705_173403521" />
+    <img src="/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511772585_9lar9uo.webp" alt="PXL_20250705_173403521" />
     <figcaption>Top</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511772736_hqsa0hc.webp" alt="PXL_20250705_173859574" />
+    <img src="/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511772736_hqsa0hc.webp" alt="PXL_20250705_173859574" />
     <figcaption>Side Profile</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511772878_6arsp3g.webp" alt="PXL_20250707_181505912" />
+    <img src="/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511772878_6arsp3g.webp" alt="PXL_20250707_181505912" />
     <figcaption>Dialing in</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511773026_iui9cy1.webp" alt="PXL_20250707_181522972" />
+    <img src="/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511773026_iui9cy1.webp" alt="PXL_20250707_181522972" />
     <figcaption>Angles</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511773169_0v1aaty.webp" alt="PXL_20250707_181554414" />
+    <img src="/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511773169_0v1aaty.webp" alt="PXL_20250707_181554414" />
     <figcaption>Progress</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511776503_hbbrai5.webp" alt="Screenshot 2026-03-02 184651" />
+    <img src="/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511776503_hbbrai5.webp" alt="Screenshot 2026-03-02 184651" />
     <figcaption>Solidworks</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511773322_ybxlhm7.webp" alt="PXL_20250709_190621715" />
+    <img src="/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511773322_ybxlhm7.webp" alt="PXL_20250709_190621715" />
     <figcaption>Getting Closer</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511773493_2e0pbbm.webp" alt="PXL_20250709_190640719" />
+    <img src="/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511773493_2e0pbbm.webp" alt="PXL_20250709_190640719" />
     <figcaption>Minor Variations</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/pxl_20250711_001428971.webp" alt="PXL_20250711_001428971" />
+    <img src="/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/pxl_20250711_001428971.webp" alt="PXL_20250711_001428971" />
     <figcaption>Multi-material Support Printing</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511773917_ra5jlfo.webp" alt="PXL_20250711_211511372" />
+    <img src="/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511773917_ra5jlfo.webp" alt="PXL_20250711_211511372" />
     <figcaption>Working On Fine Details</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511774119_abkv92a.webp" alt="PXL_20250711_211608401" />
+    <img src="/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511774119_abkv92a.webp" alt="PXL_20250711_211608401" />
     <figcaption>Side Stones</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511774319_11wah0r.webp" alt="PXL_20250711_211618720" />
+    <img src="/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511774319_11wah0r.webp" alt="PXL_20250711_211618720" />
     <figcaption>Checking Travel</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511774526_xtwg6u3.webp" alt="PXL_20250711_211625925" />
+    <img src="/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511774526_xtwg6u3.webp" alt="PXL_20250711_211625925" />
     <figcaption>Changed To Cushion Cut</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511774718_d52dfdm.webp" alt="PXL_20250713_175714298" />
+    <img src="/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511774718_d52dfdm.webp" alt="PXL_20250713_175714298" />
     <figcaption>Final design Check</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511774868_fgti2hd.webp" alt="PXL_20250713_175810175" />
+    <img src="/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511774868_fgti2hd.webp" alt="PXL_20250713_175810175" />
     <figcaption>Supports Break Away</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511775010_ctj3466.webp" alt="PXL_20250713_175936668" />
+    <img src="/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511775010_ctj3466.webp" alt="PXL_20250713_175936668" />
     <figcaption>Need To Clean Up</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511775817_dyvytdd.webp" alt="PXL_20250723_192211601" />
+    <img src="/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511775817_dyvytdd.webp" alt="PXL_20250723_192211601" />
     <figcaption>Test Cast In Sterling Silver</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511776025_6dbky0k.webp" alt="PXL_20250723_192218209" />
+    <img src="/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511776025_6dbky0k.webp" alt="PXL_20250723_192218209" />
     <figcaption>Great Detail</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511776171_zweyar6.webp" alt="PXL_20250724_142942393" />
+    <img src="/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511776171_zweyar6.webp" alt="PXL_20250724_142942393" />
     <figcaption>Stone Test</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511776311_do08x4u.webp" alt="PXL_20250724_142952467" />
+    <img src="/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511776311_do08x4u.webp" alt="PXL_20250724_142952467" />
     <figcaption>Final Testing</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511776450_tryozaw.webp" alt="PXL_20250724_142958482" />
+    <img src="/posts/2025-08-29-the-rule-breaking-ring-an-engagement-rin/img_1772511776450_tryozaw.webp" alt="PXL_20250724_142958482" />
     <figcaption>All Systems Go</figcaption>
   </figure>
 </div>

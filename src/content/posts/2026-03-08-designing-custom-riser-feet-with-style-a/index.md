@@ -77,51 +77,51 @@ I'm always eager to share my experiences and insights with the community. If you
 
 <div class="gallery-grid">
   <figure>
-    <img src="/superlite_v2/posts/2026-03-08-designing-custom-riser-feet-with-style-a/custom_riser_feet_for_the.webp" alt="photo_2026-03-08_07-28-02" />
+    <img src="/posts/2026-03-08-designing-custom-riser-feet-with-style-a/custom_riser_feet_for_the.webp" alt="photo_2026-03-08_07-28-02" />
     <figcaption>Custom riser feet for the X-Tool to make storage</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-08-designing-custom-riser-feet-with-style-a/sitting_on_the_ground.webp" alt="photo_2026-03-08_07-00-50" />
+    <img src="/posts/2026-03-08-designing-custom-riser-feet-with-style-a/sitting_on_the_ground.webp" alt="photo_2026-03-08_07-00-50" />
     <figcaption>Sitting on the ground</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-08-designing-custom-riser-feet-with-style-a/quick_block_in_solidworks.webp" alt="Screenshot 2026-03-07 080937" />
+    <img src="/posts/2026-03-08-designing-custom-riser-feet-with-style-a/quick_block_in_solidworks.webp" alt="Screenshot 2026-03-07 080937" />
     <figcaption>Quick block in SolidWorks with a capture feature and draft angle</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-08-designing-custom-riser-feet-with-style-a/sliced_with_15__gyroid_la.webp" alt="Screenshot 2026-03-08 052719" />
+    <img src="/posts/2026-03-08-designing-custom-riser-feet-with-style-a/sliced_with_15__gyroid_la.webp" alt="Screenshot 2026-03-08 052719" />
     <figcaption>Sliced with 15% gyroid lattice to give strength</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-08-designing-custom-riser-feet-with-style-a/halfway_done.webp" alt="photo_2026-03-08_07-02-35" />
+    <img src="/posts/2026-03-08-designing-custom-riser-feet-with-style-a/halfway_done.webp" alt="photo_2026-03-08_07-02-35" />
     <figcaption>Halfway done</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-08-designing-custom-riser-feet-with-style-a/finals.webp" alt="photo_2026-03-08_07-00-47" />
+    <img src="/posts/2026-03-08-designing-custom-riser-feet-with-style-a/finals.webp" alt="photo_2026-03-08_07-00-47" />
     <figcaption>Finals</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-08-designing-custom-riser-feet-with-style-a/printing_tpu_foot_pads.webp" alt="photo_2026-03-08_07-01-05" />
+    <img src="/posts/2026-03-08-designing-custom-riser-feet-with-style-a/printing_tpu_foot_pads.webp" alt="photo_2026-03-08_07-01-05" />
     <figcaption>Printing TPU foot pads</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-08-designing-custom-riser-feet-with-style-a/finished_tpu_95a_antivibr.webp" alt="photo_2026-03-08_07-01-01" />
+    <img src="/posts/2026-03-08-designing-custom-riser-feet-with-style-a/finished_tpu_95a_antivibr.webp" alt="photo_2026-03-08_07-01-01" />
     <figcaption>Finished TPU 95A antivibration foot pads</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-08-designing-custom-riser-feet-with-style-a/stick_them_on.webp" alt="photo_2026-03-08_07-00-57" />
+    <img src="/posts/2026-03-08-designing-custom-riser-feet-with-style-a/stick_them_on.webp" alt="photo_2026-03-08_07-00-57" />
     <figcaption>Stick them on</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-08-designing-custom-riser-feet-with-style-a/i_set_the_print_to_optimi.webp" alt="photo_2026-03-08_07-01-11" />
+    <img src="/posts/2026-03-08-designing-custom-riser-feet-with-style-a/i_set_the_print_to_optimi.webp" alt="photo_2026-03-08_07-01-11" />
     <figcaption>I set the print to optimize for .25mm layer height and speed not worrying about the layer lines as these will not been visible</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-08-designing-custom-riser-feet-with-style-a/i_went_wild_chamfering_ev.webp" alt="photo_2026-03-08_07-01-17" />
+    <img src="/posts/2026-03-08-designing-custom-riser-feet-with-style-a/i_went_wild_chamfering_ev.webp" alt="photo_2026-03-08_07-01-17" />
     <figcaption>I went wild chamfering everything to save space and remove the need for supports</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-08-designing-custom-riser-feet-with-style-a/fully_deployed.webp" alt="photo_2026-03-08_07-28-02" />
+    <img src="/posts/2026-03-08-designing-custom-riser-feet-with-style-a/fully_deployed.webp" alt="photo_2026-03-08_07-28-02" />
     <figcaption>Fully deployed</figcaption>
   </figure>
 </div>

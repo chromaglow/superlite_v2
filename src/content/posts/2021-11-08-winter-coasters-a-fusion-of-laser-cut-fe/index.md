@@ -28,15 +28,15 @@ While I may have to revisit this project in the future, perhaps with the help of
 
 <div class="gallery-grid">
   <figure>
-    <img src="/superlite_v2/posts/2021-11-08-winter-coasters-a-fusion-of-laser-cut-fe/the_one_and_only_ever_pro.webp" alt="PXL_20241023_134256007" />
+    <img src="/posts/2021-11-08-winter-coasters-a-fusion-of-laser-cut-fe/the_one_and_only_ever_pro.webp" alt="PXL_20241023_134256007" />
     <figcaption>The one and only ever produced</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2021-11-08-winter-coasters-a-fusion-of-laser-cut-fe/initial_thought.webp" alt="IMG_0940" />
+    <img src="/posts/2021-11-08-winter-coasters-a-fusion-of-laser-cut-fe/initial_thought.webp" alt="IMG_0940" />
     <figcaption>Initial thought</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2021-11-08-winter-coasters-a-fusion-of-laser-cut-fe/permutations.webp" alt="IMG_0942" />
+    <img src="/posts/2021-11-08-winter-coasters-a-fusion-of-laser-cut-fe/permutations.webp" alt="IMG_0942" />
     <figcaption>Permutations</figcaption>
   </figure>
 </div>

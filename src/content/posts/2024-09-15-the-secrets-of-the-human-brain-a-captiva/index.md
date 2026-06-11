@@ -57,43 +57,43 @@ The process of 3D printing my own brain not only satisfied my childlike curiosit
 
 <div class="gallery-grid">
   <figure>
-    <img src="/superlite_v2/posts/2024-09-15-the-secrets-of-the-human-brain-a-captiva/i_guess_this_is_me__.webp" alt="PXL_20240916_013147255" />
+    <img src="/posts/2024-09-15-the-secrets-of-the-human-brain-a-captiva/i_guess_this_is_me__.webp" alt="PXL_20240916_013147255" />
     <figcaption>I Guess This Is Me??</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-09-15-the-secrets-of-the-human-brain-a-captiva/a_conversation_piece.webp" alt="PXL_20240916_131403833" />
+    <img src="/posts/2024-09-15-the-secrets-of-the-human-brain-a-captiva/a_conversation_piece.webp" alt="PXL_20240916_131403833" />
     <figcaption>A Conversation Piece</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-09-15-the-secrets-of-the-human-brain-a-captiva/look_at_those_ridges_and_.webp" alt="PXL_20240916_131352106" />
+    <img src="/posts/2024-09-15-the-secrets-of-the-human-brain-a-captiva/look_at_those_ridges_and_.webp" alt="PXL_20240916_131352106" />
     <figcaption>Look At Those Ridges And Lobes</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-09-15-the-secrets-of-the-human-brain-a-captiva/digital_me.webp" alt="Screenshot 2026-03-04 104457" />
+    <img src="/posts/2024-09-15-the-secrets-of-the-human-brain-a-captiva/digital_me.webp" alt="Screenshot 2026-03-04 104457" />
     <figcaption>Digital Me</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-09-15-the-secrets-of-the-human-brain-a-captiva/vascular_connections.webp" alt="Screenshot 2026-03-04 104111" />
+    <img src="/posts/2024-09-15-the-secrets-of-the-human-brain-a-captiva/vascular_connections.webp" alt="Screenshot 2026-03-04 104111" />
     <figcaption>Vascular Connections</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-09-15-the-secrets-of-the-human-brain-a-captiva/the_inner_workings_of_me.webp" alt="Screenshot 2026-03-04 104204" />
+    <img src="/posts/2024-09-15-the-secrets-of-the-human-brain-a-captiva/the_inner_workings_of_me.webp" alt="Screenshot 2026-03-04 104204" />
     <figcaption>The Inner Workings Of Me</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-09-15-the-secrets-of-the-human-brain-a-captiva/my_optic_nerves.webp" alt="Screenshot 2026-03-04 104315" />
+    <img src="/posts/2024-09-15-the-secrets-of-the-human-brain-a-captiva/my_optic_nerves.webp" alt="Screenshot 2026-03-04 104315" />
     <figcaption>My Optic Nerves</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-09-15-the-secrets-of-the-human-brain-a-captiva/on_the_printer_bed_with_s.webp" alt="PXL_20240914_181535574" />
+    <img src="/posts/2024-09-15-the-secrets-of-the-human-brain-a-captiva/on_the_printer_bed_with_s.webp" alt="PXL_20240914_181535574" />
     <figcaption>On The Printer Bed With Supports</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-09-15-the-secrets-of-the-human-brain-a-captiva/cooling_off.webp" alt="PXL_20250311_135730374" />
+    <img src="/posts/2024-09-15-the-secrets-of-the-human-brain-a-captiva/cooling_off.webp" alt="PXL_20250311_135730374" />
     <figcaption>Cooling Off</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-09-15-the-secrets-of-the-human-brain-a-captiva/wild.webp" alt="PXL_20250311_135737239" />
+    <img src="/posts/2024-09-15-the-secrets-of-the-human-brain-a-captiva/wild.webp" alt="PXL_20250311_135737239" />
     <figcaption>Wild</figcaption>
   </figure>
 </div>

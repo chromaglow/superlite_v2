@@ -76,23 +76,23 @@ I wanted to experience the joy of a thoughtfully designed instrument that become
 
 <div class="gallery-grid">
   <figure>
-    <img src="/superlite_v2/posts/2022-07-04-bring-flair-into-your-day-with-a-premium/beauty___function_in_hand.webp" alt="imgur.com" />
+    <img src="/posts/2022-07-04-bring-flair-into-your-day-with-a-premium/beauty___function_in_hand.webp" alt="imgur.com" />
     <figcaption>Beauty & Function In Hand</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2022-07-04-bring-flair-into-your-day-with-a-premium/concept_sketch.webp" alt="imgur.com" />
+    <img src="/posts/2022-07-04-bring-flair-into-your-day-with-a-premium/concept_sketch.webp" alt="imgur.com" />
     <figcaption>Concept Sketch</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2022-07-04-bring-flair-into-your-day-with-a-premium/translation_to_form.webp" alt="imgur.com" />
+    <img src="/posts/2022-07-04-bring-flair-into-your-day-with-a-premium/translation_to_form.webp" alt="imgur.com" />
     <figcaption>Translation To Form</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2022-07-04-bring-flair-into-your-day-with-a-premium/weighted_to_rest_dramatic.webp" alt="imgur.com" />
+    <img src="/posts/2022-07-04-bring-flair-into-your-day-with-a-premium/weighted_to_rest_dramatic.webp" alt="imgur.com" />
     <figcaption>Weighted To Rest Dramatically On Your Desk</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2022-07-04-bring-flair-into-your-day-with-a-premium/tack_through_your_day.webp" alt="imgur.com" />
+    <img src="/posts/2022-07-04-bring-flair-into-your-day-with-a-premium/tack_through_your_day.webp" alt="imgur.com" />
     <figcaption>Tack Through Your Day</figcaption>
   </figure>
 </div>

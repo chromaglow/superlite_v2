@@ -411,7 +411,7 @@ Let's talk about what else we can make come alive.
 
 <div class="gallery-grid">
   <figure>
-    <img src="/superlite_v2/posts/2026-02-06-outsmarting-the-impatient-a-personalized/valentine_gallery.webp" alt="valentine_gallery" />
+    <img src="/posts/2026-02-06-outsmarting-the-impatient-a-personalized/valentine_gallery.webp" alt="valentine_gallery" />
     <figcaption>valentine_gallery</figcaption>
   </figure>
 </div>

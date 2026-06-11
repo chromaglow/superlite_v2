@@ -43,47 +43,47 @@ The final result is a minimalist, custom-designed wall-mounted speaker shelf tha
 
 <div class="gallery-grid">
   <figure>
-    <img src="/superlite_v2/posts/2025-08-06-seamless-sound-a-minimalist-wall-mounted/fusion_360_rendering.webp" alt="Screenshot 2026-03-02 185929" />
+    <img src="/posts/2025-08-06-seamless-sound-a-minimalist-wall-mounted/fusion_360_rendering.webp" alt="Screenshot 2026-03-02 185929" />
     <figcaption>Fusion 360 rendering</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-06-seamless-sound-a-minimalist-wall-mounted/the_finished_shelf.webp" alt="PXL_20250806_015600626" />
+    <img src="/posts/2025-08-06-seamless-sound-a-minimalist-wall-mounted/the_finished_shelf.webp" alt="PXL_20250806_015600626" />
     <figcaption>The finished shelf</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-06-seamless-sound-a-minimalist-wall-mounted/the_space_in_need_of_a_sh.webp" alt="PXL_20250806_013450564" />
+    <img src="/posts/2025-08-06-seamless-sound-a-minimalist-wall-mounted/the_space_in_need_of_a_sh.webp" alt="PXL_20250806_013450564" />
     <figcaption>The space in need of a shelf</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-06-seamless-sound-a-minimalist-wall-mounted/mu_so_qb2_speaker_that_ne.webp" alt="PXL_20250806_013406730" />
+    <img src="/posts/2025-08-06-seamless-sound-a-minimalist-wall-mounted/mu_so_qb2_speaker_that_ne.webp" alt="PXL_20250806_013406730" />
     <figcaption>Mu-so Qb2 speaker that needs a home</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-06-seamless-sound-a-minimalist-wall-mounted/mu_so_qb2_internals.webp" alt="PXL_20250806_013350323" />
+    <img src="/posts/2025-08-06-seamless-sound-a-minimalist-wall-mounted/mu_so_qb2_internals.webp" alt="PXL_20250806_013350323" />
     <figcaption>Mu-so Qb2 internals</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-06-seamless-sound-a-minimalist-wall-mounted/fusion_360_.webp" alt="Screenshot 2026-03-02 185202" />
+    <img src="/posts/2025-08-06-seamless-sound-a-minimalist-wall-mounted/fusion_360_.webp" alt="Screenshot 2026-03-02 185202" />
     <figcaption>Fusion 360 </figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-06-seamless-sound-a-minimalist-wall-mounted/fusion_360_.webp" alt="Screenshot 2026-03-02 185259" />
+    <img src="/posts/2025-08-06-seamless-sound-a-minimalist-wall-mounted/fusion_360_.webp" alt="Screenshot 2026-03-02 185259" />
     <figcaption>Fusion 360 </figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-06-seamless-sound-a-minimalist-wall-mounted/fresh_off_the_printer.webp" alt="PXL_20250804_132004766" />
+    <img src="/posts/2025-08-06-seamless-sound-a-minimalist-wall-mounted/fresh_off_the_printer.webp" alt="PXL_20250804_132004766" />
     <figcaption>Fresh off the printer</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-06-seamless-sound-a-minimalist-wall-mounted/up_close.webp" alt="PXL_20250806_015339210" />
+    <img src="/posts/2025-08-06-seamless-sound-a-minimalist-wall-mounted/up_close.webp" alt="PXL_20250806_015339210" />
     <figcaption>Up close</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-06-seamless-sound-a-minimalist-wall-mounted/installed.webp" alt="PXL_20250806_015600626" />
+    <img src="/posts/2025-08-06-seamless-sound-a-minimalist-wall-mounted/installed.webp" alt="PXL_20250806_015600626" />
     <figcaption>Installed</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-08-06-seamless-sound-a-minimalist-wall-mounted/__.webp" alt="PXL_20250806_015605013" />
+    <img src="/posts/2025-08-06-seamless-sound-a-minimalist-wall-mounted/__.webp" alt="PXL_20250806_015605013" />
     <figcaption>:)</figcaption>
   </figure>
 </div>

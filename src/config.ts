@@ -11,35 +11,35 @@ import type {
 
 export const identity: Identity = {
   name: "Ezra Stjärna-Shively",
-  logo: "/superlite_v2/profile.jpg",
+  logo: "/profile.jpg",
   email: "armyofme@ezrashively.com",
 };
 
 export const navBarLinks: NavBarLink[] = [
   {
     title: "Home",
-    url: "/superlite_v2/",
+    url: "/",
   },
   {
     title: "About",
-    url: "/superlite_v2/about",
+    url: "/about",
   },
   {
     title: "Resume",
-    url: "/superlite_v2/assets/ezra-stjarna-shively-resume.pdf",
+    url: "/assets/ezra-stjarna-shively-resume.pdf",
     external: true,
   },
   {
     title: "Work With Me",
-    url: "/superlite_v2/work-with-me",
+    url: "/work-with-me",
   },
   {
     title: "The Lab",
-    url: "/superlite_v2/lab",
+    url: "/lab",
   },
   {
     title: "Thinking",
-    url: "/superlite_v2/thinking",
+    url: "/thinking",
   },
 ];
 
@@ -105,11 +105,11 @@ export const aboutPageContent: AboutPageContent = {
 
 <p>Currently: consulting through Army of Me LLC, operating Tiny Food Foundry, and open to Director TPM, VP Technical Operations, and Senior Program Management roles in Seattle, EU relocation, or remote. Reach out at armyofme@ezrashively.com or on LinkedIn.</p>`,
     image_l: {
-      url: "/superlite_v2/profile.jpg",
+      url: "/profile.jpg",
       alt: "Ezra Stjärna-Shively",
     },
     image_r: {
-      url: "/superlite_v2/profile.jpg",
+      url: "/profile.jpg",
       alt: "Ezra Stjärna-Shively",
     },
   },
@@ -138,8 +138,8 @@ export const aboutPageContent: AboutPageContent = {
         title: "Global Technical Program Manager II | AI/ML Automation | Process Engineering | Operations Technology",
         company: {
           name: "Amazon",
-          image: "/superlite_v2/assets/amazon-logo.jpg",
-          url: "/superlite_v2/work/amazon",
+          image: "/assets/amazon-logo.jpg",
+          url: "/work/amazon",
         },
         date: "2020 - May 2026",
       },

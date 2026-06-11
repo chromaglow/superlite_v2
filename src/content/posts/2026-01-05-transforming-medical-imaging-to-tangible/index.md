@@ -47,19 +47,19 @@ This endeavor has become more than just an interest - it's a true calling. I'm e
 
 <div class="gallery-grid">
   <figure>
-    <img src="/superlite_v2/posts/2026-01-05-transforming-medical-imaging-to-tangible/my_remarkable_companion_e.webp" alt="PXL_20230121_175046166" />
+    <img src="/posts/2026-01-05-transforming-medical-imaging-to-tangible/my_remarkable_companion_e.webp" alt="PXL_20230121_175046166" />
     <figcaption>My remarkable companion Edie</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-01-05-transforming-medical-imaging-to-tangible/a_1_1_model_of_her_skull.webp" alt="photo_2026-01-05_19-06-22" />
+    <img src="/posts/2026-01-05-transforming-medical-imaging-to-tangible/a_1_1_model_of_her_skull.webp" alt="photo_2026-01-05_19-06-22" />
     <figcaption>A 1:1 model of her skull</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-01-05-transforming-medical-imaging-to-tangible/creating_volumes__segment.webp" alt="edie skull" />
+    <img src="/posts/2026-01-05-transforming-medical-imaging-to-tangible/creating_volumes__segment.webp" alt="edie skull" />
     <figcaption>Creating volumes, segmenting, and exporting from DICOM data</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-01-05-transforming-medical-imaging-to-tangible/fresh_off_the_print_bed.webp" alt="photo_2026-01-05_19-06-19" />
+    <img src="/posts/2026-01-05-transforming-medical-imaging-to-tangible/fresh_off_the_print_bed.webp" alt="photo_2026-01-05_19-06-19" />
     <figcaption>Fresh off the print bed</figcaption>
   </figure>
 </div>

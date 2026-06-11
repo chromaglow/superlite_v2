@@ -37,59 +37,59 @@ The beauty of this project lies in its simplicity and functionality. By leveragi
 
 <div class="gallery-grid">
   <figure>
-    <img src="/superlite_v2/posts/2026-03-07-hands-free-workbench-waste-collector/minimal_footprint_and_con.webp" alt="PXL_20241023_215314425" />
+    <img src="/posts/2026-03-07-hands-free-workbench-waste-collector/minimal_footprint_and_con.webp" alt="PXL_20241023_215314425" />
     <figcaption>Minimal footprint and convenience </figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-07-hands-free-workbench-waste-collector/the_culprit.webp" alt="PXL_20241023_212703986" />
+    <img src="/posts/2026-03-07-hands-free-workbench-waste-collector/the_culprit.webp" alt="PXL_20241023_212703986" />
     <figcaption>The culprit</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-07-hands-free-workbench-waste-collector/v3_concept.webp" alt="Fusion360_5ACUSZ7x18" />
+    <img src="/posts/2026-03-07-hands-free-workbench-waste-collector/v3_concept.webp" alt="Fusion360_5ACUSZ7x18" />
     <figcaption>V3 concept</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-07-hands-free-workbench-waste-collector/a_quick_render.webp" alt="trash v3" />
+    <img src="/posts/2026-03-07-hands-free-workbench-waste-collector/a_quick_render.webp" alt="trash v3" />
     <figcaption>A quick render</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-07-hands-free-workbench-waste-collector/on_the_printer.webp" alt="PXL_20241023_182015675" />
+    <img src="/posts/2026-03-07-hands-free-workbench-waste-collector/on_the_printer.webp" alt="PXL_20241023_182015675" />
     <figcaption>On the printer</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-07-hands-free-workbench-waste-collector/support_removal__hmmm_i_w.webp" alt="PXL_20241023_192625576" />
+    <img src="/posts/2026-03-07-hands-free-workbench-waste-collector/support_removal__hmmm_i_w.webp" alt="PXL_20241023_192625576" />
     <figcaption>Support removal, hmmm I wish I had something to catch all this</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-07-hands-free-workbench-waste-collector/just__hanging_out_.webp" alt="PXL_20241023_212740636" />
+    <img src="/posts/2026-03-07-hands-free-workbench-waste-collector/just__hanging_out_.webp" alt="PXL_20241023_212740636" />
     <figcaption>Just "hanging out"</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-07-hands-free-workbench-waste-collector/oh_this_is_convenient_.webp" alt="PXL_20241023_212749661" />
+    <img src="/posts/2026-03-07-hands-free-workbench-waste-collector/oh_this_is_convenient_.webp" alt="PXL_20241023_212749661" />
     <figcaption>Oh this is convenient!</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-07-hands-free-workbench-waste-collector/just_tidying_up.webp" alt="PXL_20241023_212832148" />
+    <img src="/posts/2026-03-07-hands-free-workbench-waste-collector/just_tidying_up.webp" alt="PXL_20241023_212832148" />
     <figcaption>Just tidying up</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-07-hands-free-workbench-waste-collector/boom.webp" alt="PXL_20241023_212926600" />
+    <img src="/posts/2026-03-07-hands-free-workbench-waste-collector/boom.webp" alt="PXL_20241023_212926600" />
     <figcaption>Boom</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-07-hands-free-workbench-waste-collector/v4_with_added_capacity.webp" alt="Screenshot 2026-03-08 121702" />
+    <img src="/posts/2026-03-07-hands-free-workbench-waste-collector/v4_with_added_capacity.webp" alt="Screenshot 2026-03-08 121702" />
     <figcaption>V4 with added capacity</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-07-hands-free-workbench-waste-collector/fresh_off_the_printer_.webp" alt="IMG_0975" />
+    <img src="/posts/2026-03-07-hands-free-workbench-waste-collector/fresh_off_the_printer_.webp" alt="IMG_0975" />
     <figcaption>Fresh off the printer </figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-07-hands-free-workbench-waste-collector/a_little_bigger_than_i_wo.webp" alt="IMG_0977" />
+    <img src="/posts/2026-03-07-hands-free-workbench-waste-collector/a_little_bigger_than_i_wo.webp" alt="IMG_0977" />
     <figcaption>A little bigger than I would like</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-07-hands-free-workbench-waste-collector/but_it_has_great_capacity.webp" alt="IMG_0978" />
+    <img src="/posts/2026-03-07-hands-free-workbench-waste-collector/but_it_has_great_capacity.webp" alt="IMG_0978" />
     <figcaption>But it has great capacity...guess I will be making one more version, V5 coming soon</figcaption>
   </figure>
 </div>

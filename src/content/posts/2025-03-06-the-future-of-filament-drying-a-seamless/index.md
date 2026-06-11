@@ -60,167 +60,167 @@ That's the part I actually enjoyed most about this one. Injection molded consume
 
 <div class="gallery-grid">
   <figure>
-    <img src="/superlite_v2/posts/2025-03-06-the-future-of-filament-drying-a-seamless/photo_2024_12_14_10_48_21.webp" alt="photo_2024-12-14_10-48-21" />
+    <img src="/posts/2025-03-06-the-future-of-filament-drying-a-seamless/photo_2024_12_14_10_48_21.webp" alt="photo_2024-12-14_10-48-21" />
     <figcaption>Finished cleat that registers with factory edges!!</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-03-06-the-future-of-filament-drying-a-seamless/photo_2024_12_14_10_48_26.webp" alt="photo_2024-12-14_10-48-26" />
+    <img src="/posts/2025-03-06-the-future-of-filament-drying-a-seamless/photo_2024_12_14_10_48_26.webp" alt="photo_2024-12-14_10-48-26" />
     <figcaption>Front </figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-03-06-the-future-of-filament-drying-a-seamless/photo_2024_12_14_10_48_30.webp" alt="photo_2024-12-14_10-48-30" />
+    <img src="/posts/2025-03-06-the-future-of-filament-drying-a-seamless/photo_2024_12_14_10_48_30.webp" alt="photo_2024-12-14_10-48-30" />
     <figcaption>In Action</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-03-06-the-future-of-filament-drying-a-seamless/photo_2024_12_14_10_48_34.webp" alt="q" />
+    <img src="/posts/2025-03-06-the-future-of-filament-drying-a-seamless/photo_2024_12_14_10_48_34.webp" alt="q" />
     <figcaption>Footprint Isn't Great, But Not Terrible Either</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-03-06-the-future-of-filament-drying-a-seamless/photo_2024_12_14_10_48_18.webp" alt="photo_2024-12-14_10-48-18" />
+    <img src="/posts/2025-03-06-the-future-of-filament-drying-a-seamless/photo_2024_12_14_10_48_18.webp" alt="photo_2024-12-14_10-48-18" />
     <figcaption>Final Print Plate</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-03-06-the-future-of-filament-drying-a-seamless/photo_2024_12_14_10_48_36.webp" alt="photo_2024-12-14_10-48-36" />
+    <img src="/posts/2025-03-06-the-future-of-filament-drying-a-seamless/photo_2024_12_14_10_48_36.webp" alt="photo_2024-12-14_10-48-36" />
     <figcaption>Multiboard Shelving Holds The Dryer</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-03-06-the-future-of-filament-drying-a-seamless/photo_2024_12_14_10_48_39.webp" alt="photo_2024-12-14_10-48-39" />
+    <img src="/posts/2025-03-06-the-future-of-filament-drying-a-seamless/photo_2024_12_14_10_48_39.webp" alt="photo_2024-12-14_10-48-39" />
     <figcaption>USB Powered Fan Gets This Done</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-03-06-the-future-of-filament-drying-a-seamless/photo_2024_12_14_10_48_41.webp" alt="photo_2024-12-14_10-48-41" />
+    <img src="/posts/2025-03-06-the-future-of-filament-drying-a-seamless/photo_2024_12_14_10_48_41.webp" alt="photo_2024-12-14_10-48-41" />
     <figcaption>5v</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-03-06-the-future-of-filament-drying-a-seamless/photo_2024_12_14_13_19_52.webp" alt="photo_2024-12-14_13-19-52" />
+    <img src="/posts/2025-03-06-the-future-of-filament-drying-a-seamless/photo_2024_12_14_13_19_52.webp" alt="photo_2024-12-14_13-19-52" />
     <figcaption>Iterations</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241112_223735664.webp" alt="PXL_20241112_223735664" />
+    <img src="/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241112_223735664.webp" alt="PXL_20241112_223735664" />
     <figcaption>Templates</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241112_224236938.webp" alt="PXL_20241112_224236938" />
+    <img src="/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241112_224236938.webp" alt="PXL_20241112_224236938" />
     <figcaption>Templates</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241112_224258238.webp" alt="PXL_20241112_224258238" />
+    <img src="/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241112_224258238.webp" alt="PXL_20241112_224258238" />
     <figcaption>Templates</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241112_224618424.webp" alt="PXL_20241112_224618424" />
+    <img src="/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241112_224618424.webp" alt="PXL_20241112_224618424" />
     <figcaption>Templates</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241112_224646537.webp" alt="PXL_20241112_224646537" />
+    <img src="/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241112_224646537.webp" alt="PXL_20241112_224646537" />
     <figcaption>Template Fitting </figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241112_225549181.webp" alt="PXL_20241112_225549181" />
+    <img src="/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241112_225549181.webp" alt="PXL_20241112_225549181" />
     <figcaption>Template Fitting</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241112_225831998.webp" alt="PXL_20241112_225831998" />
+    <img src="/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241112_225831998.webp" alt="PXL_20241112_225831998" />
     <figcaption>All About The Angles </figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241112_225834607.webp" alt="PXL_20241112_225834607" />
+    <img src="/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241112_225834607.webp" alt="PXL_20241112_225834607" />
     <figcaption>Its All In The Details</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241112_230924988.webp" alt="PXL_20241112_230924988" />
+    <img src="/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241112_230924988.webp" alt="PXL_20241112_230924988" />
     <figcaption>Getting There</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241112_232716294.webp" alt="PXL_20241112_232716294" />
+    <img src="/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241112_232716294.webp" alt="PXL_20241112_232716294" />
     <figcaption>So Close</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241112_232719483.webp" alt="PXL_20241112_232719483" />
+    <img src="/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241112_232719483.webp" alt="PXL_20241112_232719483" />
     <figcaption>Templates</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241112_233003557.webp" alt="PXL_20241112_233003557" />
+    <img src="/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241112_233003557.webp" alt="PXL_20241112_233003557" />
     <figcaption>It fits</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241113_181337855.webp" alt="PXL_20241113_181337855" />
+    <img src="/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241113_181337855.webp" alt="PXL_20241113_181337855" />
     <figcaption>Custom Flanges</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241113_181353067.webp" alt="PXL_20241113_181353067" />
+    <img src="/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241113_181353067.webp" alt="PXL_20241113_181353067" />
     <figcaption>On the print bed</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241113_181659578.webp" alt="PXL_20241113_181659578" />
+    <img src="/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241113_181659578.webp" alt="PXL_20241113_181659578" />
     <figcaption>Fitting </figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241113_181704556.webp" alt="PXL_20241113_181704556" />
+    <img src="/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241113_181704556.webp" alt="PXL_20241113_181704556" />
     <figcaption>Fitting</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241113_182325565.webp" alt="PXL_20241113_182325565" />
+    <img src="/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241113_182325565.webp" alt="PXL_20241113_182325565" />
     <figcaption>Mock Test</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241116_205012711.webp" alt="PXL_20241116_205012711" />
+    <img src="/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241116_205012711.webp" alt="PXL_20241116_205012711" />
     <figcaption>Insulated Tubing and Flanges </figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241116_205410739.webp" alt="PXL_20241116_205410739" />
+    <img src="/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241116_205410739.webp" alt="PXL_20241116_205410739" />
     <figcaption>Building</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241116_212430934.webp" alt="PXL_20241116_212430934" />
+    <img src="/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241116_212430934.webp" alt="PXL_20241116_212430934" />
     <figcaption>Weight Bearing</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241116_212440377.webp" alt="PXL_20241116_212440377" />
+    <img src="/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241116_212440377.webp" alt="PXL_20241116_212440377" />
     <figcaption>Testing</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241116_212616760.webp" alt="PXL_20241116_212616760" />
+    <img src="/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241116_212616760.webp" alt="PXL_20241116_212616760" />
     <figcaption>Line It Up</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241116_213404968.webp" alt="PXL_20241116_213404968" />
+    <img src="/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241116_213404968.webp" alt="PXL_20241116_213404968" />
     <figcaption>Space Dock Complete</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241116_222453402.webp" alt="PXL_20241116_222453402" />
+    <img src="/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241116_222453402.webp" alt="PXL_20241116_222453402" />
     <figcaption>Flanges</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241116_222644172.webp" alt="PXL_20241116_222644172" />
+    <img src="/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241116_222644172.webp" alt="PXL_20241116_222644172" />
     <figcaption>I Love A Good Rendering</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241128_144806528.webp" alt="PXL_20241128_144806528" />
+    <img src="/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241128_144806528.webp" alt="PXL_20241128_144806528" />
     <figcaption>Angles </figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241205_211747267.webp" alt="PXL_20241205_211747267" />
+    <img src="/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241205_211747267.webp" alt="PXL_20241205_211747267" />
     <figcaption>Templates</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241206_141911700.webp" alt="PXL_20241206_141911700" />
+    <img src="/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241206_141911700.webp" alt="PXL_20241206_141911700" />
     <figcaption>Templates</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241214_210815636.webp" alt="PXL_20241214_210815636" />
+    <img src="/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241214_210815636.webp" alt="PXL_20241214_210815636" />
     <figcaption>Iterations </figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241214_211102894.webp" alt="PXL_20241214_211102894" />
+    <img src="/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241214_211102894.webp" alt="PXL_20241214_211102894" />
     <figcaption>Iterations</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241214_211111626.webp" alt="PXL_20241214_211111626" />
+    <img src="/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241214_211111626.webp" alt="PXL_20241214_211111626" />
     <figcaption>Iterations</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241214_211410878.webp" alt="PXL_20241214_211410878" />
+    <img src="/posts/2025-03-06-the-future-of-filament-drying-a-seamless/pxl_20241214_211410878.webp" alt="PXL_20241214_211410878" />
     <figcaption>Final Template </figcaption>
   </figure>
 </div>

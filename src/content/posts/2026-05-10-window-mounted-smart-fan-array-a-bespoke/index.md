@@ -40,127 +40,127 @@ I'm a fan of the cassette futurism, vintage technology aesthetic. I styled the w
 
 <div class="gallery-grid">
   <figure>
-    <img src="/superlite_v2/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/the_finished_fan_in_windo.webp" alt="91" />
+    <img src="/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/the_finished_fan_in_windo.webp" alt="91" />
     <figcaption>The finished fan in window</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/dashboard_interface_chart.webp" alt="dash1" />
+    <img src="/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/dashboard_interface_chart.webp" alt="dash1" />
     <figcaption>Dashboard interface charts humidity, temp and barometric pressure</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/dashboard_also_shows_loca.webp" alt="dash2" />
+    <img src="/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/dashboard_also_shows_loca.webp" alt="dash2" />
     <figcaption>Dashboard also shows local weather forecast, radar and actual vs forecast temp using national weather API</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/close_up_of_the_fan_contr.webp" alt="control close up" />
+    <img src="/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/close_up_of_the_fan_contr.webp" alt="control close up" />
     <figcaption>Close up of the fan control diagram</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/fitting_the__brain__cover.webp" alt="94" />
+    <img src="/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/fitting_the__brain__cover.webp" alt="94" />
     <figcaption>Fitting the "brain" covers to the frame</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/brain_cover_design_for_se.webp" alt="brain2" />
+    <img src="/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/brain_cover_design_for_se.webp" alt="brain2" />
     <figcaption>brain cover design for sensor housing has vents to enhance accuracy of readings</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/raspberry_pi_brain_cover.webp" alt="brain1" />
+    <img src="/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/raspberry_pi_brain_cover.webp" alt="brain1" />
     <figcaption>Raspberry Pi brain cover</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/fan_cover_rack_.webp" alt="93" />
+    <img src="/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/fan_cover_rack_.webp" alt="93" />
     <figcaption>Fan cover rack</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/wall_mounted_fan_cover_ra.webp" alt="92" />
+    <img src="/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/wall_mounted_fan_cover_ra.webp" alt="92" />
     <figcaption>Wall mounted fan cover rack to hold the magnetic covers when then are in use</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/fan_cover_design_2.webp" alt="cover2" />
+    <img src="/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/fan_cover_design_2.webp" alt="cover2" />
     <figcaption>Fan cover design 2</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/fan_cover_design_1.webp" alt="cover1" />
+    <img src="/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/fan_cover_design_1.webp" alt="cover1" />
     <figcaption>Fan cover design 1</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/securing_the_fan_units_an.webp" alt="9" />
+    <img src="/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/securing_the_fan_units_an.webp" alt="9" />
     <figcaption>Securing the fan units and building the wiring harness</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/constructing_the_outer_fr.webp" alt="8" />
+    <img src="/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/constructing_the_outer_fr.webp" alt="8" />
     <figcaption>Constructing the outer frame and checking tolerances</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/setting_anchor_magnets_in.webp" alt="7" />
+    <img src="/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/setting_anchor_magnets_in.webp" alt="7" />
     <figcaption>Setting anchor magnets in the frames</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/securing_dovetails_of_the.webp" alt="6" />
+    <img src="/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/securing_dovetails_of_the.webp" alt="6" />
     <figcaption>Securing dovetails of the top and bottom frames</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/clean_final_frame_prints.webp" alt="5" />
+    <img src="/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/clean_final_frame_prints.webp" alt="5" />
     <figcaption>Clean final frame prints</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/support_removal.webp" alt="4" />
+    <img src="/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/support_removal.webp" alt="4" />
     <figcaption>Support removal</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/60_hour_print_of_the_fina.webp" alt="3" />
+    <img src="/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/60_hour_print_of_the_fina.webp" alt="3" />
     <figcaption>60 hour print of the final frames on the H2D print bed</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/final_print_files_secures.webp" alt="2" />
+    <img src="/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/final_print_files_secures.webp" alt="2" />
     <figcaption>Final print files secures fans to frame in the back and only shows rare earth magnets on the front for an uncluttered appearance</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/final_prototype_functions.webp" alt="PXL_20250530_150029943" />
+    <img src="/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/final_prototype_functions.webp" alt="PXL_20250530_150029943" />
     <figcaption>Final prototype functions, time to refine the design and print finals</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/cleaned_up_electronics_.webp" alt="PXL_20250411_213246522" />
+    <img src="/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/cleaned_up_electronics_.webp" alt="PXL_20250411_213246522" />
     <figcaption>Cleaned up electronics</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/connecting_fan_mosfet_and.webp" alt="PXL_20250411_185856551" />
+    <img src="/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/connecting_fan_mosfet_and.webp" alt="PXL_20250411_185856551" />
     <figcaption>Connecting fan MOSFET and BM280 sensor to the correct raspberry pi pins via a bread board to create more space</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/connecting_and_routing_po.webp" alt="PXL_20250409_231700418" />
+    <img src="/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/connecting_and_routing_po.webp" alt="PXL_20250409_231700418" />
     <figcaption>Connecting and routing power supply</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/first_power_test_is_a_suc.webp" alt="PXL_20250407_215335232" />
+    <img src="/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/first_power_test_is_a_suc.webp" alt="PXL_20250407_215335232" />
     <figcaption>First power test is a success</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/mosfet_channel_routing.webp" alt="PXL_20250409_223607501" />
+    <img src="/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/mosfet_channel_routing.webp" alt="PXL_20250409_223607501" />
     <figcaption>MOSFET channel routing</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/fan_frame_fits_seamlessly.webp" alt="PXL_20250408_233752291" />
+    <img src="/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/fan_frame_fits_seamlessly.webp" alt="PXL_20250408_233752291" />
     <figcaption>Fan frame fits seamlessly in the window track</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/fan_fit_test_passed.webp" alt="PXL_20250407_212917374" />
+    <img src="/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/fan_fit_test_passed.webp" alt="PXL_20250407_212917374" />
     <figcaption>Fan fit test passed</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/prototype_frame_design_in.webp" alt="1" />
+    <img src="/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/prototype_frame_design_in.webp" alt="1" />
     <figcaption>Prototype frame design in Solidworks</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/hardware_eval_and_measure.webp" alt="PXL_20250406_111451318" />
+    <img src="/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/hardware_eval_and_measure.webp" alt="PXL_20250406_111451318" />
     <figcaption>Hardware eval and measurement</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/starting_with_a_pile_of_h.webp" alt="PXL_20250406_111425846" />
+    <img src="/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/starting_with_a_pile_of_h.webp" alt="PXL_20250406_111425846" />
     <figcaption>Starting with a pile of hardware</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/the_original_idea_sketch.webp" alt="PXL_20250406_013104465" />
+    <img src="/posts/2026-05-10-window-mounted-smart-fan-array-a-bespoke/the_original_idea_sketch.webp" alt="PXL_20250406_013104465" />
     <figcaption>The original idea sketch</figcaption>
   </figure>
 </div>

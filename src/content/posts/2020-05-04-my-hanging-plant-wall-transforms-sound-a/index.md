@@ -73,11 +73,11 @@ The final product is a stunning, modular plant wall that not only enhances the a
 
 <div class="gallery-grid">
   <figure>
-    <img src="/superlite_v2/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/the_completed_project.webp" alt="The completed project, process photos below" />
+    <img src="/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/the_completed_project.webp" alt="The completed project, process photos below" />
     <figcaption>The completed project</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/i_have_wanted_to_add_plan.webp" alt="I have wanted to add plants to my room for a long time. I have limited space with the best canidate being on the wall behind my stereo. 
+    <img src="/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/i_have_wanted_to_add_plan.webp" alt="I have wanted to add plants to my room for a long time. I have limited space with the best canidate being on the wall behind my stereo. 
 
 Because of proximity to the stereo and room conditions the plants need to be low maintenance (no watering on site) the design needs to be flexible to accommodate many types of plants, customizable to provide fun interaction and functional for the sound in the space.
 
@@ -89,135 +89,135 @@ Plants, flexibility and attractive sound performance enhancer." />
     <figcaption>I have wanted to add plants to my room for a long time. I have limited space with the best candidate being on the wall behind my stereo.</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/i_ordered_some_air_plants.webp" alt="I ordered some air plants to bring life to my room" />
+    <img src="/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/i_ordered_some_air_plants.webp" alt="I ordered some air plants to bring life to my room" />
     <figcaption>I ordered some air plants to bring life to my room</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/the_wall_i_wanted_to_remo.webp" alt="The wall I intended to use" />
+    <img src="/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/the_wall_i_wanted_to_remo.webp" alt="The wall I intended to use" />
     <figcaption>The wall I wanted to remove bounce back from</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/started_with_a_quick_pape.webp" alt="Started with a quick paper template to validate size" />
+    <img src="/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/started_with_a_quick_pape.webp" alt="Started with a quick paper template to validate size" />
     <figcaption>Started with a quick paper template to validate size</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/then_drafting_in_fusion_3.webp" alt="Then drafting in fusion 360" />
+    <img src="/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/then_drafting_in_fusion_3.webp" alt="Then drafting in fusion 360" />
     <figcaption>Then drafting in fusion 360</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/cutting_the_first_draft_o.webp" alt="Cutting the first draft of the hanging brackets" />
+    <img src="/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/cutting_the_first_draft_o.webp" alt="Cutting the first draft of the hanging brackets" />
     <figcaption>Cutting the first draft of the hanging brackets</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/the_three_components_of_e.webp" alt="The three components of each bracket" />
+    <img src="/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/the_three_components_of_e.webp" alt="The three components of each bracket" />
     <figcaption>The three components of each bracket</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/recessed_engravings_hold_.webp" alt="Recessed engravings hold thumbtacks that pierce the felt to hang it, and other laser machined recessses hold magnets to keep the front valance in place." />
+    <img src="/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/recessed_engravings_hold_.webp" alt="Recessed engravings hold thumbtacks that pierce the felt to hang it, and other laser machined recessses hold magnets to keep the front valance in place." />
     <figcaption>Recessed engravings hold thumbtacks that pierce the felt to hang it, and other laser machined recessses hold magnets to keep the front valance in place.</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/needs_just_a_few_toleranc.webp" alt="Needs just a few tolerance adjustments" />
+    <img src="/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/needs_just_a_few_toleranc.webp" alt="Needs just a few tolerance adjustments" />
     <figcaption>Needs just a few tolerance adjustments</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/with_the_front_valance_in.webp" alt="With the front valance in place" />
+    <img src="/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/with_the_front_valance_in.webp" alt="With the front valance in place" />
     <figcaption>With the front valance in place</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/drafting_ideas_from_sketc.webp" alt="Drafting ideas from sketches" />
+    <img src="/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/drafting_ideas_from_sketc.webp" alt="Drafting ideas from sketches" />
     <figcaption>Drafting ideas from sketches</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/single_magnet_design_with.webp" alt="Single magnet design with machined divot to place magnet" />
+    <img src="/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/single_magnet_design_with.webp" alt="Single magnet design with machined divot to place magnet" />
     <figcaption>Single magnet design with machined divot to place magnet</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/a_sample_of_the_felt_in_t.webp" alt="A sample of the felt in the proper thickness to test with" />
+    <img src="/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/a_sample_of_the_felt_in_t.webp" alt="A sample of the felt in the proper thickness to test with" />
     <figcaption>A sample of the felt in the proper thickness to test with</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/mini_plant_holder_appears.webp" alt="mini plant holder appears to adhere with magnets" />
+    <img src="/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/mini_plant_holder_appears.webp" alt="mini plant holder appears to adhere with magnets" />
     <figcaption>mini plant holder appears to adhere with magnets</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/with_any_weight_they_seem.webp" alt="With any weight they seem to droop away from the material so I need to go back to the drawing board and re-engineer with more support" />
+    <img src="/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/with_any_weight_they_seem.webp" alt="With any weight they seem to droop away from the material so I need to go back to the drawing board and re-engineer with more support" />
     <figcaption>With any weight they seem to droop away from the material so I need to go back to the drawing board and re-engineer with more support</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/taller_backing_board_and_.webp" alt="Taller backing board and two magnets" />
+    <img src="/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/taller_backing_board_and_.webp" alt="Taller backing board and two magnets" />
     <figcaption>Taller backing board and two magnets</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/works_beautifully.webp" alt="works beautifully" />
+    <img src="/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/works_beautifully.webp" alt="works beautifully" />
     <figcaption>works beautifully</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/drafting_and_cutting_new_.webp" alt="Cut them out" />
+    <img src="/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/drafting_and_cutting_new_.webp" alt="Cut them out" />
     <figcaption>Drafting and cutting new designs</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/using_1_2_3_blocks_is_a_g.webp" alt="Using 1-2-3 blocks is a great way to glue things at correct 90 degree angles" />
+    <img src="/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/using_1_2_3_blocks_is_a_g.webp" alt="Using 1-2-3 blocks is a great way to glue things at correct 90 degree angles" />
     <figcaption>Using 1-2-3 blocks is a great way to glue things at correct 90 degree angles</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/a_finished_shelf_holder.webp" alt="A finished shelf holder" />
+    <img src="/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/a_finished_shelf_holder.webp" alt="A finished shelf holder" />
     <figcaption>A finished shelf holder</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/glueing_the_bracket_space.webp" alt="Glueing the bracket spacer in place" />
+    <img src="/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/glueing_the_bracket_space.webp" alt="Glueing the bracket spacer in place" />
     <figcaption>Glueing the bracket spacer in place</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/neat_and_tight_design.webp" alt="Neat and tight design" />
+    <img src="/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/neat_and_tight_design.webp" alt="Neat and tight design" />
     <figcaption>Neat and tight design</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/all_done.webp" alt="All done" />
+    <img src="/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/all_done.webp" alt="All done" />
     <figcaption>All done</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/all_complete.webp" alt="All complete" />
+    <img src="/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/all_complete.webp" alt="All complete" />
     <figcaption>All complete</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/the_day_came_when_it_arri.webp" alt="The day came when it arrived and I never " felt" better" />
+    <img src="/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/the_day_came_when_it_arri.webp" alt="The day came when it arrived and I never " felt" better" />
     <figcaption>The day came when it arrived and I never " felt" better</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/measuring_tools_and_suppl.webp" alt="Measuring tools and supplies for putting the brackets up" />
+    <img src="/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/measuring_tools_and_suppl.webp" alt="Measuring tools and supplies for putting the brackets up" />
     <figcaption>Measuring tools and supplies for putting the brackets up</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/my_patented_wall_dust_dri.webp" alt="My patented wall dust drilling catcher" />
+    <img src="/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/my_patented_wall_dust_dri.webp" alt="My patented wall dust drilling catcher" />
     <figcaption>My patented wall dust drilling catcher</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/the_right_side_is_up.webp" alt="The right side is up" />
+    <img src="/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/the_right_side_is_up.webp" alt="The right side is up" />
     <figcaption>The right side is up</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/both_sides_with_the_felt_.webp" alt="Both sides with the Felt in place" />
+    <img src="/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/both_sides_with_the_felt_.webp" alt="Both sides with the Felt in place" />
     <figcaption>Both sides with the Felt in place</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/side.webp" alt="Side" />
+    <img src="/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/side.webp" alt="Side" />
     <figcaption>Side</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/close_up.webp" alt="Close up" />
+    <img src="/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/close_up.webp" alt="Close up" />
     <figcaption>Close up</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/close_up.webp" alt="Close up" />
+    <img src="/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/close_up.webp" alt="Close up" />
     <figcaption>Close up</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/close_up.webp" alt="Close up" />
+    <img src="/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/close_up.webp" alt="Close up" />
     <figcaption>Close up</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/perspective.webp" alt="Perspective" />
+    <img src="/posts/2020-05-04-my-hanging-plant-wall-transforms-sound-a/perspective.webp" alt="Perspective" />
     <figcaption>Perspective</figcaption>
   </figure>
 </div>

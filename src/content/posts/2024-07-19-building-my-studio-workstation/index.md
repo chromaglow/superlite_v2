@@ -55,47 +55,47 @@ PSU: Corsair 750W Gold ATX 3.0
 
 <div class="gallery-grid">
   <figure>
-    <img src="/superlite_v2/posts/2024-07-19-building-my-studio-workstation/26_liter_compact_form_fac.webp" alt="26 liter compact form factor" />
+    <img src="/posts/2024-07-19-building-my-studio-workstation/26_liter_compact_form_fac.webp" alt="26 liter compact form factor" />
     <figcaption>26 liter compact form factor</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-07-19-building-my-studio-workstation/the_guts.webp" alt="The pieces" />
+    <img src="/posts/2024-07-19-building-my-studio-workstation/the_guts.webp" alt="The pieces" />
     <figcaption>The guts</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-07-19-building-my-studio-workstation/disassembly.webp" alt="Disassembly" />
+    <img src="/posts/2024-07-19-building-my-studio-workstation/disassembly.webp" alt="Disassembly" />
     <figcaption>Disassembly</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-07-19-building-my-studio-workstation/gallery_image_4.webp" alt="New build this week." />
+    <img src="/posts/2024-07-19-building-my-studio-workstation/gallery_image_4.webp" alt="New build this week." />
     <figcaption>Gallery Image 4</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-07-19-building-my-studio-workstation/building_aio.webp" alt="Building AIO" />
+    <img src="/posts/2024-07-19-building-my-studio-workstation/building_aio.webp" alt="Building AIO" />
     <figcaption>Building AIO</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-07-19-building-my-studio-workstation/adding_ram_and_m_2_drives.webp" alt="Adding RAM and M.2 drives" />
+    <img src="/posts/2024-07-19-building-my-studio-workstation/adding_ram_and_m_2_drives.webp" alt="Adding RAM and M.2 drives" />
     <figcaption>Adding RAM and M.2 drives</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-07-19-building-my-studio-workstation/routing.webp" alt="Routing" />
+    <img src="/posts/2024-07-19-building-my-studio-workstation/routing.webp" alt="Routing" />
     <figcaption>Routing</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-07-19-building-my-studio-workstation/much_more_cable_routing.webp" alt="Much more cable routing" />
+    <img src="/posts/2024-07-19-building-my-studio-workstation/much_more_cable_routing.webp" alt="Much more cable routing" />
     <figcaption>Much more cable routing</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-07-19-building-my-studio-workstation/more_yet.webp" alt="More yet" />
+    <img src="/posts/2024-07-19-building-my-studio-workstation/more_yet.webp" alt="More yet" />
     <figcaption>More yet</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-07-19-building-my-studio-workstation/did_i_mention_cable_routi.webp" alt="Did I mention cable routing" />
+    <img src="/posts/2024-07-19-building-my-studio-workstation/did_i_mention_cable_routi.webp" alt="Did I mention cable routing" />
     <figcaption>Did I mention cable routing</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-07-19-building-my-studio-workstation/done__4080_super_barely_f.webp" alt="Done! 4080 super barely fits. Used the space perfectly down to the millimeter" />
+    <img src="/posts/2024-07-19-building-my-studio-workstation/done__4080_super_barely_f.webp" alt="Done! 4080 super barely fits. Used the space perfectly down to the millimeter" />
     <figcaption>Done! 4080 super barely fits. Used the space perfectly down to the millimeter</figcaption>
   </figure>
 </div>

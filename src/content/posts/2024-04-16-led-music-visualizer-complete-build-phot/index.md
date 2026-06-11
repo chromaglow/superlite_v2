@@ -141,87 +141,87 @@ This LED matrix is not just a display. It is a record of what I learned and a pl
 
 <div class="gallery-grid">
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-led-music-visualizer-complete-build-phot/in_action.webp" alt="LED music visualizer complete build photos" />
+    <img src="/posts/2024-04-16-led-music-visualizer-complete-build-phot/in_action.webp" alt="LED music visualizer complete build photos" />
     <figcaption>In action...</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-led-music-visualizer-complete-build-phot/my_initial_sketch.webp" alt="LED music visualizer complete build photos" />
+    <img src="/posts/2024-04-16-led-music-visualizer-complete-build-phot/my_initial_sketch.webp" alt="LED music visualizer complete build photos" />
     <figcaption>My Initial Sketch</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-led-music-visualizer-complete-build-phot/the_first_of_what_would_b.webp" alt="LED music visualizer complete build photos" />
+    <img src="/posts/2024-04-16-led-music-visualizer-complete-build-phot/the_first_of_what_would_b.webp" alt="LED music visualizer complete build photos" />
     <figcaption>The first of what would be many power diagrams</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-led-music-visualizer-complete-build-phot/the_blank_chipboard_i_sta.webp" alt="LED music visualizer complete build photos" />
+    <img src="/posts/2024-04-16-led-music-visualizer-complete-build-phot/the_blank_chipboard_i_sta.webp" alt="LED music visualizer complete build photos" />
     <figcaption>The blank chipboard I started with</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-led-music-visualizer-complete-build-phot/the_first_few_rows_took_f.webp" alt="LED music visualizer complete build photos" />
+    <img src="/posts/2024-04-16-led-music-visualizer-complete-build-phot/the_first_few_rows_took_f.webp" alt="LED music visualizer complete build photos" />
     <figcaption>The first few rows took forever</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-led-music-visualizer-complete-build-phot/a_quick_test_tells_me_i_a.webp" alt="LED music visualizer complete build photos" />
+    <img src="/posts/2024-04-16-led-music-visualizer-complete-build-phot/a_quick_test_tells_me_i_a.webp" alt="LED music visualizer complete build photos" />
     <figcaption>A quick test tells me I am on the right track</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-led-music-visualizer-complete-build-phot/slow_going.webp" alt="LED music visualizer complete build photos" />
+    <img src="/posts/2024-04-16-led-music-visualizer-complete-build-phot/slow_going.webp" alt="LED music visualizer complete build photos" />
     <figcaption>Slow going</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-led-music-visualizer-complete-build-phot/next_time_i_will_buy_a_pr.webp" alt="LED music visualizer complete build photos" />
+    <img src="/posts/2024-04-16-led-music-visualizer-complete-build-phot/next_time_i_will_buy_a_pr.webp" alt="LED music visualizer complete build photos" />
     <figcaption>Next time I will buy a pre-built matrix</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-led-music-visualizer-complete-build-phot/victory__.webp" alt="LED music visualizer complete build photos" />
+    <img src="/posts/2024-04-16-led-music-visualizer-complete-build-phot/victory__.webp" alt="LED music visualizer complete build photos" />
     <figcaption>Victory!!</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-led-music-visualizer-complete-build-phot/the_matrix_stands_off_the.webp" alt="LED music visualizer complete build photos" />
+    <img src="/posts/2024-04-16-led-music-visualizer-complete-build-phot/the_matrix_stands_off_the.webp" alt="LED music visualizer complete build photos" />
     <figcaption>The matrix stands off the backboard</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-led-music-visualizer-complete-build-phot/shadow_box_channel_frame_.webp" alt="LED music visualizer complete build photos" />
+    <img src="/posts/2024-04-16-led-music-visualizer-complete-build-phot/shadow_box_channel_frame_.webp" alt="LED music visualizer complete build photos" />
     <figcaption>Shadow box channel frame is 65mm tall</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-led-music-visualizer-complete-build-phot/connecting_the_sound_inpu.webp" alt="LED music visualizer complete build photos" />
+    <img src="/posts/2024-04-16-led-music-visualizer-complete-build-phot/connecting_the_sound_inpu.webp" alt="LED music visualizer complete build photos" />
     <figcaption>Connecting the sound input expansion board to the system</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-led-music-visualizer-complete-build-phot/i_love_shrink_tube.webp" alt="LED music visualizer complete build photos" />
+    <img src="/posts/2024-04-16-led-music-visualizer-complete-build-phot/i_love_shrink_tube.webp" alt="LED music visualizer complete build photos" />
     <figcaption>I LOVE shrink tube</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-led-music-visualizer-complete-build-phot/power_and_data_distributi.webp" alt="LED music visualizer complete build photos" />
+    <img src="/posts/2024-04-16-led-music-visualizer-complete-build-phot/power_and_data_distributi.webp" alt="LED music visualizer complete build photos" />
     <figcaption>Power and data distribution on the back of the visualizer</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-led-music-visualizer-complete-build-phot/back_view.webp" alt="LED music visualizer complete build photos" />
+    <img src="/posts/2024-04-16-led-music-visualizer-complete-build-phot/back_view.webp" alt="LED music visualizer complete build photos" />
     <figcaption>Back view</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-led-music-visualizer-complete-build-phot/all_data_and_power_works_.webp" alt="LED music visualizer complete build photos" />
+    <img src="/posts/2024-04-16-led-music-visualizer-complete-build-phot/all_data_and_power_works_.webp" alt="LED music visualizer complete build photos" />
     <figcaption>All data and power works!!</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-led-music-visualizer-complete-build-phot/we_have_lift_off_.webp" alt="LED music visualizer complete build photos" />
+    <img src="/posts/2024-04-16-led-music-visualizer-complete-build-phot/we_have_lift_off_.webp" alt="LED music visualizer complete build photos" />
     <figcaption>We have lift off!</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-led-music-visualizer-complete-build-phot/diffusor_installed_and_ma.webp" alt="LED music visualizer complete build photos" />
+    <img src="/posts/2024-04-16-led-music-visualizer-complete-build-phot/diffusor_installed_and_ma.webp" alt="LED music visualizer complete build photos" />
     <figcaption>Diffusor installed and mango for scale, I didn't have a banana :)</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-led-music-visualizer-complete-build-phot/installed_on_the_hi_fi_ra.webp" alt="LED music visualizer complete build photos" />
+    <img src="/posts/2024-04-16-led-music-visualizer-complete-build-phot/installed_on_the_hi_fi_ra.webp" alt="LED music visualizer complete build photos" />
     <figcaption>Installed on the hi-fi rack</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-led-music-visualizer-complete-build-phot/so_many_options_for_prett.webp" alt="LED music visualizer complete build photos" />
+    <img src="/posts/2024-04-16-led-music-visualizer-complete-build-phot/so_many_options_for_prett.webp" alt="LED music visualizer complete build photos" />
     <figcaption>So many options for pretty colors</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-16-led-music-visualizer-complete-build-phot/if_you_made_it_this_far_y.webp" alt="LED music visualizer complete build photos" />
+    <img src="/posts/2024-04-16-led-music-visualizer-complete-build-phot/if_you_made_it_this_far_y.webp" alt="LED music visualizer complete build photos" />
     <figcaption>If you made it this far your reward is my cute puppers!</figcaption>
   </figure>
 </div>

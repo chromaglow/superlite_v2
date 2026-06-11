@@ -60,63 +60,63 @@ In an era where our work has become increasingly disembodied, the act of craftin
 
 <div class="gallery-grid">
   <figure>
-    <img src="/superlite_v2/posts/2024-04-03-building-a-beautiful-workstation-transfo/time_to_bring_my_a_game_f.webp" alt="I rebuilt my standing desk by woodworking a live edge slab of English Elm into desk top." />
+    <img src="/posts/2024-04-03-building-a-beautiful-workstation-transfo/time_to_bring_my_a_game_f.webp" alt="I rebuilt my standing desk by woodworking a live edge slab of English Elm into desk top." />
     <figcaption>Time to bring my A game for cord management next</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-03-building-a-beautiful-workstation-transfo/struck_by_inspiration.webp" alt="I rebuilt my standing desk by woodworking a live edge slab of English Elm into desk top." />
+    <img src="/posts/2024-04-03-building-a-beautiful-workstation-transfo/struck_by_inspiration.webp" alt="I rebuilt my standing desk by woodworking a live edge slab of English Elm into desk top." />
     <figcaption>Struck by inspiration</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-03-building-a-beautiful-workstation-transfo/the_finalists_.webp" alt="I rebuilt my standing desk by woodworking a live edge slab of English Elm into desk top." />
+    <img src="/posts/2024-04-03-building-a-beautiful-workstation-transfo/the_finalists_.webp" alt="I rebuilt my standing desk by woodworking a live edge slab of English Elm into desk top." />
     <figcaption>The finalists</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-03-building-a-beautiful-workstation-transfo/english_elm_was_the_winne.webp" alt="I rebuilt my standing desk by woodworking a live edge slab of English Elm into desk top." />
+    <img src="/posts/2024-04-03-building-a-beautiful-workstation-transfo/english_elm_was_the_winne.webp" alt="I rebuilt my standing desk by woodworking a live edge slab of English Elm into desk top." />
     <figcaption>English elm was the winner</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-03-building-a-beautiful-workstation-transfo/run_through_the_helical_p.webp" alt="I rebuilt my standing desk by woodworking a live edge slab of English Elm into desk top." />
+    <img src="/posts/2024-04-03-building-a-beautiful-workstation-transfo/run_through_the_helical_p.webp" alt="I rebuilt my standing desk by woodworking a live edge slab of English Elm into desk top." />
     <figcaption>Run through the helical planner, and sanded to 300 Grit</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-03-building-a-beautiful-workstation-transfo/beauty_marks.webp" alt="I rebuilt my standing desk by woodworking a live edge slab of English Elm into desk top." />
+    <img src="/posts/2024-04-03-building-a-beautiful-workstation-transfo/beauty_marks.webp" alt="I rebuilt my standing desk by woodworking a live edge slab of English Elm into desk top." />
     <figcaption>Beauty marks</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-03-building-a-beautiful-workstation-transfo/lightly_sanded_and_tacked.webp" alt="I rebuilt my standing desk by woodworking a live edge slab of English Elm into desk top." />
+    <img src="/posts/2024-04-03-building-a-beautiful-workstation-transfo/lightly_sanded_and_tacked.webp" alt="I rebuilt my standing desk by woodworking a live edge slab of English Elm into desk top." />
     <figcaption>lightly sanded and tacked between coats of shellac</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-03-building-a-beautiful-workstation-transfo/increasing_depth_with_eac.webp" alt="I rebuilt my standing desk by woodworking a live edge slab of English Elm into desk top." />
+    <img src="/posts/2024-04-03-building-a-beautiful-workstation-transfo/increasing_depth_with_eac.webp" alt="I rebuilt my standing desk by woodworking a live edge slab of English Elm into desk top." />
     <figcaption>Increasing depth with each coat</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-03-building-a-beautiful-workstation-transfo/how_do_you_even_choose_a_.webp" alt="I rebuilt my standing desk by woodworking a live edge slab of English Elm into desk top." />
+    <img src="/posts/2024-04-03-building-a-beautiful-workstation-transfo/how_do_you_even_choose_a_.webp" alt="I rebuilt my standing desk by woodworking a live edge slab of English Elm into desk top." />
     <figcaption>How do you even choose a side for the top</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-03-building-a-beautiful-workstation-transfo/shellac_on_both_sides_to_.webp" alt="I rebuilt my standing desk by woodworking a live edge slab of English Elm into desk top." />
+    <img src="/posts/2024-04-03-building-a-beautiful-workstation-transfo/shellac_on_both_sides_to_.webp" alt="I rebuilt my standing desk by woodworking a live edge slab of English Elm into desk top." />
     <figcaption>Shellac on both sides to prevent warping</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-03-building-a-beautiful-workstation-transfo/a_joy_to_touch.webp" alt="I rebuilt my standing desk by woodworking a live edge slab of English Elm into desk top." />
+    <img src="/posts/2024-04-03-building-a-beautiful-workstation-transfo/a_joy_to_touch.webp" alt="I rebuilt my standing desk by woodworking a live edge slab of English Elm into desk top." />
     <figcaption>A joy to touch</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-03-building-a-beautiful-workstation-transfo/warm_vibes.webp" alt="I rebuilt my standing desk by woodworking a live edge slab of English Elm into desk top." />
+    <img src="/posts/2024-04-03-building-a-beautiful-workstation-transfo/warm_vibes.webp" alt="I rebuilt my standing desk by woodworking a live edge slab of English Elm into desk top." />
     <figcaption>Warm vibes</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-03-building-a-beautiful-workstation-transfo/the_whole_room_is_brighte.webp" alt="I rebuilt my standing desk by woodworking a live edge slab of English Elm into desk top." />
+    <img src="/posts/2024-04-03-building-a-beautiful-workstation-transfo/the_whole_room_is_brighte.webp" alt="I rebuilt my standing desk by woodworking a live edge slab of English Elm into desk top." />
     <figcaption>The whole room is brighter now</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-03-building-a-beautiful-workstation-transfo/coasters_are_a_must.webp" alt="I rebuilt my standing desk by woodworking a live edge slab of English Elm into desk top." />
+    <img src="/posts/2024-04-03-building-a-beautiful-workstation-transfo/coasters_are_a_must.webp" alt="I rebuilt my standing desk by woodworking a live edge slab of English Elm into desk top." />
     <figcaption>Coasters are a must</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-04-03-building-a-beautiful-workstation-transfo/cute_pup_tax.webp" alt="I rebuilt my standing desk by woodworking a live edge slab of English Elm into desk top." />
+    <img src="/posts/2024-04-03-building-a-beautiful-workstation-transfo/cute_pup_tax.webp" alt="I rebuilt my standing desk by woodworking a live edge slab of English Elm into desk top." />
     <figcaption>Cute pup tax</figcaption>
   </figure>
 </div>

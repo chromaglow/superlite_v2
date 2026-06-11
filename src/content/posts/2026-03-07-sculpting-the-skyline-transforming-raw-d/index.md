@@ -54,91 +54,91 @@ Through this technical endeavor, I've gained valuable insights into the intricac
 
 <div class="gallery-grid">
   <figure>
-    <img src="/superlite_v2/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/raw_data_from_google__gis.webp" alt="Screenshot 2026-03-06 143752" />
+    <img src="/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/raw_data_from_google__gis.webp" alt="Screenshot 2026-03-06 143752" />
     <figcaption>Raw data from google, GIS and put in Blender</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/trimmed_in_edit_mode.webp" alt="Screenshot 2026-03-06 144207" />
+    <img src="/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/trimmed_in_edit_mode.webp" alt="Screenshot 2026-03-06 144207" />
     <figcaption>Trimmed in edit mode</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/the_red_circle_is_the_siz.webp" alt="Screenshot 2026-03-06 144105" />
+    <img src="/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/the_red_circle_is_the_siz.webp" alt="Screenshot 2026-03-06 144105" />
     <figcaption>The red circle is the size of the build plate...LOL</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/finished_trimmed_and_capp.webp" alt="Screenshot 2026-03-06 143207" />
+    <img src="/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/finished_trimmed_and_capp.webp" alt="Screenshot 2026-03-06 143207" />
     <figcaption>Finished trimmed and capped map</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/looking_ne_from_financial.webp" alt="Screenshot 2026-03-06 143513" />
+    <img src="/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/looking_ne_from_financial.webp" alt="Screenshot 2026-03-06 143513" />
     <figcaption>Looking NE from financial district</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/looking_toward_brooklyn_u.webp" alt="Screenshot 2026-03-06 143630" />
+    <img src="/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/looking_toward_brooklyn_u.webp" alt="Screenshot 2026-03-06 143630" />
     <figcaption>Looking toward Brooklyn upper East side</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/options_from_the_printed_.webp" alt="PXL_20240918_230335073" />
+    <img src="/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/options_from_the_printed_.webp" alt="PXL_20240918_230335073" />
     <figcaption>Options from the printed model</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/translucent_black.webp" alt="PXL_20240918_230352803" />
+    <img src="/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/translucent_black.webp" alt="PXL_20240918_230352803" />
     <figcaption>Translucent black</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/silver_grey.webp" alt="PXL_20240918_230425135" />
+    <img src="/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/silver_grey.webp" alt="PXL_20240918_230425135" />
     <figcaption>Silver grey</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/silk_black.webp" alt="PXL_20240918_230435216" />
+    <img src="/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/silk_black.webp" alt="PXL_20240918_230435216" />
     <figcaption>Silk black</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/all_white.webp" alt="PXL_20240918_230449258" />
+    <img src="/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/all_white.webp" alt="PXL_20240918_230449258" />
     <figcaption>All White</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/silver_in_larger_scale.webp" alt="PXL_20240918_230509264" />
+    <img src="/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/silver_in_larger_scale.webp" alt="PXL_20240918_230509264" />
     <figcaption>Silver in larger scale</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/i_settled_on_classic_whit.webp" alt="PXL_20240919_130130456" />
+    <img src="/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/i_settled_on_classic_whit.webp" alt="PXL_20240919_130130456" />
     <figcaption>I Settled on classic white and grey used in architecture models</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/all_options_.webp" alt="PXL_20240919_151210933" />
+    <img src="/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/all_options_.webp" alt="PXL_20240919_151210933" />
     <figcaption>All options</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/after_breaking_into_piece.webp" alt="PXL_20241005_195320781" />
+    <img src="/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/after_breaking_into_piece.webp" alt="PXL_20241005_195320781" />
     <figcaption>After breaking into pieces printing the outside edges.</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/almost_done.webp" alt="PXL_20241019_150856417" />
+    <img src="/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/almost_done.webp" alt="PXL_20241019_150856417" />
     <figcaption>Almost done</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/_up_close.webp" alt="PXL_20241019_164808586" />
+    <img src="/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/_up_close.webp" alt="PXL_20241019_164808586" />
     <figcaption>up close</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/2_74_meters_end_to_end.webp" alt="PXL_20250305_142518531" />
+    <img src="/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/2_74_meters_end_to_end.webp" alt="PXL_20250305_142518531" />
     <figcaption>2.74 Meters end to end</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/tallest_buildings_are_100.webp" alt="PXL_20250305_142604478" />
+    <img src="/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/tallest_buildings_are_100.webp" alt="PXL_20250305_142604478" />
     <figcaption>Tallest buildings are 100mm</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/battery_park.webp" alt="PXL_20250305_142622041" />
+    <img src="/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/battery_park.webp" alt="PXL_20250305_142622041" />
     <figcaption>Battery Park</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/looking_toward_brooklyn.webp" alt="PXL_20250305_142536135" />
+    <img src="/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/looking_toward_brooklyn.webp" alt="PXL_20250305_142536135" />
     <figcaption>Looking toward Brooklyn</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/fin.webp" alt="PXL_20250305_142631910" />
+    <img src="/posts/2026-03-07-sculpting-the-skyline-transforming-raw-d/fin.webp" alt="PXL_20250305_142631910" />
     <figcaption>Fin</figcaption>
   </figure>
 </div>

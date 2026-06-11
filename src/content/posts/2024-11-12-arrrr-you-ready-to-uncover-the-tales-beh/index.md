@@ -52,23 +52,23 @@ The laser-etching technique produces remarkably crisp, detailed depictions of th
 
 <div class="gallery-grid">
   <figure>
-    <img src="/superlite_v2/posts/2024-11-12-arrrr-you-ready-to-uncover-the-tales-beh/arrrrrrr_you_ready_to_not.webp" alt="PXL_20240411_231332051" />
+    <img src="/posts/2024-11-12-arrrr-you-ready-to-uncover-the-tales-beh/arrrrrrr_you_ready_to_not.webp" alt="PXL_20240411_231332051" />
     <figcaption>Arrrrrrr you ready to not leave rings on the furniture</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-11-12-arrrr-you-ready-to-uncover-the-tales-beh/this_treasure_is_hidden.webp" alt="PXL_20240411_231321050" />
+    <img src="/posts/2024-11-12-arrrr-you-ready-to-uncover-the-tales-beh/this_treasure_is_hidden.webp" alt="PXL_20240411_231321050" />
     <figcaption>This treasure is hidden</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-11-12-arrrr-you-ready-to-uncover-the-tales-beh/no_hint_of_booty_hidden_h.webp" alt="PXL_20240411_231253649" />
+    <img src="/posts/2024-11-12-arrrr-you-ready-to-uncover-the-tales-beh/no_hint_of_booty_hidden_h.webp" alt="PXL_20240411_231253649" />
     <figcaption>No hint of booty hidden here</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-11-12-arrrr-you-ready-to-uncover-the-tales-beh/img_1772495702397_ybyho93.webp" alt="PXL_20240411_231347141" />
+    <img src="/posts/2024-11-12-arrrr-you-ready-to-uncover-the-tales-beh/img_1772495702397_ybyho93.webp" alt="PXL_20240411_231347141" />
     <figcaption></figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-11-12-arrrr-you-ready-to-uncover-the-tales-beh/initial_concept_.webp" alt="PXL_20240410_234519672" />
+    <img src="/posts/2024-11-12-arrrr-you-ready-to-uncover-the-tales-beh/initial_concept_.webp" alt="PXL_20240410_234519672" />
     <figcaption>Initial concept sketch</figcaption>
   </figure>
 </div>

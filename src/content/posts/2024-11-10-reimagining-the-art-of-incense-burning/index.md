@@ -41,39 +41,39 @@ Through this project, I've gained valuable insights into balancing form, functio
 
 <div class="gallery-grid">
   <figure>
-    <img src="/superlite_v2/posts/2024-11-10-reimagining-the-art-of-incense-burning/v13_s_form_is_a_simple_so.webp" alt="incense experiament v7_2" />
+    <img src="/posts/2024-11-10-reimagining-the-art-of-incense-burning/v13_s_form_is_a_simple_so.webp" alt="incense experiament v7_2" />
     <figcaption>V13's form is a simple soft square</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-11-10-reimagining-the-art-of-incense-burning/cad_front_3_4_.webp" alt="front_strip" />
+    <img src="/posts/2024-11-10-reimagining-the-art-of-incense-burning/cad_front_3_4_.webp" alt="front_strip" />
     <figcaption>CAD front 3/4 </figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-11-10-reimagining-the-art-of-incense-burning/cad_rear_3_4.webp" alt="back_stripped" />
+    <img src="/posts/2024-11-10-reimagining-the-art-of-incense-burning/cad_rear_3_4.webp" alt="back_stripped" />
     <figcaption>CAD rear 3/4</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-11-10-reimagining-the-art-of-incense-burning/side_view.webp" alt="side" />
+    <img src="/posts/2024-11-10-reimagining-the-art-of-incense-burning/side_view.webp" alt="side" />
     <figcaption>Side view</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-11-10-reimagining-the-art-of-incense-burning/parting_line_for_both_hal.webp" alt="cracked_open" />
+    <img src="/posts/2024-11-10-reimagining-the-art-of-incense-burning/parting_line_for_both_hal.webp" alt="cracked_open" />
     <figcaption>Parting line for both halfs</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-11-10-reimagining-the-art-of-incense-burning/internal_storage.webp" alt="open" />
+    <img src="/posts/2024-11-10-reimagining-the-art-of-incense-burning/internal_storage.webp" alt="open" />
     <figcaption>Internal storage</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-11-10-reimagining-the-art-of-incense-burning/v13_front_tray_out.webp" alt="tray out" />
+    <img src="/posts/2024-11-10-reimagining-the-art-of-incense-burning/v13_front_tray_out.webp" alt="tray out" />
     <figcaption>V13 front tray out</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-11-10-reimagining-the-art-of-incense-burning/v13_front_assembled_.webp" alt="front" />
+    <img src="/posts/2024-11-10-reimagining-the-art-of-incense-burning/v13_front_assembled_.webp" alt="front" />
     <figcaption>V13 front assembled </figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-11-10-reimagining-the-art-of-incense-burning/v13_walnut_concept.webp" alt="incense experiament v7_3" />
+    <img src="/posts/2024-11-10-reimagining-the-art-of-incense-burning/v13_walnut_concept.webp" alt="incense experiament v7_3" />
     <figcaption>V13 walnut concept</figcaption>
   </figure>
 </div>

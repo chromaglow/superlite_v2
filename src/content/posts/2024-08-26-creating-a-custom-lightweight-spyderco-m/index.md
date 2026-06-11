@@ -57,51 +57,51 @@ Importantly, the careful selection and layering of these custom materials result
 
 <div class="gallery-grid">
   <figure>
-    <img src="/superlite_v2/posts/2024-08-26-creating-a-custom-lightweight-spyderco-m/the_beast.webp" alt="PXL_20240825_135254780" />
+    <img src="/posts/2024-08-26-creating-a-custom-lightweight-spyderco-m/the_beast.webp" alt="PXL_20240825_135254780" />
     <figcaption>The beast</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-08-26-creating-a-custom-lightweight-spyderco-m/a_scale.webp" alt="PXL_20240827_191147459" />
+    <img src="/posts/2024-08-26-creating-a-custom-lightweight-spyderco-m/a_scale.webp" alt="PXL_20240827_191147459" />
     <figcaption>A scale</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-08-26-creating-a-custom-lightweight-spyderco-m/quick_solid_model.webp" alt="PXL_20240825_183920275" />
+    <img src="/posts/2024-08-26-creating-a-custom-lightweight-spyderco-m/quick_solid_model.webp" alt="PXL_20240825_183920275" />
     <figcaption>Quick solid model</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-08-26-creating-a-custom-lightweight-spyderco-m/on_the_slicer.webp" alt="PXL_20240825_183954928" />
+    <img src="/posts/2024-08-26-creating-a-custom-lightweight-spyderco-m/on_the_slicer.webp" alt="PXL_20240825_183954928" />
     <figcaption>On the slicer</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-08-26-creating-a-custom-lightweight-spyderco-m/infill_will_make_this_fun.webp" alt="PXL_20240826_203754577" />
+    <img src="/posts/2024-08-26-creating-a-custom-lightweight-spyderco-m/infill_will_make_this_fun.webp" alt="PXL_20240826_203754577" />
     <figcaption>Infill will make this fun</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-08-26-creating-a-custom-lightweight-spyderco-m/the_tactical_look.webp" alt="PXL_20240825_184306230" />
+    <img src="/posts/2024-08-26-creating-a-custom-lightweight-spyderco-m/the_tactical_look.webp" alt="PXL_20240825_184306230" />
     <figcaption>The tactical look</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-08-26-creating-a-custom-lightweight-spyderco-m/light_or_dark_side_.webp" alt="PXL_20240826_194953345" />
+    <img src="/posts/2024-08-26-creating-a-custom-lightweight-spyderco-m/light_or_dark_side_.webp" alt="PXL_20240826_194953345" />
     <figcaption>Light or dark side?</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-08-26-creating-a-custom-lightweight-spyderco-m/taste_the_rainbow.webp" alt="PXL_20240827_185704820" />
+    <img src="/posts/2024-08-26-creating-a-custom-lightweight-spyderco-m/taste_the_rainbow.webp" alt="PXL_20240827_185704820" />
     <figcaption>Taste the rainbow</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-08-26-creating-a-custom-lightweight-spyderco-m/a_color_for_every_occasio.webp" alt="PXL_20240904_000226540" />
+    <img src="/posts/2024-08-26-creating-a-custom-lightweight-spyderco-m/a_color_for_every_occasio.webp" alt="PXL_20240904_000226540" />
     <figcaption>A color for every occasion</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-08-26-creating-a-custom-lightweight-spyderco-m/large_hex_clip_side.webp" alt="PXL_20240904_000306912" />
+    <img src="/posts/2024-08-26-creating-a-custom-lightweight-spyderco-m/large_hex_clip_side.webp" alt="PXL_20240904_000306912" />
     <figcaption>Large hex clip side</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-08-26-creating-a-custom-lightweight-spyderco-m/axis_lock_side.webp" alt="PXL_20240904_000333848" />
+    <img src="/posts/2024-08-26-creating-a-custom-lightweight-spyderco-m/axis_lock_side.webp" alt="PXL_20240904_000333848" />
     <figcaption>Axis lock side</figcaption>
   </figure>
   <figure>
-    <img src="/superlite_v2/posts/2024-08-26-creating-a-custom-lightweight-spyderco-m/15_grams_lighter__.webp" alt="PXL_20250612_175422611" />
+    <img src="/posts/2024-08-26-creating-a-custom-lightweight-spyderco-m/15_grams_lighter__.webp" alt="PXL_20250612_175422611" />
     <figcaption>15 grams lighter!!</figcaption>
   </figure>
 </div>
